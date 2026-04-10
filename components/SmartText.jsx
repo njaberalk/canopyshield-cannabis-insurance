@@ -69,7 +69,7 @@ const LINK_MAP = [
 export default function SmartText({ text, className, style }) {
   const pathname = usePathname();
   if (!text) return null;
-  const currentPath = pathname?.replace(/\/cannabis/, '') || '';
+  const currentPath = pathname?.replace(/\/cannabis\//, '/').replace(/\/cannabis$/, '') || '';
   const parts = autoLink(text, currentPath);
 
   return (

@@ -4,15 +4,17 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 // Basic coverage metadata for cross-linking
 const allCoverages = {
-  'auto-liability': { title: 'Primary Auto Liability', desc: 'Liability protection for at-fault accidents' },
-  'physical-damage': { title: 'Physical Damage', desc: 'Covers repair or replacement of your vehicles' },
-  'motor-truck-cargo': { title: 'Motor Truck Cargo', desc: 'Protects goods in transit' },
-  'general-liability': { title: 'General Liability', desc: 'Third-party claims outside vehicle operation' },
-  'non-trucking-liability': { title: 'Non-Trucking Liability', desc: 'Coverage for personal use of truck' },
-  'trailer-interchange': { title: 'Trailer Interchange', desc: 'Covers trailers under interchange agreements' },
+  'general-liability': { title: 'General Liability', desc: 'Third-party bodily injury and property damage claims' },
+  'product-liability': { title: 'Product Liability', desc: 'Covers claims from cannabis products sold or distributed' },
+  'property-insurance': { title: 'Property Insurance', desc: 'Protects facilities, equipment, and inventory' },
   'workers-compensation': { title: 'Workers\' Compensation', desc: 'Employee injury wage and medical benefits' },
+  'crop-harvest': { title: 'Crop & Harvest', desc: 'Protects cannabis crops from loss or damage' },
+  'cyber-liability': { title: 'Cyber Liability', desc: 'Data breach and digital security coverage' },
+  'commercial-auto': { title: 'Commercial Auto', desc: 'Vehicle coverage for delivery and transport' },
+  'equipment-breakdown': { title: 'Equipment Breakdown', desc: 'Covers HVAC, lighting, and grow equipment failures' },
+  'directors-officers': { title: 'Directors & Officers', desc: 'Management liability protection' },
+  'crime-theft': { title: 'Crime & Theft', desc: 'Protection against theft of cash and inventory' },
   'umbrella-excess-liability': { title: 'Umbrella / Excess', desc: 'Additional liability protection layer' },
-  'occupational-accident': { title: 'Occupational Accident', desc: 'Coverage for independent contractors' },
 };
 
 export default function RelatedCoverages({ slugs, title = 'Related Coverage' }) {

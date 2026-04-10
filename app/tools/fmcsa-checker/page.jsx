@@ -1,29 +1,29 @@
-import FMCSACheckerContent from './FMCSACheckerContent';
+import CannabisCheckerContent from './FMCSACheckerContent';
 
 export const metadata = {
-  title: 'FMCSA Coverage Requirements Checker',
-  description: 'Find out exactly what insurance coverage your trucking operation needs. Select your cargo type and authority to see FMCSA minimum requirements, required filings, and recommended coverages.',
+  title: 'State Cannabis Legality & Coverage Checker',
+  description: 'Check cannabis legality status by state and find out what insurance coverage your cannabis business needs. See legal status, required coverages, and regulatory notes for all 50 states.',
   alternates: {
     canonical: 'https://canopyshield.com/cannabis/tools/fmcsa-checker/',
   },
   openGraph: {
-    title: 'FMCSA Coverage Requirements Checker | CanopyShield',
-    description: 'Interactive tool to determine your trucking insurance requirements based on cargo type and authority.',
+    title: 'State Cannabis Legality & Coverage Checker | CanopyShield',
+    description: 'Interactive tool to check cannabis legality and insurance requirements by state and business type.',
     url: 'https://canopyshield.com/cannabis/tools/fmcsa-checker/',
     type: 'website',
   },
 };
 
-export default function FMCSACheckerPage() {
+export default function CannabisCheckerPage() {
   const jsonLd = [
     {
       '@context': 'https://schema.org',
       '@type': 'WebApplication',
-      name: 'FMCSA Coverage Requirements Checker',
+      name: 'State Cannabis Legality & Coverage Checker',
       url: 'https://canopyshield.com/cannabis/tools/fmcsa-checker/',
       applicationCategory: 'BusinessApplication',
       provider: { '@type': 'InsuranceAgency', name: 'CanopyShield', url: 'https://canopyshield.com' },
-      description: 'Interactive tool to determine your FMCSA trucking insurance requirements by cargo type and authority.',
+      description: 'Interactive tool to check cannabis legality status and insurance requirements by state and business type.',
     },
   ];
 
@@ -32,7 +32,7 @@ export default function FMCSACheckerPage() {
       {jsonLd.map((ld, i) => (
         <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       ))}
-      <FMCSACheckerContent />
+      <CannabisCheckerContent />
     </>
   );
 }

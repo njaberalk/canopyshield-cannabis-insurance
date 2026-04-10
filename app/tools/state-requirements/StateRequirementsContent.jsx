@@ -27,10 +27,10 @@ export default function StateRequirementsContent() {
         <div className="relative max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4 text-center">
           <p className="text-blue uppercase tracking-[0.15em] font-bold mb-4" style={{ fontSize: '0.85rem' }}>Free Tool</p>
           <h1 className="text-stone font-extrabold tracking-tight mb-4" style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', lineHeight: '1.1' }}>
-            State Trucking Insurance Requirements
+            State Cannabis Insurance Requirements
           </h1>
           <p className="text-cream font-light mx-auto" style={{ fontSize: '1.1rem', lineHeight: '1.6', maxWidth: '600px' }}>
-            Select a state to see minimum insurance requirements, workers compensation rules, filing deadlines, and important state-specific regulations.
+            Select a state to see minimum insurance requirements, workers compensation rules, regulatory agencies, and important state-specific cannabis regulations.
           </p>
         </div>
       </section>
@@ -116,11 +116,11 @@ export default function StateRequirementsContent() {
               <div className="grid sm:grid-cols-2 gap-4 mt-6">
                 <Link href={`/states/${result.slug}/`} className="block border-2 border-ash rounded-[2rem] p-5 hover:border-blue-dark no-underline" style={{ transition: 'all 0.24s' }}>
                   <span className="text-blue-dark uppercase tracking-[0.12em] font-bold block mb-1" style={{ fontSize: '0.65rem' }}>Detailed Info</span>
-                  <span className="text-brand font-bold block" style={{ fontSize: '0.9rem' }}>Trucking Insurance in {result.state} →</span>
+                  <span className="text-brand font-bold block" style={{ fontSize: '0.9rem' }}>Cannabis Insurance in {result.state} →</span>
                 </Link>
                 <Link href="/tools/fmcsa-checker/" className="block border-2 border-ash rounded-[2rem] p-5 hover:border-blue-dark no-underline" style={{ transition: 'all 0.24s' }}>
                   <span className="text-blue-dark uppercase tracking-[0.12em] font-bold block mb-1" style={{ fontSize: '0.65rem' }}>Tool</span>
-                  <span className="text-brand font-bold block" style={{ fontSize: '0.9rem' }}>FMCSA Requirements Checker →</span>
+                  <span className="text-brand font-bold block" style={{ fontSize: '0.9rem' }}>Cannabis Legality & Coverage Checker →</span>
                 </Link>
               </div>
             </div>

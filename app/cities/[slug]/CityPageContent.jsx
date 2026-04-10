@@ -62,7 +62,7 @@ export default function CityPageContent({ city }) {
         <section className="bg-stone" style={{ padding: '5rem 0' }}>
           <div className="max-w-[900px] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
             <h2 className="text-brand font-bold leading-[1.3] tracking-tight mb-8 text-center" style={{ fontSize: 'clamp(1.8rem, 3vw, 2.2rem)' }}>
-              Trucking Insurance FAQ — {city.city}, {city.abbreviation}
+              Cannabis Insurance FAQ — {city.city}, {city.abbreviation}
             </h2>
             <div className="space-y-4">
               {city.faqs.map((faq, i) => <FaqItem key={i} faq={faq} />)}
@@ -102,14 +102,14 @@ export default function CityPageContent({ city }) {
             <div>
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Statewide Coverage</h3>
               <Link href={`/states/${city.stateSlug}/`} className="block text-cream hover:text-gold no-underline mb-2" style={{ fontSize: '0.9rem', transition: 'color 0.2s' }}>
-                Trucking Insurance in {city.state} →
+                Cannabis Insurance in {city.state} →
               </Link>
               <p className="text-cream/50" style={{ fontSize: '0.8rem' }}>View state requirements, corridors, and coverage details</p>
             </div>
             <div>
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Industries We Serve</h3>
               <div className="space-y-2">
-                {['owner-operators', 'small-fleets', 'large-fleets', 'flatbed', 'hazmat'].map(slug => (
+                {['dispensaries', 'indoor-cultivation', 'outdoor-greenhouse', 'processors', 'distributors'].map(slug => (
                   <Link key={slug} href={`/industries/${slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                   </Link>
@@ -120,9 +120,9 @@ export default function CityPageContent({ city }) {
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Resources</h3>
               <div className="space-y-2">
                 {[
-                  { slug: 'trucking-insurance-cost', label: 'How Much Does It Cost?' },
-                  { slug: 'fmcsa-insurance-requirements', label: 'FMCSA Requirements' },
-                  { slug: 'new-authority-insurance', label: 'New Authority Insurance' },
+                  { slug: 'cannabis-insurance-cost', label: 'How Much Does It Cost?' },
+                  { slug: 'cannabis-insurance-requirements', label: 'Cannabis Insurance Requirements' },
+                  { slug: 'starting-dispensary-insurance', label: 'Starting a Dispensary Guide' },
                 ].map(r => (
                   <Link key={r.slug} href={`/resources/${r.slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {r.label}

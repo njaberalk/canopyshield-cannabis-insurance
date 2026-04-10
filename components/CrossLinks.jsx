@@ -7,9 +7,9 @@ export function RelatedIndustries({ slugs, title = 'Industries That Need This Co
   if (!slugs?.length) return null;
 
   const industryNames = {
-    'owner-operators': 'Owner-Operators', 'small-fleets': 'Small Fleets', 'large-fleets': 'Large Fleets',
-    'hot-shot-trucking': 'Hot Shot Trucking', 'ltl-last-mile': 'LTL / Last Mile', 'intermodal': 'Intermodal',
-    'refrigerated': 'Refrigerated', 'flatbed': 'Flatbed', 'hazmat': 'Hazmat', 'car-haulers': 'Car Haulers',
+    'dispensaries': 'Dispensaries', 'indoor-cultivation': 'Indoor Cultivation', 'outdoor-greenhouse': 'Outdoor / Greenhouse',
+    'processors': 'Processors', 'distributors': 'Distributors', 'testing-labs': 'Testing Labs',
+    'vertically-integrated': 'Vertically Integrated', 'hemp-cbd': 'Hemp / CBD', 'delivery-services': 'Delivery Services', 'ancillary-businesses': 'Ancillary Businesses',
   };
 
   return (
@@ -33,15 +33,15 @@ export function RelatedResourceLinks({ slugs, title = 'Helpful Resources' }) {
   if (!slugs?.length) return null;
 
   const resourceNames = {
-    'trucking-insurance-cost': 'How Much Does Trucking Insurance Cost?',
-    'fmcsa-insurance-requirements': 'FMCSA Insurance Requirements',
-    'new-authority-insurance': 'Insurance for New Authority',
-    'lower-trucking-insurance-premiums': 'How to Lower Your Premiums',
-    'commercial-auto-vs-trucking-insurance': 'Commercial Auto vs Trucking Insurance',
-    'primary-vs-non-trucking-liability': 'Primary vs Non-Trucking Liability',
-    'occupational-accident-vs-workers-comp': 'Occupational Accident vs Workers Comp',
-    'trucking-insurance-claims-guide': 'Claims Guide',
-    'trucking-insurance-glossary': 'Insurance Glossary',
+    'cannabis-insurance-cost': 'How Much Does Cannabis Insurance Cost?',
+    'cannabis-insurance-requirements': 'Cannabis Insurance Requirements',
+    'starting-dispensary-insurance': 'Starting a Dispensary Insurance Guide',
+    'product-liability-cannabis': 'Product Liability for Cannabis',
+    'cannabis-insurance-glossary': 'Cannabis Insurance Glossary',
+    'cannabis-compliance-guide': 'Cannabis Compliance Guide',
+    'cultivation-insurance-guide': 'Cultivation Insurance Guide',
+    'cannabis-claims-guide': 'Cannabis Claims Guide',
+    'hemp-cbd-insurance-guide': 'Hemp & CBD Insurance Guide',
   };
 
   return (

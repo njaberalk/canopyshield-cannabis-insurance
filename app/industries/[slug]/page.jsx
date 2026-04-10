@@ -36,7 +36,7 @@ export default async function IndustryPage({ params }) {
     provider: { '@type': 'InsuranceAgency', name: 'CanopyShield', url: 'https://canopyshield.com/cannabis' },
     description: industry.metaDescription,
     url: `https://canopyshield.com/cannabis/industries/${industry.slug}/`,
-    serviceType: 'Commercial Trucking Insurance',
+    serviceType: 'Cannabis Business Insurance',
     areaServed: { '@type': 'Country', name: 'United States' },
   };
 
