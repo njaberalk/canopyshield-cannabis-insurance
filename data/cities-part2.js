@@ -5,50 +5,59 @@ export const citiesPart2 = [
     state: 'California',
     stateSlug: 'california',
     abbreviation: 'CA',
-    metaTitle: 'Trucking Insurance in Fresno, CA',
+    metaTitle: 'Cannabis Insurance in Fresno, CA',
     metaDescription:
-      'Commercial trucking insurance in Fresno, California. Coverage for carriers hauling agricultural freight through the Central Valley and across the western states.',
-    heroHeading: 'Fresno Trucking Insurance',
+      'Cannabis business insurance in Fresno, California. Coverage for dispensaries, cultivation facilities, and processors in the Central Valley agricultural corridor.',
+    heroHeading: 'Fresno Cannabis Insurance',
     heroSubheading:
-      "Coverage for carriers operating in California's Central Valley agricultural corridor.",
+      "Coverage for cannabis businesses operating in California's Central Valley.",
     overview:
-      "Fresno sits at the heart of California's San Joaquin Valley, the most productive agricultural region in the United States. The city serves as a critical consolidation point for produce, dairy, and livestock shipments heading to markets across the country. Its position along Highway 99 and proximity to I-5 make it a natural staging area for refrigerated and flatbed carriers serving the western United States.",
+      "Fresno sits at the heart of California's San Joaquin Valley, a region with deep agricultural expertise now being applied to large-scale cannabis cultivation. Fresno County opted in to allow commercial cannabis operations in 2020, opening the door for dispensaries, cultivation, manufacturing, and distribution licenses. The city's agricultural infrastructure, including irrigation systems, greenhouse facilities, and processing equipment, provides a strong foundation for cannabis operators looking to scale. Fresno's central location between Los Angeles and the Bay Area makes it a strategic hub for cannabis distribution across the state.",
     sections: [
       {
-        heading: 'Trucking in Fresno',
+        heading: 'Cannabis Market in Fresno',
         content:
-          "Fresno's trucking industry is driven by agriculture. The region produces billions of dollars in crops annually, including grapes, almonds, tomatoes, and citrus, all requiring timely transportation to processing plants, cold storage facilities, and distribution centers. Carriers operating here handle everything from bulk grain to temperature-sensitive produce loads that demand strict cold chain compliance.\n\nBeyond agriculture, Fresno has developed a growing distribution sector. Several national retailers have built fulfillment centers in the area, attracted by lower real estate costs compared to coastal California and strong highway connectivity to both northern and southern population centers.",
+          "Fresno's cannabis market is anchored by its agricultural heritage. The Central Valley's fertile soil, abundant sunshine, and established farming infrastructure have attracted cultivators seeking cost-effective large-scale outdoor and mixed-light growing operations. The city has issued a limited number of retail dispensary licenses, creating a competitive market with strong demand.\n\nBeyond cultivation, Fresno is seeing growth in cannabis manufacturing and distribution. Processing facilities are converting agricultural products into edibles, concentrates, and topicals, leveraging the region's existing food processing expertise. The city's position along Highway 99 and its proximity to I-5 support efficient distribution to markets throughout California.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'Highway 99 is the primary north-south artery through Fresno, connecting the city to Sacramento, Bakersfield, and dozens of agricultural communities. I-5 runs parallel to the west, providing a faster route for long-haul carriers heading to Los Angeles or the Pacific Northwest. Highway 41 links Fresno to Yosemite and the Sierra Nevada communities to the north, while Highway 180 provides east-west connectivity. Carriers frequently use Highway 152 to reach the Bay Area via Pacheco Pass.',
+          "Cannabis operations in Fresno are concentrated in industrial zones along Highway 99 and in the city's southern and western agricultural areas. The Shaw Avenue commercial corridor and areas near the Fresno Yosemite International Airport have attracted dispensary applications. Cultivation operations are primarily located in agricultural zones on the city's outskirts and in unincorporated areas of Fresno County where zoning permits cannabis farming alongside traditional agriculture.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Refrigerated breakdown coverage for reefer units hauling produce and dairy products',
-          'Cargo spoilage insurance for temperature-sensitive agricultural shipments',
-          'Seasonal coverage adjustments for harvest peak periods from May through October',
-          'Highway 99 corridor coverage for frequent agricultural short-haul routes',
+          'General liability coverage for dispensary foot traffic and customer interactions',
+          'Product liability protection for edibles and concentrates manufactured locally',
+          'Property insurance for cultivation greenhouses and processing equipment',
+          'Workers compensation for agricultural laborers and dispensary employees',
+          'Crop and harvest coverage for outdoor and mixed-light cannabis cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Do I need special coverage for hauling agricultural products in Fresno?',
-        a: 'Yes. Agricultural cargo often requires refrigerated trailer endorsements and spoilage coverage. If your reefer unit fails and a load of produce spoils, standard cargo insurance may not cover the loss without a specific perishable goods endorsement.',
+        q: 'What insurance do cannabis cultivators in Fresno need?',
+        a: "Cannabis cultivators in Fresno should carry crop and harvest insurance to protect against loss from pests, mold, or environmental damage. Property coverage for greenhouses and equipment is essential, along with general liability and workers compensation for farm employees. California's cannabis regulations require proof of insurance as part of the licensing process.",
       },
       {
-        q: 'How does seasonal freight volume affect my insurance in the Central Valley?',
-        a: 'Harvest season from May through October significantly increases truck traffic on Highway 99 and local farm roads. Some carriers add temporary equipment and drivers during peak periods, which requires notifying your insurer to maintain proper coverage.',
+        q: 'How does Fresno County cannabis licensing affect insurance requirements?',
+        a: "Fresno County requires cannabis businesses to maintain specific insurance coverage as a condition of their local license. This typically includes general liability with minimum limits, property insurance, and workers compensation. Working with an insurer experienced in California cannabis regulations helps ensure your coverage meets both state and local requirements.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'reefer-breakdown',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -57,50 +66,59 @@ export const citiesPart2 = [
     state: 'California',
     stateSlug: 'california',
     abbreviation: 'CA',
-    metaTitle: 'Trucking Insurance in Stockton, CA',
+    metaTitle: 'Cannabis Insurance in Stockton, CA',
     metaDescription:
-      'Commercial trucking insurance in Stockton, California. Protection for carriers serving the Port of Stockton and Central Valley intermodal operations.',
-    heroHeading: 'Stockton Trucking Insurance',
+      'Cannabis business insurance in Stockton, California. Protection for dispensaries, cultivation operations, and processors in the Central Valley inland port city.',
+    heroHeading: 'Stockton Cannabis Insurance',
     heroSubheading:
-      'Insurance solutions for carriers at the crossroads of inland port and agricultural freight.',
+      'Insurance solutions for cannabis businesses in the Central Valley.',
     overview:
-      "Stockton is an inland port city in California's Central Valley with a deep-water channel connecting it to the San Francisco Bay and Pacific Ocean. The Port of Stockton handles bulk commodities including cement, fertilizer, and agricultural exports. The city's location at the junction of I-5 and Highway 99 makes it a key transfer point between Northern and Southern California freight markets.",
+      "Stockton is an inland port city in California's Central Valley that has embraced the cannabis industry as part of its economic revitalization. The city began issuing cannabis business permits for dispensaries, cultivation, manufacturing, and distribution operations, attracting entrepreneurs looking for affordable real estate compared to coastal California. Stockton's location at the junction of I-5 and Highway 99, with proximity to both the Bay Area and Sacramento markets, makes it a logistically advantageous base for cannabis businesses serving Northern California.",
     sections: [
       {
-        heading: 'Trucking in Stockton',
+        heading: 'Cannabis Market in Stockton',
         content:
-          "Stockton's trucking sector benefits from its dual identity as both a port city and an agricultural hub. Drayage carriers move containers between the Port of Stockton and regional warehouses, while agricultural haulers transport the valley's produce and processed food products. The city has attracted major distribution center investments from Amazon, Dollar General, and other national retailers.\n\nThe intermodal facilities in Stockton connect truck and rail freight, with both BNSF and Union Pacific maintaining operations in the area. This creates steady demand for local cartage and container transport services.",
+          "Stockton's cannabis market has developed rapidly with the city's decision to license retail and commercial cannabis operations. Several dispensaries now operate throughout the metro area, serving both the local population and consumers from surrounding communities. The city's lower real estate costs compared to San Francisco or Sacramento have attracted cannabis manufacturers and distributors looking to build processing and warehouse facilities.\n\nCultivation operations in the Stockton area leverage the Central Valley's agricultural climate and infrastructure. Indoor grows have set up in converted industrial and warehouse spaces, while outdoor and greenhouse operations take advantage of the region's long growing season.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-5 runs through Stockton providing direct access north to Sacramento and south to Los Angeles. Highway 99 parallels I-5 to the east, serving agricultural communities throughout the valley. I-205 connects Stockton to the Bay Area via Tracy and I-580. Highway 4 provides east-west access to the Bay Area through Antioch and to the Sierra foothills.',
+          "Dispensaries in Stockton are spread across commercial zones, with concentrations along Pacific Avenue, March Lane, and the Miracle Mile district. Manufacturing and distribution operations have clustered in industrial areas near the Port of Stockton and along the Highway 99 corridor. Cultivation facilities are found in agricultural zones south of the city and in neighboring San Joaquin County, where rural parcels provide space for larger grows.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Port drayage coverage for container hauling to and from the Port of Stockton',
-          'Intermodal interchange insurance for trailer and container swap operations',
-          'Flood zone considerations for equipment stored near the San Joaquin River delta',
-          'Agricultural cargo coverage for Central Valley produce and bulk grain shipments',
+          'General liability for dispensary and retail storefront operations',
+          'Product liability for cannabis edibles and manufactured concentrates',
+          'Property insurance for warehouse conversions and processing facilities',
+          'Workers compensation for cultivation, manufacturing, and retail staff',
+          'Crop and harvest coverage for Central Valley growing operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Do I need separate coverage for port drayage operations in Stockton?',
-        a: 'Port drayage involves unique exposures including container damage during loading and unloading, chassis interchange liability, and terminal operations. Your auto liability policy should specifically address port and terminal operations if you regularly service the Port of Stockton.',
+        q: 'What insurance is required for a cannabis dispensary in Stockton?',
+        a: "Stockton dispensary operators need general liability coverage for customer and third-party bodily injury or property damage claims, product liability for items sold, and property insurance covering inventory, fixtures, and tenant improvements. Workers compensation is required for all employees under California law. The city's cannabis ordinance specifies minimum insurance requirements as part of the permitting process.",
       },
       {
-        q: 'How does Stockton\'s flood risk affect my trucking insurance?',
-        a: 'Stockton sits in the San Joaquin River delta, which has flood exposure. If you store equipment in flood-prone areas, your physical damage policy may require a separate flood endorsement. Review your yard storage locations with your agent.',
+        q: 'Does Stockton require specific insurance for cannabis delivery services?',
+        a: "Cannabis delivery services operating from Stockton need commercial auto coverage for delivery vehicles, general liability, product liability for transported goods, and workers compensation. California's Bureau of Cannabis Control requires delivery employees to carry a copy of the employer's license and adhere to strict transport protocols, and your insurance should cover these specific delivery exposures.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -109,50 +127,59 @@ export const citiesPart2 = [
     state: 'California',
     stateSlug: 'california',
     abbreviation: 'CA',
-    metaTitle: 'Trucking Insurance in Sacramento, CA',
+    metaTitle: 'Cannabis Insurance in Sacramento, CA',
     metaDescription:
-      'Commercial trucking insurance in Sacramento, California. Coverage for carriers operating in the state capital region and Northern California distribution network.',
-    heroHeading: 'Sacramento Trucking Insurance',
+      'Cannabis business insurance in Sacramento, California. Coverage for dispensaries, cultivators, and processors in the state capital near the Emerald Triangle.',
+    heroHeading: 'Sacramento Cannabis Insurance',
     heroSubheading:
-      'Protecting carriers at the northern gateway to California\'s Central Valley.',
+      "Protecting cannabis businesses in California's capital city and gateway to the Emerald Triangle.",
     overview:
-      'Sacramento serves as a critical freight hub where Northern California\'s agricultural output meets the state\'s consumer distribution network. The capital region sits at the confluence of I-5 and I-80, creating a natural crossroads for carriers moving freight between the Pacific Northwest, Bay Area, Central Valley, and Reno-Tahoe corridor. The city\'s growing population and expanding warehouse sector continue to increase local freight demand.',
+      "Sacramento is California's state capital and a rapidly growing cannabis market situated near the legendary Emerald Triangle cultivation region. The city's proximity to state regulatory agencies, including the Department of Cannabis Control, gives local operators direct access to the policymakers shaping the industry. Sacramento has issued numerous dispensary licenses, with retail shops operating in Midtown, along major commercial corridors, and throughout the greater metro area. The region's warm climate supports outdoor and greenhouse cultivation, while the city's urban core hosts manufacturing and distribution operations.",
     sections: [
       {
-        heading: 'Trucking in Sacramento',
+        heading: 'Cannabis Market in Sacramento',
         content:
-          'Sacramento\'s trucking industry serves multiple markets. Long-haul carriers use the city as a rest and relay point on I-5 runs between Los Angeles and the Pacific Northwest. Regional carriers distribute consumer goods to the growing metro area, which has added significant population and retail development in recent decades.\n\nThe area around West Sacramento and the McClellan Business Park has become a distribution cluster, with food and beverage companies, building materials suppliers, and e-commerce fulfillment centers driving consistent freight volume. The city also handles significant government freight related to its role as the state capital.',
+          "Sacramento has established itself as one of the most active cannabis markets in Northern California. The city was an early adopter of cannabis business permitting, and the region now hosts dozens of licensed dispensaries, delivery services, and manufacturing operations. Sacramento's role as the state capital means cannabis businesses operate alongside the regulatory framework that governs them, creating opportunities for industry advocacy and compliance leadership.\n\nThe broader Sacramento region benefits from its position as a gateway to the Emerald Triangle counties of Humboldt, Mendocino, and Trinity, where much of California's premium cannabis has historically been cultivated. Distribution companies based in Sacramento move product between Northern California growers and markets statewide.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-5 is the primary north-south corridor connecting Sacramento to Redding, Portland, Los Angeles, and San Diego. I-80 runs east to Reno and the national interstate system, crossing the Sierra Nevada at Donner Pass. Highway 99 heads south through the Central Valley agricultural belt. Highway 50 connects to the Bay Area through Davis and provides an alternate eastern route to Lake Tahoe. US-99 and I-80 Business Loop handle local distribution traffic.',
+          "Dispensaries in Sacramento are concentrated in Midtown along J and K Streets, the Broadway corridor in Land Park, Watt Avenue in the eastern suburbs, and along Stockton Boulevard. The Florin Road and Fruitridge Road areas have attracted cannabis retail as well. Manufacturing and distribution operations are located in industrial areas along North B Street, the Richards Boulevard corridor, and in the North Highlands and Arden-Arcade communities. Cultivation facilities operate in agricultural zones east of the city toward Rancho Cordova and Elk Grove.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Mountain pass coverage for carriers crossing Donner Pass on I-80 during winter',
-          'Government contractor coverage for haulers serving state agency contracts',
-          'Multi-stop distribution insurance for metro area delivery operations',
-          'Tow and recovery coverage for Sierra Nevada breakdowns and winter incidents',
+          'General liability for dispensary and retail operations in high-traffic areas',
+          'Product liability for manufactured edibles, concentrates, and vape products',
+          'Property insurance for storefronts, warehouses, and grow facilities',
+          'Workers compensation for all cannabis business employees',
+          'Cyber liability for point-of-sale systems and customer data protection',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Do I need special insurance for hauling freight over Donner Pass?',
-        a: 'Winter operations over Donner Pass on I-80 involve chain requirements, steep grades, and frequent closures. Your policy should include adequate towing and recovery limits for mountain terrain, and your cargo coverage should address delays caused by pass closures.',
+        q: 'How does Sacramento proximity to state regulators affect cannabis insurance?',
+        a: "Being near the Department of Cannabis Control headquarters can be advantageous for compliance but does not change insurance requirements. Sacramento cannabis businesses must meet the same state insurance mandates as operators elsewhere in California. However, local operators may benefit from faster access to regulatory guidance, which can help maintain compliance and reduce risk exposure.",
       },
       {
-        q: 'How does Sacramento\'s summer heat affect trucking insurance considerations?',
-        a: 'Sacramento regularly exceeds 100 degrees in summer, which increases tire blowout risk and reefer unit strain. Ensure your physical damage policy covers heat-related mechanical failures and that your cargo coverage addresses spoilage from reefer breakdowns in extreme heat.',
+        q: 'What insurance do cannabis delivery services in Sacramento need?',
+        a: "Sacramento-based cannabis delivery services need commercial auto insurance for all delivery vehicles, general liability, product liability for goods in transit, and workers compensation. California requires delivery drivers to operate from a licensed premises, so your coverage should also extend to the dispatch location and address in-transit theft and loss exposures.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'non-trucking-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -161,52 +188,59 @@ export const citiesPart2 = [
     state: 'California',
     stateSlug: 'california',
     abbreviation: 'CA',
-    metaTitle: 'Trucking Insurance in Ontario, CA',
+    metaTitle: 'Cannabis Insurance in Ontario, CA',
     metaDescription:
-      'Commercial trucking insurance in Ontario, California. Coverage for carriers in the Inland Empire distribution and warehousing corridor.',
-    heroHeading: 'Ontario Trucking Insurance',
+      'Cannabis business insurance in Ontario, California. Coverage for dispensaries, processors, and distributors in the Inland Empire cannabis corridor.',
+    heroHeading: 'Ontario Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in one of America\'s largest warehousing and distribution regions.',
+      "Insurance for cannabis businesses in the Inland Empire's logistics hub.",
     overview:
-      'Ontario is at the center of the Inland Empire, the largest warehouse and distribution market in the United States. The region handles a massive share of goods imported through the ports of Los Angeles and Long Beach, with over 1 billion square feet of warehouse space in the surrounding area. Ontario International Airport adds air cargo capacity, making the city a true multimodal freight hub.',
+      "Ontario sits at the center of the Inland Empire, a region that has become a significant cannabis business corridor in Southern California. The city's vast industrial and warehouse infrastructure, originally built to support goods distribution from the ports of Los Angeles and Long Beach, has proven ideal for cannabis cultivation, manufacturing, and distribution operations. Ontario's central location between Los Angeles, the desert communities, and San Diego makes it a strategic hub for cannabis businesses serving the broader Southern California market.",
     sections: [
       {
-        heading: 'Trucking in Ontario',
+        heading: 'Cannabis Market in Ontario',
         content:
-          'Ontario\'s trucking operations are dominated by drayage and distribution work. Thousands of trucks daily move containers from the San Pedro Bay ports to Inland Empire warehouses along the I-10 and I-15 corridors. Once goods are received, deconsolidated, and redistributed, a second wave of carriers moves them to retailers and consumers across the western states.\n\nThe region hosts distribution centers for major retailers including Amazon, Walmart, Target, and Home Depot. The concentration of warehouse space creates intense demand for local cartage, LTL operations, and last-mile delivery services alongside traditional truckload freight.',
+          "Ontario and the surrounding Inland Empire communities have developed a growing cannabis industry. Large warehouse and industrial spaces along the I-10 and I-15 corridors have been converted into indoor cultivation facilities and manufacturing operations. The region's relatively lower real estate costs compared to Los Angeles proper have attracted cannabis entrepreneurs seeking scale.\n\nThe city has permitted retail dispensaries in commercial zones, and the broader San Bernardino County area hosts a mix of licensed cannabis operations. Distribution companies based in Ontario leverage the same logistics infrastructure that makes the Inland Empire the nation's largest warehousing market to move cannabis products efficiently across Southern California.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-10 is the primary east-west corridor connecting Ontario to Los Angeles, Palm Springs, Phoenix, and points east. I-15 runs north-south linking the city to Las Vegas, the High Desert, and San Diego via I-215. Highway 60 provides an alternate east-west route through the Inland Empire. Highway 71 connects to Pomona and the San Gabriel Valley. The I-10/I-15 interchange in Ontario is one of the busiest freight intersections in the nation.',
+          "Cannabis retail operations in Ontario are located along major commercial corridors including Holt Boulevard, Fourth Street, and areas near Ontario Mills Mall. Indoor cultivation and manufacturing facilities are concentrated in industrial parks along the I-10 corridor, in the Guasti and Cucamonga areas, and near Ontario International Airport. Distribution operations have set up along the I-15 corridor and in the Haven Avenue industrial zone, taking advantage of the area's highway connectivity.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'High-traffic corridor coverage for congested I-10 and I-15 interchange operations',
-          'Container drayage insurance for port-to-warehouse freight movements',
-          'Warehouse-to-warehouse cargo coverage for distribution center transfers',
-          'Air quality compliance coverage for California CARB-regulated equipment',
-          'High-value cargo insurance for electronics and consumer goods distribution',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for manufactured cannabis goods including edibles and vapes',
+          'Property insurance for converted warehouse cultivation and processing facilities',
+          'Workers compensation for indoor grow teams and manufacturing employees',
+          'Crop and harvest coverage for large-scale indoor cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Inland Empire congestion affect my trucking insurance rates?',
-        a: 'The heavy truck traffic on I-10 and I-15 through Ontario results in higher accident frequency compared to less congested markets. Insurers factor in the density of truck-to-truck and truck-to-car interactions when pricing your policy, so maintaining a clean safety record is especially important here.',
+        q: 'What insurance do indoor cannabis cultivators in Ontario need?',
+        a: "Indoor cultivators in Ontario should carry property insurance covering their grow facility, HVAC systems, lighting, and irrigation equipment. Crop and harvest coverage protects against plant loss from equipment failure, contamination, or environmental events. General liability, workers compensation, and product liability round out the essential coverage package for Inland Empire cultivation operations.",
       },
       {
-        q: 'Do I need special coverage for port drayage between LA/Long Beach and Ontario?',
-        a: 'Yes. Port drayage involves specific exposures including container damage, chassis interchange liability, and detention/demurrage risks. Your policy should address these terminal-specific operations and the congested corridor between the ports and Inland Empire warehouses.',
+        q: 'How does Ontario zoning affect cannabis insurance requirements?',
+        a: "Ontario restricts cannabis businesses to specific commercial and industrial zones. Operating within permitted zones is critical because most insurance policies require the business to be in full compliance with local regulations. If your zoning approval is revoked, your insurance coverage could be jeopardized. Always verify your location meets current Ontario cannabis zoning requirements before binding coverage.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'hired-and-non-owned-auto',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -215,50 +249,59 @@ export const citiesPart2 = [
     state: 'California',
     stateSlug: 'california',
     abbreviation: 'CA',
-    metaTitle: 'Trucking Insurance in Bakersfield, CA',
+    metaTitle: 'Cannabis Insurance in Bakersfield, CA',
     metaDescription:
-      'Commercial trucking insurance in Bakersfield, California. Protection for carriers hauling agricultural and petroleum freight through the southern San Joaquin Valley.',
-    heroHeading: 'Bakersfield Trucking Insurance',
+      'Cannabis business insurance in Bakersfield, California. Protection for dispensaries, cultivation facilities, and processors in the southern San Joaquin Valley.',
+    heroHeading: 'Bakersfield Cannabis Insurance',
     heroSubheading:
-      'Coverage for carriers serving agriculture and energy industries in the southern Central Valley.',
+      "Coverage for cannabis businesses in the southern Central Valley's agricultural corridor.",
     overview:
-      'Bakersfield anchors the southern end of California\'s San Joaquin Valley, where agriculture and petroleum production generate enormous freight demand. The city sits at the base of the Tehachapi Mountains where Highway 99 meets Highway 58, making it the gateway between the Central Valley and the Mojave Desert, Las Vegas, and the southwestern United States.',
+      "Bakersfield anchors the southern end of California's San Joaquin Valley, where the region's agricultural expertise is being applied to cannabis cultivation. While the City of Bakersfield has maintained restrictions on cannabis retail, Kern County has permitted certain cannabis operations in unincorporated areas, and the broader region hosts cultivation and processing facilities. Bakersfield's warm climate, agricultural labor force, and farming infrastructure make it a natural location for large-scale cannabis growing operations, particularly outdoor and greenhouse cultivation.",
     sections: [
       {
-        heading: 'Trucking in Bakersfield',
+        heading: 'Cannabis Market in Bakersfield',
         content:
-          'Bakersfield\'s freight economy is driven by two major industries: agriculture and oil. Kern County is one of the top agricultural producing counties in the nation, generating heavy truck traffic for crops including grapes, citrus, almonds, and carrots. Simultaneously, the Kern River oil field and surrounding petroleum operations create demand for tanker trucks, oilfield equipment haulers, and supply chain logistics.\n\nThe city also serves as a transload point where Central Valley agricultural products are consolidated for long-haul shipment over the Tehachapi Pass to Southern California and beyond.',
+          "The Bakersfield cannabis landscape reflects the tension between local government restrictions and market demand. While the city itself has limited cannabis retail, unincorporated areas of Kern County have allowed cultivation and manufacturing operations. Delivery services operating under state licenses serve consumers who lack access to nearby brick-and-mortar dispensaries.\n\nOutdoor and greenhouse cannabis cultivation has taken root in the agricultural zones surrounding Bakersfield, where operators benefit from long growing seasons, existing irrigation infrastructure, and agricultural supply chains. Processing facilities have also emerged, converting raw cannabis into extracts, edibles, and other manufactured products for distribution statewide.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'Highway 99 is the primary route north through the Central Valley to Fresno and Sacramento. Highway 58 crosses the Tehachapi Mountains eastward to Barstow and connects to I-15 and I-40. I-5 runs west of the city, connecting to the Grapevine pass and I-5 south to Los Angeles. Highway 178 heads east toward Lake Isabella and the Kern River canyon. Highway 65 runs north toward Porterville and the citrus belt.',
+          "Cannabis operations around Bakersfield are primarily located in unincorporated Kern County areas rather than within city limits. Cultivation facilities have established in agricultural zones east and south of the city, near communities like Arvin, Lamont, and Shafter. Manufacturing operations occupy industrial properties along Highway 99 and Highway 58 corridors. Cannabis delivery services operate from licensed premises throughout the greater Bakersfield area, serving consumers across the southern Central Valley.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Tanker and hazmat coverage for petroleum product hauling operations',
-          'Mountain grade coverage for Tehachapi Pass and Grapevine descent on I-5',
-          'Agricultural cargo insurance for Central Valley produce and nut shipments',
-          'Oilfield equipment coverage for oversized and heavy haul operations',
+          'General liability for cannabis delivery and retail operations',
+          'Product liability for manufactured cannabis edibles and concentrates',
+          'Property insurance for agricultural grow sites and greenhouse facilities',
+          'Workers compensation for cultivation and processing employees',
+          'Crop and harvest coverage for outdoor cannabis growing operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for hauling petroleum products in Kern County?',
-        a: 'Hauling petroleum products requires hazmat-endorsed auto liability with minimum limits of $1,000,000 or $5,000,000 depending on the specific materials. You also need pollution liability coverage and a properly filed MCS-90 endorsement with the FMCSA.',
+        q: 'Can I get cannabis insurance if my operation is in unincorporated Kern County?',
+        a: "Yes. Cannabis insurance is available for operations in unincorporated Kern County that hold valid state and local licenses. Your insurer will verify that your business operates in compliance with both Kern County cannabis ordinances and California state regulations. Proper licensing documentation is essential when applying for cannabis business insurance in this area.",
       },
       {
-        q: 'Does driving the Grapevine or Tehachapi Pass affect my insurance?',
-        a: 'Both passes involve steep grades that increase brake failure and runaway truck risks. Insurers may evaluate your safety record on mountain routes. Adequate towing and recovery coverage is essential given the limited access for heavy recovery equipment in mountainous terrain.',
+        q: 'What are the risks specific to outdoor cannabis cultivation near Bakersfield?',
+        a: "Outdoor cannabis cultivation in the Bakersfield area faces risks including extreme summer heat exceeding 110 degrees, wildfire smoke exposure affecting plant quality, pest pressure, and potential theft in remote agricultural areas. Crop and harvest insurance, property coverage for fencing and security systems, and general liability are critical for growers operating in this environment.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -267,50 +310,59 @@ export const citiesPart2 = [
     state: 'Arizona',
     stateSlug: 'arizona',
     abbreviation: 'AZ',
-    metaTitle: 'Trucking Insurance in Tucson, AZ',
+    metaTitle: 'Cannabis Insurance in Tucson, AZ',
     metaDescription:
-      'Commercial trucking insurance in Tucson, Arizona. Coverage for carriers on the I-10 corridor and cross-border freight operations with Mexico.',
-    heroHeading: 'Tucson Trucking Insurance',
+      'Cannabis business insurance in Tucson, Arizona. Coverage for dispensaries, cultivation facilities, and processors in the Sonoran Desert cannabis market.',
+    heroHeading: 'Tucson Cannabis Insurance',
     heroSubheading:
-      'Coverage for carriers on the I-10 corridor and near the Nogales border crossing.',
+      "Coverage for cannabis businesses in Arizona's second-largest city.",
     overview:
-      'Tucson is a major trucking waypoint on the I-10 corridor between Phoenix and El Paso, and a gateway for cross-border trade with Mexico through the Nogales port of entry. The city handles significant volumes of fresh produce imported from Mexico along with manufactured goods moving through the CANAMEX trade corridor. Its position in the Sonoran Desert creates unique operational challenges for carriers.',
+      "Tucson has developed a thriving cannabis market since Arizona voters approved recreational marijuana through Proposition 207 in 2020, building on the medical marijuana framework established in 2010. The city's dispensary landscape includes established operators along major corridors like Speedway Boulevard and Broadway, serving both medical patients and recreational consumers. Tucson's desert climate supports greenhouse cultivation operations, and the city's university community and tourism industry drive steady consumer demand year-round.",
     sections: [
       {
-        heading: 'Trucking in Tucson',
+        heading: 'Cannabis Market in Tucson',
         content:
-          'Tucson\'s freight industry benefits from its strategic position on I-10, one of the busiest transcontinental freight corridors. The city serves as a relay and rest point for cross-country loads and as a staging area for cross-border shipments through Nogales, which is the primary port of entry for Mexican produce entering the United States.\n\nThe Tucson metro area has developed its own warehouse and distribution sector, with the Tucson Airport Authority industrial area and the Port of Tucson intermodal facility handling rail-to-truck transfers. Davis-Monthan Air Force Base and Raytheon Missiles & Defense also generate specialized freight demand.',
+          "Tucson's cannabis industry has grown significantly since recreational legalization. The city hosts numerous licensed dispensaries that transitioned from medical-only to dual-use operations, along with newer retail entrants. Cultivation facilities in the Tucson area range from indoor warehouse grows to greenhouse operations that leverage the region's abundant sunshine.\n\nThe market benefits from Tucson's role as a university city, with the University of Arizona bringing a steady population of consumers. The city's tourism sector and proximity to the Mexican border create additional market dynamics. Cannabis testing laboratories have also established in the Tucson area, supporting the supply chain's quality assurance requirements.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-10 runs east-west through Tucson connecting Phoenix to the west and El Paso to the east. I-19 runs south from Tucson to the Nogales border crossing, serving as the primary route for Mexican produce imports. Highway 77 heads north toward Oracle and connects to routes leading to the Phoenix metro area. Highway 86 runs west to the Tohono O\'odham Nation and connects to Routes leading to Yuma.',
+          "Dispensaries in Tucson are clustered along Speedway Boulevard, Broadway Boulevard, Oracle Road, and the Fourth Avenue district near downtown. The Grant Road corridor and areas near Tucson Mall also host retail cannabis operations. Cultivation and manufacturing facilities are located in industrial zones along I-10, near Tucson International Airport, and in the south side industrial areas. Testing laboratories operate from commercial properties throughout the metro area.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Cross-border coverage extensions for Mexico freight operations through Nogales',
-          'Extreme heat protection for cargo and equipment in Sonoran Desert conditions',
-          'Produce and perishable cargo coverage for Mexican agricultural imports',
-          'Desert breakdown and towing coverage for remote stretches of I-10',
+          'General liability for dispensary retail operations and customer safety',
+          'Product liability for cannabis flower, edibles, and concentrate products',
+          'Property insurance for cultivation facilities and retail storefronts',
+          'Workers compensation for dispensary staff and grow facility employees',
+          'Crop and harvest coverage for greenhouse and indoor cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Do I need Mexican insurance to haul freight across the border at Nogales?',
-        a: 'US insurance policies typically do not extend into Mexico. If your trucks cross the border, you need a separate Mexican liability policy. If you only pick up loads at the US side of the border in Nogales, your standard US policy applies, but ensure it covers the border zone operations.',
+        q: 'What insurance do Arizona cannabis dispensaries in Tucson need?',
+        a: "Arizona dispensary operators in Tucson need general liability, product liability, property insurance, and workers compensation coverage at minimum. The Arizona Department of Health Services requires licensees to maintain adequate insurance. Given Tucson's high foot traffic dispensary locations, adequate premises liability limits are especially important.",
       },
       {
-        q: 'How does desert heat affect my trucking insurance in Tucson?',
-        a: 'Summer temperatures exceeding 110 degrees increase tire blowout risk, reefer unit failures, and driver fatigue incidents. Insurers may review your heat mitigation protocols. Ensure your physical damage coverage addresses heat-related mechanical failures.',
+        q: 'Does Tucson desert climate affect cannabis cultivation insurance?',
+        a: "Tucson's desert climate creates specific cultivation risks including extreme heat stress on plants, high cooling costs for indoor grows, dust storms affecting outdoor operations, and monsoon season flooding. Your crop and harvest insurance and property coverage should address these desert-specific environmental exposures that can damage crops or facilities.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'non-trucking-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -319,50 +371,59 @@ export const citiesPart2 = [
     state: 'Texas',
     stateSlug: 'texas',
     abbreviation: 'TX',
-    metaTitle: 'Trucking Insurance in Amarillo, TX',
+    metaTitle: 'Cannabis Insurance in Amarillo, TX',
     metaDescription:
-      'Commercial trucking insurance in Amarillo, Texas. Protection for carriers at the crossroads of I-40 and I-27 in the Texas Panhandle.',
-    heroHeading: 'Amarillo Trucking Insurance',
+      'Cannabis business insurance in Amarillo, Texas. Coverage for hemp and CBD businesses operating in the Texas Panhandle under the state Compassionate Use Program.',
+    heroHeading: 'Amarillo Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-40 crossroads in the Texas Panhandle.',
+      'Insurance for hemp, CBD, and compassionate use cannabis operations in the Texas Panhandle.',
     overview:
-      'Amarillo sits at the intersection of I-40 and I-27 in the Texas Panhandle, making it a vital rest and refueling stop for transcontinental freight. The city is a major hub for cattle and meatpacking operations, with several large feedlots and processing plants in the surrounding area. Its position on the historic Route 66 corridor means Amarillo sees enormous east-west truck traffic daily.',
+      "Texas maintains one of the most restrictive cannabis programs in the nation, limiting THC cannabis to the Compassionate Use Program for patients with qualifying conditions. However, the 2019 Texas Hemp Plan legalized hemp cultivation and CBD product manufacturing, creating opportunities for cannabis-adjacent businesses in Amarillo and the Panhandle region. Hemp cultivation, CBD extraction, and product manufacturing are active in the area, leveraging the region's vast agricultural land and farming expertise. As the Texas cannabis landscape continues to evolve, Amarillo businesses need proper insurance coverage for compliant operations.",
     sections: [
       {
-        heading: 'Trucking in Amarillo',
+        heading: 'Cannabis Market in Amarillo',
         content:
-          'Amarillo\'s trucking industry revolves around two pillars: transcontinental through-traffic on I-40 and regional agricultural freight. The city is home to one of the largest concentrations of cattle feedlots in the world, and meatpacking plants operated by Tyson, JBS, and others generate substantial refrigerated freight. The Pantex nuclear weapons facility north of the city creates specialized hazmat hauling requirements.\n\nTruck stops and service centers along I-40 through Amarillo are among the busiest in the country, reflecting the city\'s role as a mandatory rest stop on the 2,500-mile corridor between the East Coast and California.',
+          "Amarillo's cannabis market is focused on hemp and CBD operations under Texas law. The Panhandle's agricultural economy has embraced hemp cultivation, with farmers exploring the crop as a diversification strategy alongside traditional cotton and cattle operations. CBD product retailers have opened throughout the city, selling oils, topicals, edibles, and other hemp-derived products.\n\nThe Compassionate Use Program has limited reach in Amarillo, with few licensed dispensing organizations operating in the Panhandle. However, industry advocates continue to push for expanded cannabis access in Texas, and businesses positioning themselves now in the hemp and CBD space will be well situated if the regulatory environment broadens.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-40 crosses through Amarillo east-west, connecting Oklahoma City to the east and Albuquerque to the west on one of America\'s busiest transcontinental freight routes. I-27 runs south to Lubbock through the heart of cattle country. US-287 heads southeast toward Dallas-Fort Worth and northwest toward Colorado. US-385 provides north-south connectivity to the broader Panhandle region.',
+          "CBD retail shops in Amarillo are located along major commercial corridors including Coulter Street, Georgia Street, and the Wolflin Village area. Hemp cultivation operations are spread across the Panhandle's agricultural zones in Potter and Randall counties. Processing and extraction facilities that convert hemp biomass into CBD products are located in industrial areas along I-40 and in business parks near Amarillo's western suburbs.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Livestock hauling coverage for cattle transport from Panhandle feedlots',
-          'Refrigerated cargo insurance for meatpacking and processed food shipments',
-          'Severe weather coverage for Panhandle blizzards, dust storms, and tornadoes',
-          'Long-haul corridor coverage for I-40 transcontinental operations',
+          'General liability for CBD retail stores and hemp product businesses',
+          'Product liability for CBD edibles, tinctures, and topical products',
+          'Property insurance for hemp processing and extraction facilities',
+          'Workers compensation for cultivation and manufacturing employees',
+          'Crop and harvest coverage for hemp cultivation in the Panhandle',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for hauling cattle in the Texas Panhandle?',
-        a: 'Livestock hauling requires specialized cargo coverage that accounts for the value of live animals and mortality risk during transit. Your policy should cover animal mortality, escape, and loading/unloading injuries. Livestock haulers also face unique liability exposures if animals escape and cause accidents.',
+        q: 'Can I get cannabis insurance for a CBD business in Amarillo?',
+        a: "Yes. Hemp and CBD businesses that comply with the Texas Hemp Plan and maintain proper licensing can obtain commercial insurance coverage. Your products must contain less than 0.3 percent THC to qualify as legal hemp under Texas law. Insurers will verify your compliance with state regulations and may require documentation of third-party lab testing results.",
       },
       {
-        q: 'How do Panhandle weather conditions affect my trucking insurance?',
-        a: 'The Texas Panhandle experiences extreme weather including blizzards, ice storms, dust storms, and tornadoes. These conditions increase accident risk significantly. Comprehensive physical damage coverage is essential, and your policy should include provisions for weather-related cargo damage.',
+        q: 'How does Texas cannabis law affect insurance options in Amarillo?',
+        a: "Texas restricts THC cannabis to the Compassionate Use Program, which limits the scope of available cannabis operations. Hemp and CBD businesses have more insurance options because they operate under the federally legal hemp framework. If Texas expands its cannabis program, insurance products will evolve accordingly. Currently, focus on coverage designed for hemp cultivation, CBD manufacturing, and compliant product retail.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -371,50 +432,59 @@ export const citiesPart2 = [
     state: 'Texas',
     stateSlug: 'texas',
     abbreviation: 'TX',
-    metaTitle: 'Trucking Insurance in Lubbock, TX',
+    metaTitle: 'Cannabis Insurance in Lubbock, TX',
     metaDescription:
-      'Commercial trucking insurance in Lubbock, Texas. Coverage for carriers serving the South Plains cotton, agriculture, and oil industries.',
-    heroHeading: 'Lubbock Trucking Insurance',
+      'Cannabis business insurance in Lubbock, Texas. Coverage for hemp cultivation, CBD businesses, and compassionate use operations on the South Plains.',
+    heroHeading: 'Lubbock Cannabis Insurance',
     heroSubheading:
-      'Protecting carriers in the South Plains agricultural and energy freight market.',
+      'Insurance for hemp and CBD businesses on the Texas South Plains.',
     overview:
-      'Lubbock is the commercial hub of the Texas South Plains, a region that produces more cotton than almost anywhere else in the United States. The city connects to I-27, US-84, and US-87, serving as a distribution center for agricultural products, petroleum industry supplies, and consumer goods across a vast, sparsely populated region of West Texas.',
+      "Lubbock sits in the heart of the Texas South Plains, a region traditionally known for cotton farming that is now exploring hemp cultivation as a new agricultural opportunity. Under the Texas Hemp Plan, farmers in the Lubbock area can grow industrial hemp for fiber, grain, and CBD extraction. CBD retail shops have opened throughout the city, and processing facilities are beginning to establish in the region. While full THC cannabis remains restricted under Texas law, the hemp and CBD market provides insurable business opportunities for Lubbock entrepreneurs.",
     sections: [
       {
-        heading: 'Trucking in Lubbock',
+        heading: 'Cannabis Market in Lubbock',
         content:
-          'Lubbock\'s trucking industry is closely tied to cotton production and processing. During harvest season, trucks haul cotton modules from fields to gins and then baled cotton to warehouses and textile facilities. The surrounding region also produces grain sorghum, cattle, and increasingly, wind energy components that require specialized heavy haul transport.\n\nThe city serves as a regional distribution hub, with carriers supplying groceries, building materials, and retail goods to communities across the South Plains and eastern New Mexico.',
+          "Lubbock's cannabis-adjacent market centers on hemp cultivation and CBD product sales. South Plains farmers, experienced with row crops and the challenges of West Texas agriculture, have begun integrating hemp into their operations. The crop requires less water than cotton in many cases, making it an attractive option in the semi-arid climate.\n\nCBD retail has expanded across Lubbock, with specialty shops and smoke shops offering a range of hemp-derived products. Some retailers also carry Delta-8 THC products where permitted under Texas law. The presence of Texas Tech University provides a steady consumer base and research interest in hemp agronomy and cannabinoid science.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-27 connects Lubbock to Amarillo to the north and terminates at the south end of the city. US-84 runs southeast toward Abilene and Post, Texas. US-87 heads south toward Big Spring and San Angelo. US-62/82 runs east toward Wichita Falls and west to Hobbs, New Mexico. Highway 114 provides a connection toward Dallas-Fort Worth through the rolling plains.',
+          "CBD retailers in Lubbock operate along University Avenue near Texas Tech, the South Loop 289 commercial corridor, and in shopping centers on Slide Road and Quaker Avenue. Hemp cultivation is concentrated in agricultural areas of Lubbock County and surrounding counties including Hockley, Crosby, and Lynn. Processing operations are establishing in industrial zones along the Marsha Sharp Freeway and in business parks on the east side of the city.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Agricultural commodity coverage for cotton, grain, and livestock shipments',
-          'Seasonal surge coverage during cotton harvest from October through January',
-          'Wind energy component hauling insurance for oversized turbine loads',
-          'Remote area towing coverage for breakdowns on sparsely populated highways',
+          'General liability for CBD retail stores and hemp product businesses',
+          'Product liability for manufactured CBD and hemp-derived products',
+          'Property insurance for processing facilities and extraction equipment',
+          'Workers compensation for agricultural and manufacturing employees',
+          'Crop and harvest coverage for South Plains hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What coverage do I need for hauling cotton in the Lubbock area?',
-        a: 'Cotton hauling requires cargo coverage that addresses the commodity\'s fire risk and weather sensitivity. Cotton modules and bales can spontaneously combust if moisture levels are wrong, so your cargo policy should specifically cover fire losses. Coverage limits should reflect the value of a full load of baled cotton.',
+        q: 'What insurance does a hemp farmer near Lubbock need?',
+        a: "Hemp farmers near Lubbock need crop insurance covering the plants from planting through harvest, property insurance for farming equipment and structures, general liability for farm operations, and workers compensation for any employees. Federal crop insurance programs for hemp have expanded, but specialty cannabis crop coverage may provide better protection for the unique risks of hemp cultivation.",
       },
       {
-        q: 'Do I need special insurance for hauling wind turbine components?',
-        a: 'Yes. Wind energy components like blades, nacelles, and tower sections are oversized loads requiring oversize/overweight permits and specialized coverage. Your policy needs to address the high value of individual components and the liability exposure of operating with wide loads on two-lane highways.',
+        q: 'Are Delta-8 products insurable for Lubbock retailers?',
+        a: "The legal status of Delta-8 THC products in Texas has been subject to ongoing legal challenges. Insurers evaluate these products carefully and may require documentation of compliance with current Texas law. Your product liability coverage should specifically address the hemp-derived products you sell. Consult with your insurance agent and legal counsel about the current regulatory status before stocking these products.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -423,52 +493,59 @@ export const citiesPart2 = [
     state: 'Texas',
     stateSlug: 'texas',
     abbreviation: 'TX',
-    metaTitle: 'Trucking Insurance in McAllen, TX',
+    metaTitle: 'Cannabis Insurance in McAllen, TX',
     metaDescription:
-      'Commercial trucking insurance in McAllen, Texas. Coverage for carriers at the Pharr-Reynosa international bridge and Rio Grande Valley cross-border trade.',
-    heroHeading: 'McAllen Trucking Insurance',
+      'Cannabis business insurance in McAllen, Texas. Coverage for hemp and CBD businesses in the Rio Grande Valley under the Texas Hemp Plan.',
+    heroHeading: 'McAllen Cannabis Insurance',
     heroSubheading:
-      'Coverage for cross-border carriers at one of the busiest US-Mexico trade crossings.',
+      'Insurance for hemp and CBD operations in the Rio Grande Valley.',
     overview:
-      'McAllen and its sister city Pharr are home to the Pharr-Reynosa International Bridge, one of the highest-volume commercial crossings on the US-Mexico border. The Rio Grande Valley handles enormous volumes of fresh produce imported from Mexico along with manufactured goods and automotive parts. McAllen\'s trucking industry is built around cross-border logistics and cold chain distribution.',
+      "McAllen and the Rio Grande Valley offer a unique position for hemp and CBD businesses, with the region's subtropical climate providing favorable growing conditions for hemp cultivation. While Texas limits THC cannabis to the Compassionate Use Program, the Valley's agricultural heritage and warm climate create opportunities for year-round hemp production. CBD retailers have established throughout McAllen, and the region's proximity to the Mexican border adds considerations around interstate and international compliance for hemp-derived products.",
     sections: [
       {
-        heading: 'Trucking in McAllen',
+        heading: 'Cannabis Market in McAllen',
         content:
-          'McAllen\'s trucking operations are dominated by cross-border trade. The Pharr International Bridge processes thousands of commercial truck crossings daily, with produce accounting for a major share of northbound traffic. Mexican avocados, tomatoes, peppers, and berries are inspected, transferred, and redistributed from cold storage facilities throughout the McAllen-Pharr-Edinburg metro area.\n\nThe region also handles significant volumes of maquiladora freight, with manufactured goods and automotive components crossing the border for distribution across the United States. Several large cold storage and cross-dock facilities operate near the bridge to support the high-speed transfer of perishable goods.',
+          "McAllen's cannabis-related market focuses on hemp cultivation and CBD product retail under the Texas Hemp Plan. The Rio Grande Valley's warm climate allows for extended growing seasons and potentially multiple hemp harvests per year, giving local cultivators a competitive advantage. The region's established agricultural workforce and irrigation infrastructure support hemp farming operations.\n\nCBD retail has grown across the McAllen metropolitan area, with shops catering to both local consumers and visitors from Mexico. The border location creates unique considerations for businesses, as cannabis products cannot legally cross the international boundary regardless of their THC content.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'US-281 is the primary northbound route from the Pharr International Bridge, connecting to I-37 and San Antonio. US-83 runs along the Rio Grande connecting McAllen to Laredo to the west and Brownsville to the east. I-2 (US-83 expressway) provides east-west connectivity across the Rio Grande Valley. I-69C extends north from the bridge area toward the planned extension to Houston.',
+          "CBD retailers in McAllen operate along North 10th Street, the Nolana Avenue commercial corridor, and near La Plaza Mall. Hemp cultivation is concentrated in agricultural areas of Hidalgo County, particularly in the irrigated farmland along the Rio Grande. Processing facilities are found in industrial zones along the Expressway 83 corridor and in the Sharyland area. Nearby Mission and Edinburg also host hemp and CBD businesses serving the Valley market.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Cross-border liability coverage for US-Mexico freight operations',
-          'Customs bond insurance for bonded carrier operations',
-          'Refrigerated cargo and spoilage coverage for produce imports',
-          'Bobtail coverage for empty returns from cross-border relay points',
-          'Bilingual policy documentation for cross-border carrier operations',
+          'General liability for CBD retail operations and customer interactions',
+          'Product liability for hemp-derived CBD products including edibles and topicals',
+          'Property insurance for processing facilities and cultivation sites',
+          'Workers compensation for agricultural and retail employees',
+          'Crop and harvest coverage for subtropical hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for cross-border trucking at Pharr?',
-        a: 'Cross-border operations require separate US and Mexican insurance policies. US coverage applies on the American side, but you need a Mexican motor carrier policy for any operations south of the border. Additionally, customs bond coverage protects against duties and fines if bonded cargo is compromised.',
+        q: 'What insurance challenges do border-area hemp businesses face in McAllen?',
+        a: "Hemp businesses near the border face unique risks including strict federal enforcement zones, transportation compliance requirements, and the need to clearly distinguish legal hemp from illegal cannabis. Your insurance should cover the specific compliance exposures of operating near an international border, and you should maintain thorough documentation of all lab testing and licensing.",
       },
       {
-        q: 'How do produce inspection delays affect my cargo insurance at the border?',
-        a: 'USDA inspections at the border can delay perishable shipments for hours. Your cargo policy should include coverage for spoilage caused by border delays, and you should understand the waiting period provisions in your reefer breakdown coverage.',
+        q: 'Can Rio Grande Valley farmers insure hemp crops?',
+        a: "Yes. Hemp crop insurance is available for RGV farmers who hold valid Texas Department of Agriculture hemp licenses. Coverage protects against weather damage, pest infestations, and crop failure. The subtropical climate creates both advantages and risks, including hurricanes and extreme heat, that should be specifically addressed in your crop coverage.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'reefer-breakdown',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -477,51 +554,59 @@ export const citiesPart2 = [
     state: 'Texas',
     stateSlug: 'texas',
     abbreviation: 'TX',
-    metaTitle: 'Trucking Insurance in Corpus Christi, TX',
+    metaTitle: 'Cannabis Insurance in Corpus Christi, TX',
     metaDescription:
-      'Commercial trucking insurance in Corpus Christi, Texas. Coverage for carriers serving the Port of Corpus Christi and Eagle Ford Shale energy operations.',
-    heroHeading: 'Corpus Christi Trucking Insurance',
+      'Cannabis business insurance in Corpus Christi, Texas. Coverage for hemp and CBD businesses on the Gulf Coast under the Texas Hemp Plan.',
+    heroHeading: 'Corpus Christi Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers serving the Gulf Coast port and South Texas energy sector.',
+      'Insurance for hemp and CBD businesses on the Texas Gulf Coast.',
     overview:
-      'Corpus Christi is home to the largest port in Texas by total revenue tonnage and the third-largest port in the United States. The Port of Corpus Christi handles massive volumes of crude oil, refined petroleum, and liquefied natural gas exports. The nearby Eagle Ford Shale formation generates significant oilfield trucking demand, making Corpus Christi a dual hub for port drayage and energy sector freight.',
+      "Corpus Christi's Gulf Coast location offers both opportunities and challenges for hemp and CBD businesses. The region's warm climate supports hemp cultivation, while the growing consumer market has attracted CBD retailers. Texas law restricts THC cannabis to the Compassionate Use Program, but the hemp and CBD sector is active along the Coastal Bend. Corpus Christi businesses must also contend with hurricane exposure, which makes proper insurance coverage particularly critical for cannabis-related operations.",
     sections: [
       {
-        heading: 'Trucking in Corpus Christi',
+        heading: 'Cannabis Market in Corpus Christi',
         content:
-          'The trucking industry in Corpus Christi is heavily influenced by the energy sector. Tanker trucks move crude oil from Eagle Ford Shale wells to pipeline terminals and refineries along the ship channel. Flatbed carriers haul pipe, drilling equipment, and frac sand to well sites. The port\'s expansion into LNG export facilities has added another layer of specialized freight demand.\n\nBeyond energy, Corpus Christi handles military freight from Naval Air Station Corpus Christi and agricultural products from the surrounding Coastal Bend region, including cotton, grain sorghum, and cattle.',
+          "Corpus Christi's hemp and CBD market has developed alongside the national trend toward hemp-derived products. CBD retailers have opened throughout the city, serving a consumer base drawn from both the local population and the seasonal tourism industry. The Coastal Bend's agricultural areas support hemp cultivation, though hurricane risk is a significant factor.\n\nThe city's industrial infrastructure, originally developed for the energy sector, provides facilities suitable for hemp processing and CBD extraction. Operators who have experience managing the compliance requirements of the energy industry find similarities in the regulatory landscape of hemp and CBD production.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-37 connects Corpus Christi to San Antonio, serving as the primary route to the interstate highway network. US-77 runs south to Brownsville and the Mexican border. US-181 connects to Portland and points north. Highway 44 heads west into the Eagle Ford Shale region. Highway 35 follows the coast northeast toward Houston through Bay City. The JFK Causeway connects the mainland to Padre Island.',
+          "CBD retailers in Corpus Christi are found along South Padre Island Drive, Staples Street, and in the Flour Bluff and Calallen areas. Hemp cultivation is located in agricultural zones of Nueces and San Patricio counties. Processing and extraction operations use industrial spaces along the Crosstown Expressway and near the Port of Corpus Christi industrial corridor, where existing infrastructure supports manufacturing operations.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Tanker and hazmat liability for crude oil and petroleum product hauling',
-          'Pollution liability coverage for oilfield and refinery freight operations',
-          'Hurricane and wind coverage for Gulf Coast equipment exposure',
-          'Port drayage coverage for ship channel terminal operations',
+          'General liability for CBD retail and hemp product businesses',
+          'Product liability for manufactured CBD products and edibles',
+          'Property insurance with hurricane and wind coverage for Gulf Coast facilities',
+          'Workers compensation for cultivation and manufacturing staff',
+          'Crop and harvest coverage for coastal hemp cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for hauling crude oil in the Eagle Ford Shale?',
-        a: 'Crude oil hauling requires hazmat-endorsed auto liability with a minimum of $1,000,000, pollution liability coverage, and MCS-90 endorsement. Your cargo coverage must specifically address petroleum products, and you should carry environmental cleanup coverage for potential spill incidents.',
+        q: 'How does hurricane risk affect cannabis business insurance in Corpus Christi?',
+        a: "Gulf Coast hemp and CBD operations face significant hurricane exposure from June through November. Your property insurance should include comprehensive wind and flood coverage for cultivation sites, processing facilities, and retail locations. Many insurers apply hurricane deductibles for coastal operations. Having a business continuity plan for storm events is essential for cannabis operations in Corpus Christi.",
       },
       {
-        q: 'How does hurricane exposure affect trucking insurance in Corpus Christi?',
-        a: 'Corpus Christi sits on the Gulf Coast and is exposed to hurricanes from June through November. Your physical damage policy should include comprehensive coverage for wind and flood damage to equipment. Consider where you stage equipment during hurricane season, as coastal locations carry higher exposure.',
+        q: 'What permits do I need for a CBD business in Corpus Christi?',
+        a: "CBD businesses in Corpus Christi operating under the Texas Hemp Plan need state-level licensing through the Texas Department of Agriculture for cultivation and processing. Retail operations must comply with local business permitting. Your insurance provider will require proof of licensing as a condition of coverage, so ensure all permits are current before applying for or renewing your policy.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -530,52 +615,59 @@ export const citiesPart2 = [
     state: 'Texas',
     stateSlug: 'texas',
     abbreviation: 'TX',
-    metaTitle: 'Trucking Insurance in Midland, TX',
+    metaTitle: 'Cannabis Insurance in Midland, TX',
     metaDescription:
-      'Commercial trucking insurance in Midland, Texas. Coverage for carriers serving the Permian Basin oilfield and energy sector logistics.',
-    heroHeading: 'Midland Trucking Insurance',
+      'Cannabis business insurance in Midland, Texas. Coverage for hemp and CBD businesses in the Permian Basin region under the Texas Hemp Plan.',
+    heroHeading: 'Midland Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the heart of the Permian Basin energy economy.',
+      'Insurance for hemp and CBD operations in the Permian Basin.',
     overview:
-      'Midland is the epicenter of the Permian Basin, the most productive oil-producing region in the United States. The city\'s trucking industry is overwhelmingly tied to energy sector logistics, with carriers hauling frac sand, water, pipe, drilling equipment, and crude oil across the vast West Texas landscape. The boom-and-bust nature of oil prices creates volatile freight demand that directly impacts carrier operations.',
+      "Midland, the epicenter of the Permian Basin oil economy, is beginning to see hemp and CBD businesses emerge as part of the region's economic diversification efforts. While the primary economy remains energy-focused, entrepreneurs have opened CBD retail shops to serve the local workforce, and hemp cultivation is being explored in irrigated agricultural areas. Texas restricts THC cannabis to the Compassionate Use Program, but the hemp and CBD market provides business opportunities in this West Texas market.",
     sections: [
       {
-        heading: 'Trucking in Midland',
+        heading: 'Cannabis Market in Midland',
         content:
-          'Midland\'s trucking sector is an extension of the oil and gas industry. Frac sand trucks, water haulers, hot shot carriers, and heavy equipment movers operate around the clock supporting drilling and completion operations. The demands of oilfield trucking are intense, with carriers navigating unpaved lease roads, operating in remote locations, and handling hazardous materials as part of daily operations.\n\nThe rapid growth of Permian Basin production has strained local infrastructure, with county roads and state highways bearing truck traffic loads far exceeding their design capacity. This creates unique risk profiles for carriers operating in the region.',
+          "Midland's cannabis-related market is small but growing, primarily centered on CBD retail and hemp product sales. The city's energy sector workforce has shown interest in CBD products for wellness and recovery purposes. Smoke shops and specialty retailers have added CBD lines to their product offerings throughout the metro area.\n\nHemp cultivation in the Permian Basin faces challenges including limited water availability and extreme heat, but irrigated operations in Midland and Martin counties have explored the crop. The region's entrepreneurial culture, honed by decades of oil and gas development, is beginning to translate into hemp and CBD business ventures.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-20 runs through Midland east-west, connecting to Odessa, Abilene, and Dallas-Fort Worth. Highway 349 heads south toward drilling operations in Upton and Crockett counties. Highway 158 connects east to Sterling City and the Concho Valley. US-385 runs north-south through the heart of the basin. Highway 191 connects Midland to Odessa and the western basin operations.',
+          "CBD retailers in Midland are found along Midkiff Road, the Big Spring Street commercial area, and in shopping centers near Loop 250. Hemp cultivation operations are located in irrigated agricultural zones east of the city toward Stanton. Processing operations occupy industrial spaces along I-20 and in the Midland-Odessa industrial corridor, where existing infrastructure built for the energy sector provides suitable manufacturing facilities.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Oilfield-specific auto liability for lease road and well site operations',
-          'Pollution liability for crude oil, produced water, and frac chemical hauling',
-          'Equipment breakdown coverage for trucks operating in harsh oilfield conditions',
-          'Occupational accident coverage for owner-operators in high-risk oilfield work',
-          'Non-owned trailer coverage for oilfield equipment being towed to well sites',
+          'General liability for CBD retail and hemp product operations',
+          'Product liability for CBD wellness products and supplements',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for all employees in cultivation and retail',
+          'Crop and harvest coverage for irrigated hemp farming operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Why is trucking insurance more expensive in the Permian Basin?',
-        a: 'Permian Basin trucking insurance costs are elevated due to several factors: high accident rates on overloaded rural roads, hazmat exposure from crude and chemical hauling, severe vehicle wear from oilfield conditions, and nuclear verdict trends in West Texas courtrooms. Maintaining strong safety programs and clean CSA scores is critical to managing costs.',
+        q: 'Is hemp cultivation viable in the Permian Basin for insurance purposes?',
+        a: "Hemp cultivation in the Permian Basin requires irrigation and heat management, which increases production costs and risk exposure. Crop insurance is available for licensed hemp operations, but insurers evaluate the specific growing conditions and water access of your operation. Demonstrating irrigation reliability and heat mitigation strategies can help secure favorable coverage terms.",
       },
       {
-        q: 'Do I need special coverage for operating on oil lease roads?',
-        a: 'Yes. Standard auto liability policies may have exclusions for off-highway operations. Ensure your policy explicitly covers operations on private lease roads, well pads, and oilfield facilities. Additionally, your physical damage coverage should account for the accelerated wear and damage trucks sustain on unpaved oilfield roads.',
+        q: 'What insurance do CBD retailers in Midland need?',
+        a: "CBD retailers in Midland need general liability for store operations, product liability for all CBD products sold, property insurance for inventory and fixtures, and workers compensation for employees. Ensure your product liability coverage specifically addresses hemp-derived products, and maintain lab testing documentation for all products to support compliance claims.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
-      'occupational-accident',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -584,50 +676,59 @@ export const citiesPart2 = [
     state: 'Texas',
     stateSlug: 'texas',
     abbreviation: 'TX',
-    metaTitle: 'Trucking Insurance in Waco, TX',
+    metaTitle: 'Cannabis Insurance in Waco, TX',
     metaDescription:
-      'Commercial trucking insurance in Waco, Texas. Coverage for carriers at the I-35 midpoint between Dallas-Fort Worth and Austin-San Antonio.',
-    heroHeading: 'Waco Trucking Insurance',
+      'Cannabis business insurance in Waco, Texas. Coverage for hemp, CBD, and compassionate use cannabis businesses in Central Texas.',
+    heroHeading: 'Waco Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the crossroads of the Texas Triangle on I-35.',
+      'Insurance for hemp and CBD businesses in the heart of Central Texas.',
     overview:
-      'Waco sits at the geographic midpoint of the I-35 corridor between Dallas-Fort Worth and Austin-San Antonio, placing it at the center of the Texas Triangle freight market. The city has attracted distribution center investments from companies seeking a central Texas location with lower costs than the major metros. SpaceX operations at nearby McGregor have added aerospace freight to the local trucking mix.',
+      "Waco sits at the geographic midpoint of Central Texas along I-35, a position that makes it strategically valuable for hemp and CBD distribution operations. The city's agricultural heritage in the Blackland Prairie region supports hemp cultivation, while its growing population and Baylor University community provide a consumer base for CBD retail. As the Texas cannabis market evolves, Waco businesses can leverage their central location to serve markets from Dallas-Fort Worth to Austin-San Antonio.",
     sections: [
       {
-        heading: 'Trucking in Waco',
+        heading: 'Cannabis Market in Waco',
         content:
-          'Waco\'s trucking industry leverages its central location on I-35, which carries more truck traffic in Texas than any other interstate. The city serves as a natural break point for carriers running between the Dallas-Fort Worth metroplex and the Austin-San Antonio corridor. Distribution centers for companies like Amazon, Coca-Cola, and Mars Wrigley have established operations in the Waco area.\n\nThe agricultural sector remains important, with carriers hauling cattle, cotton, and grain from the surrounding Blackland Prairie region. Waco also handles construction materials freight supporting the rapid growth of Texas metro areas to the north and south.',
+          "Waco's cannabis-adjacent market includes CBD retail shops, hemp product manufacturers, and emerging hemp cultivation operations in the surrounding Blackland Prairie agricultural zone. The city's revitalized downtown and Baylor University area have attracted CBD retailers, while the I-35 corridor makes Waco a natural hub for hemp distribution.\n\nThe region's agricultural community is exploring hemp as a rotation crop, with local farmers evaluating its economic potential alongside traditional cotton and grain operations. Processing and manufacturing facilities are beginning to establish in Waco's industrial areas, taking advantage of Central Texas workforce availability.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-35 is the dominant freight corridor, running north to Dallas-Fort Worth and south to Austin and San Antonio. Highway 6 connects Waco to Bryan-College Station and Houston to the southeast. Highway 77 runs south through the agricultural heartland toward Killeen and Temple. Highway 84 heads west toward Gatesville and the Hill Country.',
+          "CBD retailers in Waco are found along Valley Mills Drive, in the Waco Marketplace shopping area, Franklin Avenue in downtown, and near the Baylor University campus along Dutton Avenue. Hemp cultivation is concentrated in agricultural areas of McLennan County. Processing and distribution operations have set up in industrial parks along I-35 and the South Loop Drive area, leveraging Waco's central location for statewide distribution.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'High-traffic I-35 corridor coverage for one of Texas\'s busiest freight routes',
-          'Distribution center operations liability for loading dock and yard incidents',
-          'Agricultural cargo coverage for cattle, cotton, and grain shipments',
-          'Relay and interchange coverage for mid-route driver swap operations',
+          'General liability for CBD retail and hemp product storefronts',
+          'Product liability for manufactured hemp-derived products',
+          'Property insurance for processing facilities and retail spaces',
+          'Workers compensation for agricultural and manufacturing employees',
+          'Crop and harvest coverage for Blackland Prairie hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does I-35 traffic density affect my insurance operating through Waco?',
-        a: 'I-35 through Central Texas carries some of the highest truck volumes in the state, and accident frequency reflects that density. Insurers evaluate your I-35 exposure when pricing policies. Maintaining electronic logging compliance and dash cam documentation can help demonstrate safe operations.',
+        q: 'Is Waco a good location for a hemp distribution business?',
+        a: "Waco's position on I-35 between Dallas-Fort Worth and Austin-San Antonio makes it an excellent distribution hub for hemp products. From an insurance perspective, the central location means shorter delivery distances, which can reduce transportation risk exposure. Your coverage should include commercial auto for delivery vehicles and product liability for all distributed products.",
       },
       {
-        q: 'Is Waco a good location for a distribution-focused trucking operation?',
-        a: 'Waco offers strong geographic positioning to serve the entire Texas Triangle, with lower operating costs than Dallas, Austin, or San Antonio. From an insurance perspective, your central location reduces average haul distances and keeps most operations within Texas, which can simplify your filing requirements.',
+        q: 'What hemp farming insurance is available in the Waco area?',
+        a: "Hemp farmers in the Waco area can access crop insurance through specialty agricultural insurers familiar with hemp cultivation. Coverage protects against weather damage, crop failure, and loss from pests or disease. Your farm should hold a valid Texas Department of Agriculture hemp license, and you should maintain THC testing records to demonstrate compliance with the 0.3 percent threshold.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -636,50 +737,59 @@ export const citiesPart2 = [
     state: 'Louisiana',
     stateSlug: 'louisiana',
     abbreviation: 'LA',
-    metaTitle: 'Trucking Insurance in Shreveport, LA',
+    metaTitle: 'Cannabis Insurance in Shreveport, LA',
     metaDescription:
-      'Commercial trucking insurance in Shreveport, Louisiana. Coverage for carriers at the I-20 and I-49 junction in the Ark-La-Tex region.',
-    heroHeading: 'Shreveport Trucking Insurance',
+      'Cannabis business insurance in Shreveport, Louisiana. Coverage for medical marijuana pharmacies and hemp businesses in the Ark-La-Tex region.',
+    heroHeading: 'Shreveport Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers serving the Ark-La-Tex tri-state freight market.',
+      'Insurance for medical cannabis and hemp businesses in the Ark-La-Tex region.',
     overview:
-      'Shreveport sits at the intersection of I-20 and I-49 in northwest Louisiana, serving as the commercial hub of the Ark-La-Tex region where Louisiana, Arkansas, and Texas converge. The city\'s trucking industry supports natural gas operations in the Haynesville Shale, timber and paper products from surrounding forests, and general freight distribution across the tri-state area.',
+      "Shreveport serves as the commercial hub of the Ark-La-Tex region, where Louisiana, Arkansas, and Texas converge. Louisiana has established a medical marijuana program allowing licensed pharmacies to dispense cannabis products to qualifying patients, and the state has gradually expanded qualifying conditions and product forms. Shreveport's position near the borders of states with varying cannabis laws creates unique market dynamics. The city also hosts hemp and CBD businesses operating under Louisiana's industrial hemp program.",
     sections: [
       {
-        heading: 'Trucking in Shreveport',
+        heading: 'Cannabis Market in Shreveport',
         content:
-          'Shreveport\'s freight economy draws from multiple industries. The Haynesville Shale natural gas formation has generated significant oilfield trucking demand, including water hauling, pipe transport, and equipment moves. The region\'s extensive pine forests support a paper and lumber industry that produces steady flatbed freight. Barksdale Air Force Base adds military logistics requirements.\n\nThe city\'s position at the I-20/I-49 interchange makes it a natural relay and rest point for east-west carriers and a distribution center for the broader Ark-La-Tex market spanning three states.',
+          "Shreveport's medical cannabis market operates under Louisiana's pharmacy-based dispensing model. Licensed medical marijuana pharmacies in the area serve patients with qualifying conditions including cancer, PTSD, chronic pain, and other approved diagnoses. The state's program has expanded to include flower products, edibles, tinctures, and topicals.\n\nThe CBD and hemp retail market has also grown in Shreveport, with shops throughout the metro area. The city's proximity to legal recreational markets in nearby states creates consumer awareness and demand. Hemp cultivation under Louisiana's industrial hemp program is being explored in the agricultural areas of Northwest Louisiana.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-20 runs east-west through Shreveport connecting Dallas to the west and Jackson, Mississippi to the east. I-49 runs north-south, connecting to Alexandria and Lafayette to the south and eventually to the Arkansas border heading toward Fort Smith. US-71 runs north to Texarkana. Highway 1 heads southeast through the Red River cotton country.',
+          "Medical marijuana pharmacies in Shreveport are located along Line Avenue, Youree Drive, and in the Southern Hills area. CBD retail shops operate throughout the city, with concentrations along Airline Drive, Mansfield Road, and in shopping centers near Pierre Bossier Mall in neighboring Bossier City. Hemp cultivation is located in rural areas of Caddo and Bossier parishes, where agricultural operations are exploring the crop.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Natural gas industry hauling coverage for Haynesville Shale operations',
-          'Timber and forestry products cargo coverage for log and lumber loads',
-          'Tri-state filing coverage for carriers operating across Louisiana, Arkansas, and Texas',
-          'Flood zone awareness for equipment stored near the Red River',
+          'General liability for medical cannabis pharmacy and CBD retail operations',
+          'Product liability for dispensed cannabis products and manufactured CBD items',
+          'Property insurance for pharmacy locations and processing facilities',
+          'Workers compensation for pharmacy staff and cultivation employees',
+          'Cyber liability for patient data protection in medical cannabis operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Do I need separate filings for operating in Louisiana, Arkansas, and Texas?',
-        a: 'If you operate under your own authority and cross state lines, your federal MC authority covers interstate operations. However, each state may have specific permit requirements and fuel tax obligations. Your insurance certificates should list all states where you operate to avoid coverage disputes.',
+        q: 'What insurance does a medical marijuana pharmacy in Shreveport need?',
+        a: "Louisiana medical marijuana pharmacies need comprehensive coverage including general liability, product liability for all dispensed cannabis products, property insurance, professional liability for pharmacist services, workers compensation, and cyber liability for patient record protection. The Louisiana Board of Pharmacy oversees medical cannabis dispensing and may have specific insurance requirements.",
       },
       {
-        q: 'What coverage do I need for natural gas industry hauling in the Haynesville Shale?',
-        a: 'Natural gas operations involve hauling water, pipe, sand, and equipment. Depending on the materials, you may need hazmat endorsements and pollution liability coverage. Ensure your auto liability policy covers operations on private lease roads and well pad locations.',
+        q: 'How does the tri-state border location affect cannabis insurance in Shreveport?',
+        a: "Shreveport's proximity to Arkansas and Texas means patients and consumers cross state lines, but cannabis products cannot legally cross borders. Your insurance should clearly define the geographic scope of your operations. If you operate delivery services, ensure your coverage and compliance protocols prevent any cross-border delivery situations.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -688,50 +798,59 @@ export const citiesPart2 = [
     state: 'Mississippi',
     stateSlug: 'mississippi',
     abbreviation: 'MS',
-    metaTitle: 'Trucking Insurance in Jackson, MS',
+    metaTitle: 'Cannabis Insurance in Jackson, MS',
     metaDescription:
-      'Commercial trucking insurance in Jackson, Mississippi. Coverage for carriers at the intersection of I-55 and I-20 in the Deep South freight network.',
-    heroHeading: 'Jackson Trucking Insurance',
+      'Cannabis business insurance in Jackson, Mississippi. Coverage for medical cannabis dispensaries, cultivators, and processors in the state capital.',
+    heroHeading: 'Jackson Cannabis Insurance',
     heroSubheading:
-      'Coverage for carriers at the crossroads of I-55 and I-20 in central Mississippi.',
+      "Coverage for medical cannabis businesses in Mississippi's capital city.",
     overview:
-      'Jackson is the capital of Mississippi and sits at the junction of I-55 and I-20, making it a key interchange in the southeastern freight network. The city connects Memphis to the north with New Orleans to the south and Dallas to the west with Birmingham to the east. Automotive manufacturing growth in Mississippi has added industrial freight demand to the traditional agricultural and forestry cargo base.',
+      "Jackson is the capital of Mississippi, a state that approved a medical cannabis program through Senate Bill 2095 in 2022 after voters had previously approved Initiative 65 in 2020. The Mississippi Medical Cannabis Act allows licensed businesses to cultivate, process, test, and dispense cannabis to qualifying patients. Jackson, as the state's largest city and government center, is a focal point for the emerging medical cannabis industry. The program is in its early stages, with licenses being issued for dispensaries, cultivation facilities, testing laboratories, and processing operations throughout the metro area.",
     sections: [
       {
-        heading: 'Trucking in Jackson',
+        heading: 'Cannabis Market in Jackson',
         content:
-          'Jackson\'s trucking sector serves as a relay and distribution point for the Mississippi market. The city\'s I-55/I-20 interchange channels freight between four major corridors, making it a natural stop for long-haul carriers. The Nissan assembly plant in nearby Canton and various auto parts suppliers have created a steady manufacturing freight pipeline.\n\nAgricultural commodities from the Mississippi Delta, timber products from the Piney Woods region, and poultry from the state\'s extensive chicken farming operations all move through Jackson\'s freight network.',
+          "Jackson's medical cannabis market is developing as the Mississippi Department of Health issues licenses and businesses build out their operations. The city's role as the state capital means it will likely host some of the first and most visible dispensary locations. Cultivation and processing facilities are being developed in the greater Jackson area to supply the statewide market.\n\nThe Mississippi medical cannabis program allows qualifying patients to purchase up to 3.5 grams of flower per day with monthly limits. Qualifying conditions include cancer, epilepsy, PTSD, chronic pain, and numerous other diagnoses. As the program matures, Jackson is expected to become a hub for cannabis industry operations and advocacy.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-55 runs north-south connecting Jackson to Memphis and New Orleans, two of the South\'s largest freight markets. I-20 runs east-west linking Dallas and Shreveport to the west with Meridian and Birmingham to the east. US-49 connects Jackson to the Mississippi Delta region to the north and Hattiesburg to the south. Highway 25 runs northeast toward Starkville and the Tennessee-Tombigbee Waterway.',
+          "Medical cannabis dispensaries in Jackson are locating along major commercial corridors including County Line Road, Highway 80, and the Lakeland Drive area. Cultivation facilities are being established in industrial zones along Highway 49 and I-55, as well as in agricultural areas of Hinds and Rankin counties. Processing and testing operations are setting up in the Jackson metro area's industrial parks and commercial zones in Flowood and Pearl.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Automotive parts and manufacturing cargo coverage for Nissan supply chain operations',
-          'Agricultural commodity insurance for Delta cotton, soybeans, and rice shipments',
-          'Poultry industry hauling coverage for live birds and processed poultry products',
-          'Hurricane season preparation for Gulf-influenced weather events',
+          'General liability for medical cannabis dispensary and retail operations',
+          'Product liability for all dispensed cannabis flower, edibles, and concentrates',
+          'Property insurance for grow facilities, processing labs, and retail locations',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for cannabis cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Mississippi\'s legal environment affect trucking insurance costs?',
-        a: 'Mississippi has historically been considered a challenging legal venue for trucking accident cases. Jury verdicts in the state can be unpredictable, which contributes to higher liability insurance premiums. Maintaining thorough documentation and strong safety programs is especially important for carriers based in Mississippi.',
+        q: 'What insurance is required for a Mississippi medical cannabis license?',
+        a: "The Mississippi Department of Health requires medical cannabis licensees to maintain insurance coverage as a condition of licensing. This includes general liability, product liability, property insurance, and workers compensation. Specific minimum coverage amounts are outlined in the licensing regulations. Work with an insurer experienced in cannabis to ensure your coverage meets all state requirements.",
       },
       {
-        q: 'What coverage do I need for hauling poultry products in Mississippi?',
-        a: 'Poultry hauling involves live bird transport and refrigerated processed product shipments. Live poultry requires specialized cargo coverage addressing animal mortality and biosecurity requirements. Processed poultry needs reefer breakdown and spoilage coverage.',
+        q: 'How is the Jackson medical cannabis market developing?',
+        a: "The Jackson medical cannabis market is in its early growth phase as licenses are issued and businesses become operational. For insurance purposes, new market entry means fewer claims history data points, which can affect pricing. Establishing strong compliance programs, security protocols, and quality assurance processes from the start will help build a favorable risk profile as the market matures.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -740,50 +859,59 @@ export const citiesPart2 = [
     state: 'Alabama',
     stateSlug: 'alabama',
     abbreviation: 'AL',
-    metaTitle: 'Trucking Insurance in Mobile, AL',
+    metaTitle: 'Cannabis Insurance in Mobile, AL',
     metaDescription:
-      'Commercial trucking insurance in Mobile, Alabama. Coverage for carriers serving the Port of Mobile and Gulf Coast industrial freight.',
-    heroHeading: 'Mobile Trucking Insurance',
+      'Cannabis business insurance in Mobile, Alabama. Coverage for medical cannabis dispensaries and hemp businesses on the Gulf Coast.',
+    heroHeading: 'Mobile Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers serving Alabama\'s primary deep-water port and Gulf Coast industry.',
+      "Insurance for medical cannabis and hemp businesses on Alabama's Gulf Coast.",
     overview:
-      'Mobile is Alabama\'s port city on the Gulf of Mexico, with the Port of Mobile ranking among the top twelve ports in the nation by tonnage. The city\'s trucking industry serves the port\'s container and bulk cargo operations, the Airbus aircraft assembly facility at Brookley Aeroplex, and the region\'s shipbuilding, chemical, and forest products industries. I-10 and I-65 intersect near Mobile, connecting Gulf Coast freight to the national highway network.',
+      "Mobile is Alabama's primary Gulf Coast city, where the emerging medical cannabis industry is beginning to take shape. Alabama passed the Darren Wesley Ato Carter II Compassionate Use Act in 2021, establishing a medical cannabis program. However, implementation has been slow with legal challenges delaying license approvals. Hemp and CBD businesses have been operating in Mobile under the 2018 Farm Bill framework. The city's Gulf Coast location brings hurricane exposure considerations into cannabis business insurance planning.",
     sections: [
       {
-        heading: 'Trucking in Mobile',
+        heading: 'Cannabis Market in Mobile',
         content:
-          'Mobile\'s freight sector is anchored by port operations. The Port of Mobile handles containers, steel, forest products, coal, and chemicals, generating drayage and distribution trucking demand. The Airbus A320 assembly facility has created a specialized supply chain for oversized aerospace components and precision parts.\n\nThe city also supports chemical manufacturing along the Mobile River industrial corridor and timber operations in the surrounding pine forests. The I-10 corridor connects Mobile to New Orleans and Pensacola, with heavy truck traffic crossing the Mobile Bay on the George Wallace Tunnel and the new Bayway Bridge project.',
+          "Mobile's cannabis market is developing along two tracks. The medical cannabis program, once fully operational, will allow licensed dispensaries to serve qualifying patients with a range of cannabis products excluding raw flower for smoking. Implementation has faced delays, but businesses are positioning for eventual market entry.\n\nMeanwhile, the CBD and hemp market is more established, with retailers throughout the Mobile metro area selling hemp-derived products. The Gulf Coast's agricultural zones support hemp cultivation, and processing facilities are exploring opportunities in the region's industrial areas near the Port of Mobile.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-65 runs north from Mobile to Montgomery, Birmingham, and Nashville, serving as Alabama\'s primary freight artery. I-10 crosses east-west along the Gulf Coast connecting New Orleans to the west and Pensacola and Jacksonville to the east. US-98 parallels the coast providing an alternate east-west route. US-43 runs north through the timber country toward Tuscaloosa. The Cochrane-Africatown USA Bridge carries truck traffic over the Mobile River to port facilities.',
+          "CBD retailers in Mobile operate along Airport Boulevard, Hillcrest Road, and in the Bel Air Mall area. Anticipated medical cannabis dispensary locations are expected along major commercial corridors including Government Street and Schillinger Road. Cultivation and processing operations are being planned in industrial zones along the Mobile River corridor and in agricultural areas of Mobile County. The Saraland and Tillmans Corner areas may also host cannabis businesses.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Port drayage coverage for container operations at the Port of Mobile',
-          'Hurricane and flood insurance for Gulf Coast equipment exposure',
-          'Chemical and industrial cargo coverage for Mobile River corridor freight',
-          'Oversized load coverage for aerospace component transport',
+          'General liability for dispensary and CBD retail operations',
+          'Product liability for cannabis and hemp-derived products',
+          'Property insurance with hurricane and wind coverage for Gulf Coast facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for hemp and cannabis cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does hurricane exposure affect my trucking insurance in Mobile?',
-        a: 'Mobile is directly exposed to Gulf hurricanes. Your physical damage policy should include comprehensive coverage for wind and flood damage. Many insurers require hurricane deductibles for Gulf Coast operations. Have an equipment evacuation plan to move trucks inland when storms threaten.',
+        q: 'When will medical cannabis dispensaries open in Mobile?',
+        a: "Alabama's medical cannabis program has experienced implementation delays. Insurance coverage can be bound once you hold a valid license from the Alabama Medical Cannabis Commission. Many insurers offer pre-operational coverage to protect your investment during the buildout phase. Stay current on licensing timelines and work with an insurer who understands the Alabama regulatory landscape.",
       },
       {
-        q: 'What coverage do I need for port drayage at the Port of Mobile?',
-        a: 'Port drayage requires coverage addressing container damage, chassis interchange liability, and operations within the port terminal. Ensure your auto liability policy covers port facility operations and that your cargo coverage extends to the loading and unloading of vessel cargo.',
+        q: 'How does hurricane exposure affect cannabis insurance in Mobile?',
+        a: "Gulf Coast cannabis operations face hurricane risk from June through November. Your property insurance should include comprehensive wind and flood coverage for cultivation facilities, processing operations, and retail locations. Crop insurance should address storm damage to plants. Having a hurricane preparedness plan that includes securing inventory and protecting sensitive equipment is essential.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -792,50 +920,59 @@ export const citiesPart2 = [
     state: 'Alabama',
     stateSlug: 'alabama',
     abbreviation: 'AL',
-    metaTitle: 'Trucking Insurance in Huntsville, AL',
+    metaTitle: 'Cannabis Insurance in Huntsville, AL',
     metaDescription:
-      'Commercial trucking insurance in Huntsville, Alabama. Coverage for carriers supporting aerospace, defense, and technology sector logistics in North Alabama.',
-    heroHeading: 'Huntsville Trucking Insurance',
+      'Cannabis business insurance in Huntsville, Alabama. Coverage for medical cannabis dispensaries and hemp businesses in the Tennessee Valley.',
+    heroHeading: 'Huntsville Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in Alabama\'s aerospace and defense freight corridor.',
+      "Insurance for medical cannabis and hemp businesses in Alabama's technology corridor.",
     overview:
-      'Huntsville is one of the fastest-growing cities in the Southeast, driven by aerospace, defense, and technology industries centered around Redstone Arsenal, NASA\'s Marshall Space Flight Center, and Cummings Research Park. The city\'s trucking industry handles specialized defense logistics, technology equipment, and the growing consumer distribution needs of a rapidly expanding metro area along the I-65 corridor.',
+      "Huntsville is one of the fastest-growing cities in the Southeast, driven by aerospace, defense, and technology industries. The city is positioned to become a significant market for medical cannabis once Alabama's program becomes fully operational. Huntsville's educated workforce and technology-oriented culture have already supported a strong CBD and hemp retail market. The city's proximity to Tennessee, which has its own cannabis regulatory environment, adds cross-border market awareness among consumers.",
     sections: [
       {
-        heading: 'Trucking in Huntsville',
+        heading: 'Cannabis Market in Huntsville',
         content:
-          'Huntsville\'s freight market has a unique mix of high-value defense and aerospace cargo alongside standard commercial distribution. Carriers serve Redstone Arsenal, one of the Army\'s largest installations, as well as contractors including Boeing, Lockheed Martin, and Raytheon. These operations often require security clearances, specialized equipment handling, and strict delivery protocols.\n\nThe city\'s rapid population growth has also driven expansion of retail distribution centers and e-commerce fulfillment operations. Facebook, Toyota, and Mazda have made major investments in the region, further diversifying freight demand.',
+          "Huntsville's cannabis market potential is significant given its rapidly growing population and high household incomes. CBD retail operations have thrived in the metro area, serving the technology and defense workforce with wellness-oriented hemp products. Once the Alabama medical cannabis program issues licenses, Huntsville is expected to attract dispensary operators seeking to serve the North Alabama market.\n\nThe city's technology focus could also support cannabis-adjacent businesses like seed-to-sale tracking software companies, testing laboratories, and compliance consulting firms. Huntsville's existing research and development infrastructure provides a foundation for cannabis science and innovation.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-65 is the primary north-south corridor connecting Huntsville to Birmingham and Nashville. US-72 runs east-west across North Alabama linking Huntsville to the Shoals region and Chattanooga. I-565 provides direct access from I-65 to downtown Huntsville and Redstone Arsenal. US-231 runs south toward Morgan County and the Tennessee Valley region.',
+          "CBD retailers in Huntsville operate along University Drive, Memorial Parkway, and in the Bridge Street Town Centre area. Anticipated medical cannabis dispensary locations include the Research Park area, Madison Boulevard corridor, and commercial zones along I-565. Potential cultivation and processing sites are being evaluated in industrial areas near the Jetplex industrial park and in Madison County agricultural zones.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Defense contractor cargo coverage for sensitive military equipment and materials',
-          'High-value technology cargo insurance for aerospace and electronics shipments',
-          'Security clearance-related coverage requirements for Redstone Arsenal operations',
-          'Growing metro distribution coverage for expanding e-commerce and retail freight',
+          'General liability for dispensary and CBD retail operations',
+          'Product liability for cannabis and hemp-derived products sold',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Cyber liability for seed-to-sale tracking and patient data systems',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Do I need special insurance for hauling defense-related freight in Huntsville?',
-        a: 'Defense freight often requires higher cargo limits, security protocols, and sometimes specialized endorsements for classified or controlled materials. Your insurer needs to know if you haul Department of Defense cargo so your policy properly addresses these unique exposures and contractual requirements.',
+        q: 'What is the status of medical cannabis in Huntsville?',
+        a: "Alabama's medical cannabis program, established by the 2021 Compassionate Use Act, has experienced implementation delays. When the program becomes operational, licensed dispensaries in Huntsville will be able to serve qualifying patients. Pre-operational insurance coverage is available to protect your business investment during the buildout and licensing phase.",
       },
       {
-        q: 'How is Huntsville\'s growth affecting the local trucking insurance market?',
-        a: 'Huntsville\'s rapid growth is increasing truck traffic and raising urban congestion-related accident risk. However, the diverse freight base and high-value cargo mean insurers view the market favorably compared to purely agricultural or energy-dependent cities.',
+        q: 'Do defense employees affect the cannabis market in Huntsville?',
+        a: "While defense and federal employees are subject to federal drug testing requirements that may limit their personal cannabis use, the broader Huntsville market includes significant civilian, contractor, and non-defense populations. Your business plan and insurance coverage should reflect the actual market demographics of your target consumer base. CBD products remain accessible to all consumers regardless of employer policies.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -844,50 +981,59 @@ export const citiesPart2 = [
     state: 'Tennessee',
     stateSlug: 'tennessee',
     abbreviation: 'TN',
-    metaTitle: 'Trucking Insurance in Chattanooga, TN',
+    metaTitle: 'Cannabis Insurance in Chattanooga, TN',
     metaDescription:
-      'Commercial trucking insurance in Chattanooga, Tennessee. Coverage for carriers at the junction of I-75, I-24, and I-59 in the southeastern freight network.',
-    heroHeading: 'Chattanooga Trucking Insurance',
+      'Cannabis business insurance in Chattanooga, Tennessee. Coverage for hemp and CBD businesses at the crossroads of the Southeast.',
+    heroHeading: 'Chattanooga Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at a critical three-interstate junction in the Southeast.',
+      'Insurance for hemp and CBD businesses at the gateway to the Southeast.',
     overview:
-      'Chattanooga sits at the convergence of I-75, I-24, and I-59, making it one of the most strategically important trucking crossroads in the southeastern United States. The city has leveraged this position to build a significant logistics and distribution sector. Volkswagen\'s assembly plant and Amazon\'s fulfillment operations have added major industrial freight volumes to the market. The surrounding Appalachian terrain creates challenging mountain driving conditions on several approaches.',
+      "Chattanooga sits at the convergence of Tennessee, Georgia, and Alabama, creating a tri-state market for hemp and CBD businesses. While Tennessee has not legalized medical or recreational cannabis, the state permits hemp cultivation and CBD product sales under its industrial hemp program. Chattanooga's entrepreneurial culture, strong technology infrastructure, and central southeastern location make it an attractive base for hemp and CBD businesses serving the broader Southeast market.",
     sections: [
       {
-        heading: 'Trucking in Chattanooga',
+        heading: 'Cannabis Market in Chattanooga',
         content:
-          'Chattanooga has intentionally developed as a logistics hub, with the city and Hamilton County investing in freight infrastructure and industrial parks designed for distribution operations. The Volkswagen assembly plant in the Enterprise South industrial park generates automotive supply chain freight, while Amazon and other e-commerce companies use Chattanooga\'s central southeastern location for fulfillment distribution.\n\nThe city\'s heritage as an industrial center continues with manufacturing freight from steel, chemical, and food processing operations. The Tennessee River provides barge-to-truck intermodal options for bulk commodities.',
+          "Chattanooga's cannabis-adjacent market centers on CBD retail and hemp products. The city's downtown and North Shore districts have attracted CBD shops catering to a mix of local consumers, tourists, and outdoor recreation enthusiasts. Delta-8 THC products have been available in the market, though regulatory status continues to evolve.\n\nHemp cultivation is active in the surrounding Tennessee Valley, with farms in Hamilton and surrounding counties growing hemp for CBD extraction, fiber, and grain. Chattanooga's position at the junction of I-75, I-24, and I-59 supports distribution of hemp products across the Southeast.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-75 connects Chattanooga to Knoxville and the northeast to the north and Atlanta to the south, with challenging mountain grades on Monteagle Mountain. I-24 runs northwest to Nashville and southeast toward Birmingham via I-59. I-59 continues southwest toward Gadsden and Birmingham. US-27 runs north-south through the city. Highway 153 and Highway 58 handle local distribution traffic along the Tennessee River corridor.',
+          "CBD retailers in Chattanooga are concentrated in the North Shore district along Frazier Avenue, downtown along Market Street and Broad Street, and in the Hamilton Place area near the mall. The Hixson Pike corridor and East Brainerd area also host CBD shops. Hemp cultivation is found in rural areas of Hamilton County and neighboring Bradley, Sequatchie, and Marion counties. Processing operations occupy industrial spaces in the Enterprise South area and along I-75.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Mountain grade coverage for Monteagle Mountain and Lookout Mountain approaches',
-          'Automotive manufacturing cargo insurance for Volkswagen supply chain operations',
-          'Three-interstate junction coverage for high-density interchange operations',
-          'Towing and recovery coverage for mountain terrain incidents on I-24 and I-75',
+          'General liability for CBD retail stores and hemp product businesses',
+          'Product liability for CBD edibles, tinctures, and topical products',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for retail staff and processing employees',
+          'Crop and harvest coverage for Tennessee Valley hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How do mountain grades around Chattanooga affect my insurance?',
-        a: 'Monteagle Mountain on I-24 and the I-75 approaches through the Cumberland Plateau involve steep grades that increase brake failure and runaway truck risk. Insurers may evaluate your safety record on mountain routes and your driver training programs for grade driving.',
+        q: 'What insurance do CBD businesses in Chattanooga need?',
+        a: "CBD businesses in Chattanooga need general liability for customer interactions, product liability for all CBD products sold or manufactured, property insurance for your retail or processing location, and workers compensation. Tennessee requires hemp-derived products to meet specific testing requirements, and your insurance provider may require documentation of product compliance.",
       },
       {
-        q: 'Is Chattanooga a good base for a regional trucking operation?',
-        a: 'Chattanooga provides excellent coverage of the southeastern freight market. From an insurance standpoint, Tennessee\'s relatively favorable legal environment and the city\'s access to three interstates make it an attractive base. Your policy should account for the mountain driving exposure that comes with the territory.',
+        q: 'How does the tri-state location affect hemp business insurance in Chattanooga?',
+        a: "Operating near the Georgia and Alabama borders means your products and operations must comply with the regulations of each state where you do business. Tennessee, Georgia, and Alabama each have different hemp and CBD regulations. Your insurance should cover operations in all states where you sell or distribute, and your product formulations must meet the requirements of each market you serve.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -896,50 +1042,59 @@ export const citiesPart2 = [
     state: 'Kentucky',
     stateSlug: 'kentucky',
     abbreviation: 'KY',
-    metaTitle: 'Trucking Insurance in Lexington, KY',
+    metaTitle: 'Cannabis Insurance in Lexington, KY',
     metaDescription:
-      'Commercial trucking insurance in Lexington, Kentucky. Coverage for carriers on the I-75 and I-64 corridors in the Bluegrass Region.',
-    heroHeading: 'Lexington Trucking Insurance',
+      'Cannabis business insurance in Lexington, Kentucky. Coverage for medical cannabis dispensaries, cultivators, and hemp businesses in the Bluegrass Region.',
+    heroHeading: 'Lexington Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the junction of I-75 and I-64 in central Kentucky.',
+      "Insurance for medical cannabis and hemp businesses in Kentucky's Bluegrass Region.",
     overview:
-      'Lexington sits at the intersection of I-75 and I-64 in the heart of Kentucky\'s Bluegrass Region. The city serves as a distribution hub for central and eastern Kentucky, with freight operations supporting the automotive manufacturing, equine, bourbon, and tobacco industries. Toyota\'s massive Georgetown assembly plant nearby generates significant automotive supply chain freight.',
+      "Lexington sits in the heart of Kentucky's Bluegrass Region, where the state's medical cannabis program is taking shape alongside a well-established hemp industry. Kentucky was one of the first states to embrace hemp cultivation under the 2014 Farm Bill pilot program, and the Bluegrass Region's rich agricultural heritage makes it a natural center for cannabis cultivation. The state passed medical cannabis legislation in 2023, with dispensaries expected to open in 2025. Lexington's combination of agricultural expertise, university research, and growing population positions it as a key market for the Kentucky cannabis industry.",
     sections: [
       {
-        heading: 'Trucking in Lexington',
+        heading: 'Cannabis Market in Lexington',
         content:
-          'Lexington\'s trucking industry is anchored by automotive manufacturing logistics. The Toyota Motor Manufacturing plant in Georgetown, just north of the city, is one of the largest auto assembly facilities in North America, generating constant freight flows of parts, components, and finished vehicles. Additional auto suppliers throughout the Bluegrass Region feed into this supply chain.\n\nThe region\'s signature industries also create unique freight demand. Thoroughbred horse transport is a specialized niche, bourbon distillery logistics involve temperature-sensitive barrel and bottle shipments, and the remaining tobacco industry produces seasonal agricultural freight.',
+          "Lexington's cannabis market builds on Kentucky's pioneering role in hemp cultivation. The state's hemp program, supported by the University of Kentucky's research initiatives, has created a knowledgeable agricultural community well-prepared for cannabis cultivation. With the passage of medical cannabis legislation, cultivators and dispensary operators are preparing to serve Kentucky patients.\n\nThe CBD and hemp retail market is well established in Lexington, with products from Kentucky-grown hemp widely available. Local processors convert hemp into CBD oils, edibles, and topicals, leveraging the state's reputation for agricultural quality. The University of Kentucky's research programs continue to advance cannabis science and cultivation techniques.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-75 runs north-south through Lexington connecting to Cincinnati and the Midwest to the north and Knoxville and the Southeast to the south. I-64 runs east-west connecting to Louisville and St. Louis to the west and Charleston, West Virginia to the east. The Bluegrass Parkway and US-68 provide connectivity to surrounding communities. US-27 runs through the city connecting to the Tennessee border.',
+          "CBD retailers and anticipated dispensary locations in Lexington include the Nicholasville Road corridor, Richmond Road, New Circle Road shopping areas, and downtown Lexington. Hemp cultivation is widespread in the Bluegrass Region's agricultural zones in Fayette, Scott, Woodford, and Jessamine counties. Processing facilities operate in industrial areas along Newtown Pike, in the Lexington Blue Grass Army Depot area, and in neighboring Georgetown.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Automotive supply chain cargo coverage for Toyota and other manufacturer freight',
-          'Specialized livestock coverage for thoroughbred horse transportation',
-          'Temperature-controlled cargo coverage for bourbon barrel and bottle shipments',
-          'Mountain terrain coverage for eastern Kentucky Appalachian operations on I-64',
+          'General liability for dispensary and CBD retail operations',
+          'Product liability for cannabis and hemp-derived products',
+          'Property insurance for cultivation facilities and retail storefronts',
+          'Workers compensation for agricultural and retail employees',
+          'Crop and harvest coverage for Bluegrass Region cannabis and hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for transporting thoroughbred horses in Kentucky?',
-        a: 'Equine transport requires specialized livestock cargo coverage with high per-animal limits reflecting the value of thoroughbred horses. Your policy needs mortality coverage during transit, loading and unloading liability, and veterinary emergency provisions. Standard cargo coverage does not adequately address these exposures.',
+        q: 'What insurance will Kentucky medical cannabis businesses need?',
+        a: "Kentucky medical cannabis businesses will need general liability, product liability, property insurance, workers compensation, and potentially crop and harvest coverage for cultivation operations. The state's licensing requirements will specify minimum coverage amounts. Begin working with a cannabis-experienced insurer early in the licensing process to ensure your coverage meets all regulatory requirements.",
       },
       {
-        q: 'How does the Toyota supply chain affect trucking insurance in Lexington?',
-        a: 'Toyota and other automotive manufacturers require carriers to meet strict insurance requirements, typically including $1,000,000 or higher auto liability limits and substantial cargo coverage. Just-in-time delivery requirements mean your coverage must address the financial impact of delivery delays and cargo damage on the production line.',
+        q: "How does Kentucky's hemp heritage benefit cannabis businesses in Lexington?",
+        a: "Kentucky's established hemp industry means insurers have more familiarity with cannabis-related agricultural operations in the state compared to markets without hemp history. This can translate into more competitive insurance options and underwriting expertise. Your existing hemp cultivation or processing track record can help demonstrate operational experience when applying for cannabis business insurance.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -948,50 +1103,59 @@ export const citiesPart2 = [
     state: 'Indiana',
     stateSlug: 'indiana',
     abbreviation: 'IN',
-    metaTitle: 'Trucking Insurance in Evansville, IN',
+    metaTitle: 'Cannabis Insurance in Evansville, IN',
     metaDescription:
-      'Commercial trucking insurance in Evansville, Indiana. Coverage for carriers in the tri-state Ohio River freight corridor.',
-    heroHeading: 'Evansville Trucking Insurance',
+      'Cannabis business insurance in Evansville, Indiana. Coverage for hemp and CBD businesses in the tri-state Ohio River corridor.',
+    heroHeading: 'Evansville Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the Indiana-Kentucky-Illinois tri-state freight region.',
+      'Insurance for hemp and CBD businesses in the Indiana-Kentucky-Illinois tri-state region.',
     overview:
-      'Evansville is the largest city on the Indiana stretch of the Ohio River and serves as a tri-state hub where Indiana, Kentucky, and Illinois converge. The city\'s trucking industry supports automotive manufacturing, coal mining, agriculture, and river-to-truck intermodal operations. Major employers like Toyota, Berry Global, and Alcoa generate consistent freight demand.',
+      "Evansville is the largest city on the Indiana stretch of the Ohio River, sitting where Indiana, Kentucky, and Illinois converge. Indiana has not legalized medical or recreational cannabis, but hemp and CBD businesses operate under the state's industrial hemp program. Evansville's position near the borders of states with different cannabis laws creates market awareness and demand for legal hemp products. The city's agricultural heritage and tri-state market access make it a viable location for hemp cultivation and CBD retail operations.",
     sections: [
       {
-        heading: 'Trucking in Evansville',
+        heading: 'Cannabis Market in Evansville',
         content:
-          'Evansville\'s freight economy benefits from its Ohio River location and central position in the tri-state region. Toyota\'s Princeton assembly plant west of the city produces trucks and SUVs, driving automotive parts and finished vehicle transport demand. Coal mining in surrounding counties generates bulk hauling requirements, while the agricultural sector produces grain, soybeans, and livestock freight.\n\nThe Port of Indiana-Mount Vernon, just east of Evansville, is one of the largest inland ports in the nation, creating truck-to-barge transfer opportunities for bulk commodities.',
+          "Evansville's cannabis-related market is built around hemp and CBD products. The city hosts CBD retailers serving consumers who may also have awareness of cannabis programs in neighboring Illinois, which has a legal recreational market. This cross-border dynamic drives consumer interest in hemp-derived products available under Indiana law.\n\nHemp cultivation in the tri-state region leverages the Ohio River Valley's fertile agricultural land. Processing facilities in the Evansville area convert hemp biomass into CBD products for the regional market. The city's manufacturing heritage provides a workforce experienced in quality-controlled production environments.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-69 connects Evansville to Indianapolis to the north, with ongoing extensions toward Memphis to the south. US-41 runs north-south through the city toward Terre Haute and Chicago. Highway 62 follows the Ohio River east toward Louisville. I-64 passes through the area connecting to Louisville and St. Louis. The Lloyd Expressway (Highway 62) serves as the primary east-west local corridor.',
+          "CBD retailers in Evansville are located along the Lloyd Expressway, Green River Road, First Avenue, and in the Eastland Mall area. Hemp cultivation is found in agricultural zones of Vanderburgh, Warrick, and Posey counties. Processing operations are located in industrial areas along the Lloyd Expressway corridor and in the Evansville industrial park near the river.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Automotive manufacturing cargo coverage for Toyota supply chain operations',
-          'River port intermodal coverage for bulk commodity transfers at Mt. Vernon',
-          'Tri-state operating coverage for cross-border operations in IN, KY, and IL',
-          'Coal and mining commodity cargo insurance for Southwest Indiana operations',
+          'General liability for CBD retail stores and hemp businesses',
+          'Product liability for CBD and hemp-derived product lines',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for cultivation and manufacturing staff',
+          'Crop and harvest coverage for Ohio River Valley hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does operating in three states from Evansville affect my insurance?',
-        a: 'Operating across Indiana, Kentucky, and Illinois state lines requires interstate authority and insurance that covers all three states. While your federal filings cover this, ensure your certificates of insurance list all operating states. Each state has different tort laws that can affect claim outcomes.',
+        q: 'Can I sell cannabis products in Evansville?',
+        a: "Indiana law prohibits the sale of THC cannabis products. You can legally sell hemp-derived CBD products that contain less than 0.3 percent THC. Your insurance coverage should specifically address hemp-derived products and comply with Indiana regulations. Products purchased in neighboring Illinois's recreational market cannot be legally sold in Indiana.",
       },
       {
-        q: 'What coverage do I need for river port operations near Evansville?',
-        a: 'If you haul cargo to or from the Port of Indiana-Mount Vernon, your policy should cover terminal operations, loading and unloading alongside barges, and the specific commodities being transferred. Bulk commodity coverage for coal, grain, and steel is particularly relevant at this facility.',
+        q: 'What insurance does a CBD retailer in Evansville need?',
+        a: "CBD retailers in Evansville need general liability for store operations, product liability for all hemp-derived products sold, property insurance, and workers compensation. Ensure your product liability policy specifically covers hemp-derived CBD products and that your supplier documentation includes certificates of analysis showing THC content below the legal threshold.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1000,50 +1164,59 @@ export const citiesPart2 = [
     state: 'Indiana',
     stateSlug: 'indiana',
     abbreviation: 'IN',
-    metaTitle: 'Trucking Insurance in Fort Wayne, IN',
+    metaTitle: 'Cannabis Insurance in Fort Wayne, IN',
     metaDescription:
-      'Commercial trucking insurance in Fort Wayne, Indiana. Coverage for carriers in northeast Indiana\'s manufacturing and agricultural freight market.',
-    heroHeading: 'Fort Wayne Trucking Insurance',
+      'Cannabis business insurance in Fort Wayne, Indiana. Coverage for hemp and CBD businesses in northeast Indiana.',
+    heroHeading: 'Fort Wayne Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers serving northeast Indiana\'s diverse manufacturing economy.',
+      "Insurance for hemp and CBD businesses in northeast Indiana's commercial hub.",
     overview:
-      'Fort Wayne is the second-largest city in Indiana and the commercial hub of the northeast part of the state. The city sits at the intersection of I-69 and US-30, with a trucking industry that supports a diverse manufacturing base including defense electronics, automotive components, and food processing. Fort Wayne\'s central location between Chicago, Indianapolis, Detroit, and Columbus makes it a natural distribution point.',
+      "Fort Wayne is Indiana's second-largest city and the commercial hub of the northeast part of the state. While Indiana has not legalized cannabis for medical or recreational use, the hemp and CBD market has grown throughout the Fort Wayne metro area. The city's central location between Chicago, Indianapolis, Detroit, and Columbus provides market access for hemp product distribution. Local agricultural operations have explored hemp cultivation, and CBD retailers serve the growing consumer demand for hemp-derived wellness products.",
     sections: [
       {
-        heading: 'Trucking in Fort Wayne',
+        heading: 'Cannabis Market in Fort Wayne',
         content:
-          'Fort Wayne\'s trucking sector is driven by manufacturing. General Motors, BAE Systems, and numerous automotive and defense suppliers maintain operations in the region, generating consistent freight demand for parts, components, and finished products. The food processing sector, including major operations from Sweetwater and Perfection Bakeries, adds temperature-controlled freight requirements.\n\nThe city also serves as a regional agricultural collection point, with carriers hauling grain, soybeans, and livestock from surrounding farms to processing facilities and markets. Fort Wayne\'s growing logistics park developments are attracting new distribution center investments.',
+          "Fort Wayne's cannabis-adjacent market centers on CBD retail and hemp products. The city's diverse consumer base and growing population have supported multiple CBD specialty shops and smoke shops offering hemp-derived products. Delta-8 THC products have been available in the market, though Indiana's regulatory position on these products has evolved.\n\nHemp cultivation in northeast Indiana is part of the state's industrial hemp program, with farmers in the surrounding agricultural region evaluating the crop. Fort Wayne's manufacturing expertise and quality-conscious workforce provide a foundation for hemp processing and CBD product manufacturing.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-69 connects Fort Wayne to Indianapolis to the south and continues north toward the Michigan border. US-30 runs east-west linking Fort Wayne to Chicago and the western United States to the west and to Ohio to the east. US-24 provides an alternate east-west route toward Toledo and Huntington. US-27 runs south toward Richmond and Cincinnati. Highway 37 connects to surrounding agricultural communities.',
+          "CBD retailers in Fort Wayne are located along Coliseum Boulevard, Lima Road, Jefferson Boulevard, and in the Jefferson Pointe shopping area. The Dupont Road corridor and Illinois Road commercial district also host CBD shops. Hemp cultivation is found in agricultural areas of Allen, DeKalb, and Whitley counties. Processing operations are located in industrial parks along I-69 and in the Fort Wayne industrial corridor.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Manufacturing and automotive parts cargo coverage for just-in-time supply chains',
-          'Defense contractor freight insurance for BAE Systems and military supplier operations',
-          'Agricultural commodity coverage for northeast Indiana grain and livestock',
-          'Winter operations coverage for lake-effect snow conditions',
+          'General liability for CBD retail operations and customer interactions',
+          'Product liability for hemp-derived CBD and wellness products',
+          'Property insurance for retail stores and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for northeast Indiana hemp farming',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Fort Wayne\'s manufacturing focus affect trucking insurance needs?',
-        a: 'Manufacturing freight often involves high-value components with tight delivery schedules. Your cargo coverage needs to reflect the replacement value of manufactured goods, and your policy should address the financial consequences of delivery delays in just-in-time supply chains.',
+        q: 'What is the legal status of cannabis products in Fort Wayne?',
+        a: "Indiana does not permit the sale of THC cannabis products. Hemp-derived CBD products containing less than 0.3 percent THC are legal under state and federal law. Your insurance coverage should specifically address the products you sell and confirm they meet Indiana legal requirements. Maintain lab testing documentation for all products to demonstrate compliance.",
       },
       {
-        q: 'Does northeast Indiana\'s winter weather affect my insurance costs?',
-        a: 'Fort Wayne experiences significant winter weather including lake-effect snow from Lake Erie. Winter driving conditions increase accident risk and may affect your loss experience. Insurers look favorably on carriers with documented winter safety protocols and driver training programs.',
+        q: 'How does Michigan proximity affect Fort Wayne CBD businesses?',
+        a: "Fort Wayne's proximity to Michigan, which has a legal recreational cannabis market, creates consumer awareness and demand for legal hemp products in Indiana. However, products from Michigan's cannabis market cannot legally be sold in Indiana. Your insurance should cover only products that comply with Indiana law, and your business practices should clearly distinguish between legal hemp products and regulated cannabis.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'non-trucking-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1052,50 +1225,59 @@ export const citiesPart2 = [
     state: 'Michigan',
     stateSlug: 'michigan',
     abbreviation: 'MI',
-    metaTitle: 'Trucking Insurance in Grand Rapids, MI',
+    metaTitle: 'Cannabis Insurance in Grand Rapids, MI',
     metaDescription:
-      'Commercial trucking insurance in Grand Rapids, Michigan. Coverage for carriers in West Michigan\'s furniture, automotive, and food processing freight market.',
-    heroHeading: 'Grand Rapids Trucking Insurance',
+      'Cannabis business insurance in Grand Rapids, Michigan. Coverage for dispensaries, cultivation facilities, and processors in West Michigan.',
+    heroHeading: 'Grand Rapids Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in West Michigan\'s manufacturing and distribution corridor.',
+      "Insurance for cannabis businesses in West Michigan's growing market.",
     overview:
-      'Grand Rapids is the second-largest city in Michigan and the center of a diverse manufacturing region historically known for office furniture production. Today the metro area\'s freight market includes automotive suppliers, food processing companies, medical device manufacturers, and growing e-commerce distribution operations. The city\'s position along US-131 and I-96 provides connectivity to Chicago, Detroit, and the broader Midwest.',
+      "Grand Rapids is Michigan's second-largest city and a significant cannabis market in the western part of the state. Michigan legalized recreational cannabis in 2018 through Proposal 1, and the Grand Rapids area has seen steady growth in licensed dispensaries, cultivation facilities, and processing operations. The city's entrepreneurial culture, manufacturing heritage, and growing population make it an attractive market for cannabis businesses. Grand Rapids has adopted local cannabis ordinances allowing retail and other license types within city limits.",
     sections: [
       {
-        heading: 'Trucking in Grand Rapids',
+        heading: 'Cannabis Market in Grand Rapids',
         content:
-          'Grand Rapids\' trucking industry reflects the diversity of West Michigan manufacturing. Steelcase, Herman Miller (now MillerKnoll), and other furniture makers still generate substantial freight, though the sector has broadened significantly. Automotive parts, food products from companies like Meijer and Spartan Nash, and medical devices from Stryker and other manufacturers create a varied cargo mix.\n\nThe city also benefits from its proximity to Lake Michigan ports, including the Port of Muskegon and the Port of Holland, which handle bulk commodities and some container traffic.',
+          "Grand Rapids has developed a competitive cannabis retail market with dispensaries operating throughout the metro area. The city's craft beer culture and artisanal food scene have translated into consumer interest in craft cannabis products, driving demand for locally grown and processed flower, edibles, and concentrates.\n\nCultivation operations in the Grand Rapids region include indoor grows in converted industrial spaces, leveraging the city's manufacturing infrastructure. Processing and manufacturing companies produce edibles, vape products, and concentrates for the Michigan market. The West Michigan agricultural community has also engaged in outdoor and greenhouse cannabis cultivation in surrounding counties.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'US-131 is the primary north-south route through Grand Rapids, connecting to Kalamazoo and Indiana to the south and Cadillac and northern Michigan to the north. I-96 runs east to Lansing and Detroit. I-196 heads southwest to Holland and the Lake Michigan coast, then south to Benton Harbor. M-6 (South Beltline) provides a bypass route south of the city connecting I-96 and US-131.',
+          "Dispensaries in Grand Rapids are located along 28th Street, Division Avenue, Plainfield Avenue, and in the Wealthy Street corridor. The Alpine Avenue and Kalamazoo Avenue areas also host cannabis retail. Cultivation and processing operations are concentrated in industrial areas along Clyde Park Avenue, in the Market Avenue corridor, and in neighboring communities like Wyoming and Kentwood. Outdoor cultivation is found in Ottawa, Allegan, and Ionia counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'High-value manufactured goods coverage for furniture and office equipment loads',
-          'Automotive parts cargo insurance for Tier 1 and Tier 2 supplier operations',
-          'Heavy winter coverage for lake-effect snow conditions from Lake Michigan',
-          'Food and beverage cargo coverage for Meijer and Spartan Nash distribution',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for flower, edibles, concentrates, and vape products',
+          'Property insurance for grow facilities and retail storefronts',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor and outdoor cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Lake Michigan lake-effect snow affect my trucking insurance in Grand Rapids?',
-        a: 'Grand Rapids receives significant lake-effect snow from Lake Michigan, creating hazardous winter driving conditions. This affects accident frequency during winter months. Insurers evaluate your winter safety record and may look at seasonal operating adjustments. Documenting winter training and equipment preparedness can help.',
+        q: 'What insurance do Michigan cannabis dispensaries in Grand Rapids need?',
+        a: "Michigan requires cannabis businesses to maintain insurance coverage as part of the licensing process. Dispensaries in Grand Rapids need general liability, product liability, property insurance, and workers compensation at minimum. The Cannabis Regulatory Agency may specify minimum coverage amounts, and your local municipal cannabis ordinance may have additional requirements.",
       },
       {
-        q: 'What cargo coverage do I need for hauling office furniture from Grand Rapids?',
-        a: 'Office furniture is a high-value, damage-prone commodity. Your cargo coverage should reflect the retail value of furniture loads, which can be substantial for premium brands. Pay attention to loading and unloading coverage since furniture damage often occurs during handling rather than transit.',
+        q: 'How does Grand Rapids winter weather affect cannabis cultivation insurance?',
+        a: "West Michigan receives significant lake-effect snow from Lake Michigan, which can impact cannabis operations. Indoor cultivation facilities face risks from power outages and heating system failures during winter storms. Outdoor operations in surrounding counties deal with short growing seasons. Your property and crop insurance should address weather-related risks including power loss, snow load damage to structures, and frozen pipe damage.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1104,50 +1286,59 @@ export const citiesPart2 = [
     state: 'Ohio',
     stateSlug: 'ohio',
     abbreviation: 'OH',
-    metaTitle: 'Trucking Insurance in Toledo, OH',
+    metaTitle: 'Cannabis Insurance in Toledo, OH',
     metaDescription:
-      'Commercial trucking insurance in Toledo, Ohio. Coverage for carriers on the I-75 and I-80/90 corridors at the Ohio-Michigan border.',
-    heroHeading: 'Toledo Trucking Insurance',
+      'Cannabis business insurance in Toledo, Ohio. Coverage for dispensaries, cultivators, and processors at the Ohio-Michigan border.',
+    heroHeading: 'Toledo Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the crossroads of I-75 and the Ohio Turnpike.',
+      'Insurance for cannabis businesses at the crossroads of Ohio and Michigan.',
     overview:
-      'Toledo sits at the junction of I-75 and I-80/90 (Ohio Turnpike) in northwest Ohio, making it a critical interchange for freight moving between the Midwest and the East Coast. The city\'s trucking industry serves automotive manufacturing, glass production, petroleum refining, and agricultural operations. The Port of Toledo on Lake Erie handles bulk commodities including iron ore, coal, and grain.',
+      "Toledo sits at the junction of I-75 and the Ohio Turnpike in northwest Ohio, near the Michigan border. Ohio voters approved recreational cannabis through Issue 2 in November 2023, building on the state's existing medical marijuana program. Toledo's cannabis market benefits from its proximity to Michigan's mature recreational market and its position along major transportation corridors. The city's industrial infrastructure provides suitable spaces for cultivation and processing operations, while its population supports retail dispensary demand.",
     sections: [
       {
-        heading: 'Trucking in Toledo',
+        heading: 'Cannabis Market in Toledo',
         content:
-          'Toledo has historically been called the Glass City, and glass manufacturing from companies like Owens-Illinois and Owens Corning continues to generate specialized freight. The Jeep assembly plant operated by Stellantis is a major automotive freight generator. Two petroleum refineries operated by BP and PBF Energy create tanker truck demand for fuel distribution.\n\nThe city\'s position on the Ohio Turnpike (I-80/90) makes it a natural toll plaza rest and refueling point for eastbound and westbound carriers, contributing to a robust truck service infrastructure.',
+          "Toledo's cannabis market has expanded from medical dispensaries to include recreational sales as Ohio implements its adult-use program. The city's proximity to Michigan, which legalized recreational cannabis in 2018, has created consumer familiarity and demand. Local dispensaries serve both medical patients and recreational consumers.\n\nCultivation and processing operations in the Toledo area utilize converted industrial and warehouse spaces, part of the region's manufacturing heritage. The proximity to the Michigan border also creates opportunities for supply chain partnerships, though cannabis products cannot legally cross state lines. Testing laboratories in the area support quality assurance for the northwest Ohio market.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-75 runs north-south through Toledo connecting Detroit to the north and Dayton and Cincinnati to the south. I-80/90 (Ohio Turnpike) runs east-west connecting Chicago and Indiana to the west and Cleveland, Pennsylvania, and New York to the east. US-24 heads southwest toward Fort Wayne. US-20 runs east-west as a non-toll alternative. Highway 2 follows the Lake Erie shore.',
+          "Dispensaries in Toledo are located along Monroe Street, Secor Road, and in the Franklin Park Mall area. The Reynolds Road corridor and Sylvania area also host cannabis retail. Cultivation and processing facilities are found in industrial zones along I-75, near Toledo Express Airport, and in the East Toledo industrial corridor. The Oregon and Maumee suburbs host additional cannabis operations.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Glass and fragile cargo coverage for Toledo\'s glass manufacturing shipments',
-          'Petroleum products coverage for refinery fuel distribution operations',
-          'Automotive manufacturing cargo insurance for Stellantis supply chain',
-          'Lake Erie winter coverage for severe lake-effect weather conditions',
+          'General liability for dispensary operations serving medical and recreational customers',
+          'Product liability for cannabis flower, edibles, and manufactured products',
+          'Property insurance for cultivation facilities and retail locations',
+          'Workers compensation for all cannabis business employees',
+          'Cyber liability for point-of-sale systems and patient data',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for hauling petroleum products from Toledo refineries?',
-        a: 'Fuel distribution from Toledo\'s refineries requires hazmat-endorsed auto liability, pollution liability coverage, and cargo coverage specifically addressing petroleum products. Your MCS-90 endorsement must be properly filed, and your driver qualification files must include hazmat training documentation.',
+        q: 'How does Ohio recreational legalization affect cannabis insurance in Toledo?',
+        a: "Ohio's recreational legalization has expanded the cannabis market significantly. For insurance purposes, recreational sales bring increased foot traffic, higher inventory values, and broader product liability exposure compared to medical-only operations. Your coverage should be reviewed and updated to reflect the expanded scope of your operations under the recreational program.",
       },
       {
-        q: 'How do Ohio Turnpike operations affect my trucking insurance?',
-        a: 'The Ohio Turnpike is a high-volume, high-speed freight corridor. While toll road operations generally have lower accident rates than surface streets, the speed differentials and merge conflicts at interchanges create specific risk profiles. Your policy should address the full east-west corridor exposure.',
+        q: 'Does Michigan proximity affect cannabis insurance in Toledo?',
+        a: "While Michigan's mature cannabis market creates consumer awareness beneficial to Toledo dispensaries, cannabis products cannot legally cross state lines. Your insurance coverage is specific to Ohio operations. If you operate businesses in both states, each requires separate licensing and insurance. Cross-border compliance is critical for operations near the state line.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1156,50 +1347,59 @@ export const citiesPart2 = [
     state: 'Ohio',
     stateSlug: 'ohio',
     abbreviation: 'OH',
-    metaTitle: 'Trucking Insurance in Akron, OH',
+    metaTitle: 'Cannabis Insurance in Akron, OH',
     metaDescription:
-      'Commercial trucking insurance in Akron, Ohio. Coverage for carriers in the polymer and manufacturing freight corridor of northeast Ohio.',
-    heroHeading: 'Akron Trucking Insurance',
+      'Cannabis business insurance in Akron, Ohio. Coverage for dispensaries, cultivators, and processors in northeast Ohio.',
+    heroHeading: 'Akron Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers serving northeast Ohio\'s polymer and manufacturing industries.',
+      "Insurance for cannabis businesses in northeast Ohio's growing market.",
     overview:
-      'Akron is historically known as the Rubber Capital of the World and remains a center for polymer manufacturing and research. The city\'s trucking industry serves chemical, polymer, and advanced manufacturing operations along the I-76 and I-77 corridors. Its proximity to Cleveland, Canton, and Youngstown places it within a dense manufacturing and distribution region.',
+      "Akron is part of the dense northeast Ohio population corridor that includes Cleveland and Canton, providing a substantial consumer market for cannabis businesses. Ohio's approval of recreational cannabis through Issue 2 in 2023 has accelerated market growth beyond the existing medical program. Akron's industrial heritage has left a stock of warehouse and manufacturing spaces suitable for cannabis cultivation and processing, while the city's commercial corridors support retail dispensary operations.",
     sections: [
       {
-        heading: 'Trucking in Akron',
+        heading: 'Cannabis Market in Akron',
         content:
-          'While the major tire companies have largely moved their manufacturing elsewhere, Akron retains a significant polymer and chemical industry that generates specialized freight demand. Companies including Goodyear, Bridgestone-Firestone, and numerous polymer research firms maintain operations in the area. Chemical raw materials move in and finished polymer products move out, often requiring hazmat handling.\n\nThe broader northeast Ohio region around Akron supports steel, automotive parts, and general manufacturing freight. The city\'s logistics infrastructure includes intermodal yards and distribution centers serving the greater Cleveland-Akron-Canton market.',
+          "Akron's cannabis market serves the broader northeast Ohio population through licensed dispensaries offering both medical and recreational products. The city's position between Cleveland and Canton places it within a densely populated region with strong consumer demand.\n\nIndustrial spaces formerly used for rubber and polymer manufacturing have been repurposed for indoor cannabis cultivation and processing operations. The region's chemical and polymer expertise has also attracted cannabis extraction and concentrate manufacturing companies that bring precision manufacturing skills to cannabis product development.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-77 runs north-south through Akron connecting Cleveland to the north and Canton, New Philadelphia, and West Virginia to the south. I-76 runs east-west connecting to Youngstown and Pennsylvania to the east and I-71 to the west via Medina. I-277 provides access between I-77 and I-76. The Ohio Turnpike (I-80) runs just north of the city. Highway 8 connects to the Cuyahoga Valley and Cleveland southern suburbs.',
+          "Dispensaries in Akron are located along West Market Street, South Arlington Street, and in the Chapel Hill Mall area. The Ellet neighborhood and Portage Lakes area also host cannabis retail. Cultivation and processing operations are found in industrial areas along I-77, in the Kenmore neighborhood's industrial zone, and in the North Hill commercial district. Nearby Barberton and Norton also host cannabis businesses.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Chemical and polymer cargo coverage for industrial freight shipments',
-          'Hazmat transportation insurance for chemical raw materials',
-          'Manufacturing supply chain cargo coverage for northeast Ohio industrial operations',
-          'Winter operations coverage for significant snowfall conditions',
+          'General liability for dispensary retail and customer interactions',
+          'Product liability for cannabis flower, concentrates, and edible products',
+          'Property insurance for converted industrial cultivation facilities',
+          'Workers compensation for grow facility and dispensary employees',
+          'Crop and harvest coverage for indoor cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for hauling chemical and polymer products in Akron?',
-        a: 'Chemical and polymer products may require hazmat-class cargo coverage depending on the specific materials. Even non-hazmat polymers can have unique coverage needs based on their value and sensitivity to contamination. Discuss the specific chemicals and polymers you transport with your agent to ensure proper coverage.',
+        q: 'What insurance do cannabis businesses in Akron need?',
+        a: "Cannabis businesses in Akron need general liability, product liability, property insurance, and workers compensation as a foundation. Ohio's cannabis regulatory framework specifies insurance requirements for licensees. Additional coverages like cyber liability for customer data, crime insurance for cash handling, and equipment breakdown coverage are recommended for comprehensive protection.",
       },
       {
-        q: 'How does northeast Ohio\'s weather affect trucking operations and insurance?',
-        a: 'Northeast Ohio receives heavy snowfall, including lake-effect events from Lake Erie. Winter conditions significantly increase accident risk and claim frequency. Your physical damage and liability premiums reflect this seasonal exposure. Documented winter safety programs can help manage costs.',
+        q: 'How does northeast Ohio winter weather affect cannabis operations?',
+        a: "Akron receives heavy snowfall including lake-effect events from Lake Erie, which can impact cannabis operations. Power outages can damage indoor cultivation crops, and winter driving conditions affect delivery and supply chain operations. Your property and crop insurance should address weather-related equipment failures, and your business continuity plan should include backup power provisions.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1208,50 +1408,59 @@ export const citiesPart2 = [
     state: 'Ohio',
     stateSlug: 'ohio',
     abbreviation: 'OH',
-    metaTitle: 'Trucking Insurance in Dayton, OH',
+    metaTitle: 'Cannabis Insurance in Dayton, OH',
     metaDescription:
-      'Commercial trucking insurance in Dayton, Ohio. Coverage for carriers at the I-70 and I-75 interchange serving aerospace, defense, and manufacturing freight.',
-    heroHeading: 'Dayton Trucking Insurance',
+      'Cannabis business insurance in Dayton, Ohio. Coverage for dispensaries, cultivators, and processors in the Miami Valley.',
+    heroHeading: 'Dayton Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-70/I-75 crossroads in the Miami Valley.',
+      'Insurance for cannabis businesses at the I-70/I-75 crossroads in the Miami Valley.',
     overview:
-      'Dayton sits at the intersection of I-70 and I-75, two of the most important freight interstates in the Midwest. This crossroads position makes it a natural distribution point within a day\'s drive of over 60 percent of the US population. Wright-Patterson Air Force Base is one of the largest military installations in the country, and its defense logistics requirements drive specialized freight demand alongside the region\'s automotive and manufacturing sectors.',
+      "Dayton sits at the intersection of I-70 and I-75, placing it within reach of over 60 percent of the US population within a day's drive. Ohio's recreational cannabis legalization has expanded the Dayton area's cannabis market beyond the existing medical program. The city's affordable real estate, central location, and available industrial spaces make it attractive for cannabis cultivation and processing operations looking to serve the Ohio market.",
     sections: [
       {
-        heading: 'Trucking in Dayton',
+        heading: 'Cannabis Market in Dayton',
         content:
-          'Dayton\'s trucking industry benefits from its central location at the I-70/I-75 interchange, which channels enormous freight volumes through the metro area. The city\'s freight base includes defense logistics for Wright-Patterson Air Force Base, automotive parts manufacturing for the Honda supply chain centered in nearby Marysville, and general manufacturing from the Miami Valley industrial base.\n\nSeveral major distribution centers have located in the Dayton area to take advantage of the central positioning, with carriers able to reach markets from New York to Chicago to Atlanta within a single driving shift.',
+          "Dayton's cannabis market has grown with Ohio's transition to recreational sales. Medical dispensaries that established in the area have expanded to serve recreational consumers, and new retail locations are opening throughout the metro. The Miami Valley's affordable real estate has attracted cultivation operators looking for cost-effective indoor growing facilities.\n\nProcessing and manufacturing operations in the Dayton area benefit from the region's manufacturing heritage and skilled workforce. The city's central Ohio location supports distribution to cannabis markets throughout the state.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-75 runs north-south through Dayton connecting Toledo and Detroit to the north and Cincinnati to the south. I-70 runs east-west connecting Indianapolis to the west and Columbus and the East Coast to the east. US-35 heads southeast toward Chillicothe and Charleston, West Virginia. US-40 (the old National Road) parallels I-70. Highway 48 and Highway 741 serve the Wright-Patterson Air Force Base area.',
+          "Dispensaries in Dayton are located along North Main Street, Salem Avenue, and in the Beavercreek area near The Greene Town Center. The Huber Heights and Kettering areas also host cannabis retail. Cultivation and processing facilities are found in industrial zones along I-75, in the Vandalia area, and in the Riverside commercial district. The West Carrollton and Moraine industrial corridors also support cannabis operations.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Defense and aerospace cargo coverage for Wright-Patterson Air Force Base logistics',
-          'High-traffic interchange coverage for the I-70/I-75 junction',
-          'Automotive supply chain cargo insurance for Honda and other manufacturer freight',
-          'Central distribution hub coverage for multi-state delivery operations',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for all cannabis products sold or manufactured',
+          'Property insurance for cultivation and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor cannabis cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Dayton\'s central location benefit my trucking insurance costs?',
-        a: 'Dayton\'s central position allows carriers to serve a large population base within relatively short haul distances. Shorter average haul distances generally correlate with lower per-mile risk exposure. However, the high traffic density at the I-70/I-75 interchange creates its own risk factors that insurers evaluate.',
+        q: "How does Dayton's central location benefit cannabis businesses?",
+        a: "Dayton's position at I-70 and I-75 provides excellent access to Ohio's major population centers. For cannabis businesses focused on cultivation and distribution, this central location can reduce transportation costs and delivery times. From an insurance perspective, shorter distribution distances generally mean less transit exposure and potentially lower transportation-related risk premiums.",
       },
       {
-        q: 'What coverage do I need for defense logistics at Wright-Patterson AFB?',
-        a: 'Defense logistics contracts typically require elevated coverage limits for both auto liability and cargo. Depending on the materials being transported, you may need additional endorsements for classified or controlled materials. Ensure your policy meets the specific requirements outlined in your defense contracts.',
+        q: 'What Ohio cannabis regulations affect insurance requirements in Dayton?',
+        a: "Ohio's Division of Cannabis Control sets licensing requirements that include minimum insurance coverage for all license types. Dispensaries, cultivators, processors, and testing laboratories each have specific insurance mandates. Your coverage must meet these state minimums, and your agent should be familiar with Ohio's cannabis regulatory framework to ensure full compliance.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1260,52 +1469,59 @@ export const citiesPart2 = [
     state: 'Pennsylvania',
     stateSlug: 'pennsylvania',
     abbreviation: 'PA',
-    metaTitle: 'Trucking Insurance in Harrisburg, PA',
+    metaTitle: 'Cannabis Insurance in Harrisburg, PA',
     metaDescription:
-      'Commercial trucking insurance in Harrisburg, Pennsylvania. Coverage for carriers in the I-81 and I-76 distribution corridor of Central Pennsylvania.',
-    heroHeading: 'Harrisburg Trucking Insurance',
+      'Cannabis business insurance in Harrisburg, Pennsylvania. Coverage for medical cannabis dispensaries, grower-processors, and hemp businesses in Central Pennsylvania.',
+    heroHeading: 'Harrisburg Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in Central Pennsylvania\'s massive distribution corridor.',
+      "Insurance for cannabis businesses in Pennsylvania's capital region.",
     overview:
-      'Harrisburg and the surrounding Central Pennsylvania region have become one of the largest distribution center clusters in the United States. The convergence of I-81, I-76 (Pennsylvania Turnpike), and I-83 creates a logistics crossroads that can reach over one-third of the US population within an overnight drive. Major retailers and e-commerce companies have built extensive fulfillment operations throughout the Cumberland and Lebanon valleys.',
+      "Harrisburg is Pennsylvania's state capital, situated at the convergence of I-81, I-76, and I-83. The city is a focal point for the state's medical marijuana program, with proximity to the regulatory agencies that administer it. Pennsylvania's medical cannabis program has matured significantly since its 2016 launch, with dispensaries, grower-processors, and testing laboratories operating throughout the Harrisburg metro area. The Central Pennsylvania location provides access to a broad swath of the state's patient population.",
     sections: [
       {
-        heading: 'Trucking in Harrisburg',
+        heading: 'Cannabis Market in Harrisburg',
         content:
-          'The Harrisburg-Carlisle-Mechanicsburg corridor is a national distribution powerhouse. Millions of square feet of warehouse and distribution center space line the I-81 corridor, operated by Amazon, FedEx, Walmart, Home Depot, and dozens of other companies. This concentration creates enormous demand for local cartage, LTL consolidation, and truckload operations.\n\nThe region also handles significant freight for the Pennsylvania state government, military installations like Carlisle Barracks and the Naval Support Activity in Mechanicsburg, and the Hershey Company\'s chocolate manufacturing operations.',
+          "Harrisburg's medical cannabis market benefits from the city's role as the state capital and its central location. Dispensaries in the area serve patients from across Central Pennsylvania, including the Cumberland Valley, Lebanon Valley, and surrounding rural communities. The proximity to the Pennsylvania Department of Health, which oversees the medical marijuana program, keeps local operators connected to regulatory developments.\n\nGrower-processor operations in the region supply the statewide market with flower, concentrates, and other medical cannabis products. Central Pennsylvania's available industrial space and workforce have attracted cannabis business investment. Hemp and CBD operations also contribute to the local cannabis economy.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-81 runs through the corridor north-south connecting to Scranton and the New York border to the north and the Shenandoah Valley and Tennessee to the south. I-76 (Pennsylvania Turnpike) runs east-west connecting Philadelphia to the east and Pittsburgh to the west. I-83 runs south to Baltimore and the Port of Baltimore. US-11 and US-15 provide alternate north-south routes. Highway 322 connects to State College and central Pennsylvania.',
+          "Dispensaries in the Harrisburg area are located along Jonestown Road, Carlisle Pike in Mechanicsburg, and in the Camp Hill and Enola areas. The Hershey Road corridor and Linglestown area also host cannabis retail. Grower-processor operations are found in industrial zones along I-81 in the Carlisle and Shippensburg areas, and in the Lebanon Valley corridor. Testing laboratories operate from commercial facilities throughout the metro.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'High-volume distribution corridor coverage for I-81 warehouse operations',
-          'E-commerce fulfillment cargo insurance for Amazon and retailer shipments',
-          'Multi-stop delivery coverage for metro area distribution routes',
-          'Turnpike corridor coverage for I-76 toll road operations',
-          'Port of Baltimore connectivity coverage for I-83 intermodal freight',
+          'General liability for medical cannabis dispensary operations',
+          'Product liability for all dispensed cannabis products',
+          'Property insurance for grower-processor facilities and dispensary locations',
+          'Workers compensation for cultivation, processing, and retail employees',
+          'Crop and harvest coverage for cannabis cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Why has Harrisburg become such a major distribution hub?',
-        a: 'Harrisburg\'s location at the I-81/I-76/I-83 interchange puts it within overnight delivery range of major East Coast markets including New York, Philadelphia, Baltimore, and Washington DC. This geographic advantage, combined with lower real estate and labor costs compared to metro areas, has attracted massive distribution center development.',
+        q: 'What insurance does a Pennsylvania grower-processor need in Harrisburg?',
+        a: "Pennsylvania grower-processor licensees need comprehensive coverage including general liability, product liability for all manufactured products, property insurance for the cultivation and processing facility, workers compensation, equipment breakdown coverage, and crop and harvest insurance. The Department of Health specifies minimum insurance requirements in the licensing regulations.",
       },
       {
-        q: 'How does the high concentration of distribution centers affect my insurance?',
-        a: 'The dense truck traffic around Harrisburg\'s distribution corridors increases fender-bender and loading dock incident frequency. Your policy should include strong general liability coverage for warehouse and dock operations, and your auto liability should account for the congested conditions on I-81 through the corridor.',
+        q: 'Is recreational cannabis coming to Pennsylvania and how does that affect insurance?',
+        a: "Pennsylvania has been debating recreational cannabis legislation, and passage would significantly expand the market. For existing medical cannabis operators in Harrisburg, recreational legalization would increase customer volume, inventory values, and liability exposure. Your insurance should be reviewed and updated if and when the regulatory landscape changes to ensure coverage reflects your expanded operations.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'hired-and-non-owned-auto',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1314,50 +1530,59 @@ export const citiesPart2 = [
     state: 'Pennsylvania',
     stateSlug: 'pennsylvania',
     abbreviation: 'PA',
-    metaTitle: 'Trucking Insurance in Scranton, PA',
+    metaTitle: 'Cannabis Insurance in Scranton, PA',
     metaDescription:
-      'Commercial trucking insurance in Scranton, Pennsylvania. Coverage for carriers in the I-81 and I-84 freight corridors of northeastern Pennsylvania.',
-    heroHeading: 'Scranton Trucking Insurance',
+      'Cannabis business insurance in Scranton, Pennsylvania. Coverage for medical cannabis dispensaries and hemp businesses in northeastern Pennsylvania.',
+    heroHeading: 'Scranton Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-81/I-84 junction serving northeastern Pennsylvania logistics.',
+      'Insurance for cannabis businesses in northeastern Pennsylvania.',
     overview:
-      'Scranton and the Wilkes-Barre/Scranton metro area sit at the junction of I-81 and I-84 in northeastern Pennsylvania. The region has transformed from its coal mining heritage into a significant logistics and distribution center, with companies like Procter & Gamble, Walmart, and numerous e-commerce operations establishing warehouses along the interstate corridors. The area provides access to New York City and New England markets while offering lower operating costs.',
+      "Scranton and the Wilkes-Barre/Scranton metro area serve as the medical cannabis hub for northeastern Pennsylvania. The region's medical marijuana dispensaries provide access for patients across a wide geographic area spanning the Pocono Mountains, Wyoming Valley, and the northeastern Pennsylvania corridor. The area's affordable real estate and available industrial spaces support cannabis cultivation and processing operations that supply the statewide market.",
     sections: [
       {
-        heading: 'Trucking in Scranton',
+        heading: 'Cannabis Market in Scranton',
         content:
-          'Scranton\'s trucking industry has grown substantially as the region has attracted distribution center investments. The availability of former industrial land, lower real estate costs compared to the New York and northern New Jersey markets, and strong interstate access have made northeastern Pennsylvania an attractive alternative for companies needing to serve the greater New York metro area.\n\nCarriers based in the Scranton area handle distribution freight for national retailers, LTL consolidation for the northeast corridor, and intermodal container transport from the nearby intermodal terminals. The region\'s mountain terrain creates challenging driving conditions, particularly in winter.',
+          "Scranton's medical cannabis market serves the northeastern Pennsylvania patient population. Dispensaries in the area provide access to cannabis products for patients who might otherwise need to travel considerable distances given the rural character of much of the region. The market has grown as qualifying conditions have expanded and patient enrollment has increased.\n\nThe Scranton area's industrial spaces, available from the region's manufacturing past, provide suitable facilities for cannabis cultivation and processing. Lower real estate costs compared to Philadelphia and the eastern suburbs make northeastern Pennsylvania competitive for grower-processor operations looking to serve the statewide market.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-81 runs through Scranton connecting to Binghamton and Syracuse to the north and Harrisburg and the Shenandoah Valley to the south. I-84 runs east to the New York border, connecting to I-87 and the New York City market, and west toward I-380. I-476 (Northeast Extension of the Pennsylvania Turnpike) provides a southern route to Philadelphia and Allentown. US-6 runs east-west across northern Pennsylvania.',
+          "Dispensaries in the Scranton area are located along Scranton-Carbondale Highway, Moosic Street, and in the Dickson City commercial corridor. The Wilkes-Barre Township area and Kingston also host cannabis retail. Cultivation and processing operations are found in industrial zones along I-81, in the Tobyhanna industrial area, and in converted manufacturing facilities throughout Lackawanna and Luzerne counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Mountain terrain coverage for Pocono and Appalachian grade driving',
-          'New York metro distribution coverage for carriers serving the NYC market from PA',
-          'Winter operations coverage for significant snowfall in northeast Pennsylvania',
-          'E-commerce and retail distribution cargo insurance for warehouse operations',
+          'General liability for medical cannabis dispensary and patient services',
+          'Product liability for all dispensed medical cannabis products',
+          'Property insurance for dispensary locations and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Cyber liability for patient record and HIPAA-related data protection',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How do the mountain grades around Scranton affect my trucking insurance?',
-        a: 'The I-81 and I-84 corridors around Scranton involve significant elevation changes through the Pocono Mountains and Appalachian ridges. These grades increase brake failure risk and weather-related accident exposure. Insurers evaluate your mountain driving experience and safety record when pricing coverage.',
+        q: 'What insurance challenges exist for cannabis businesses in northeastern Pennsylvania?',
+        a: "Cannabis businesses in northeastern Pennsylvania face challenges including winter weather exposure that can affect facility operations and supply chain logistics, rural service areas that increase distribution distances, and a competitive insurance market with fewer local agents experienced in cannabis. Working with an insurer who understands both cannabis operations and the northeastern Pennsylvania operating environment is important.",
       },
       {
-        q: 'Is it more cost-effective to base operations in Scranton versus New York or New Jersey?',
-        a: 'From an insurance perspective, Pennsylvania generally offers lower premiums than New York or New Jersey, which have among the highest trucking insurance costs in the nation. However, if you regularly operate in those states, your exposure rating will still reflect that activity.',
+        q: 'How does the Pocono Mountain geography affect cannabis operations?',
+        a: "The mountainous terrain and significant snowfall in northeastern Pennsylvania create operational challenges for cannabis businesses, including delivery logistics, facility heating costs, and power reliability. Your property insurance should address weather-related risks, and your business continuity plan should account for winter storm impacts on operations and supply chains.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1366,50 +1591,59 @@ export const citiesPart2 = [
     state: 'New York',
     stateSlug: 'new-york',
     abbreviation: 'NY',
-    metaTitle: 'Trucking Insurance in Albany, NY',
+    metaTitle: 'Cannabis Insurance in Albany, NY',
     metaDescription:
-      'Commercial trucking insurance in Albany, New York. Coverage for carriers at the I-90, I-87, and I-88 junction in the Capital District.',
-    heroHeading: 'Albany Trucking Insurance',
+      'Cannabis business insurance in Albany, New York. Coverage for dispensaries, cultivators, and processors in the Capital District.',
+    heroHeading: 'Albany Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the crossroads of New York\'s major interstate freight corridors.',
+      "Insurance for cannabis businesses in New York's Capital District.",
     overview:
-      'Albany sits at the confluence of the Hudson and Mohawk rivers and the junction of I-90, I-87, and I-88, making it the primary freight crossroads of upstate New York. The Capital District serves as a distribution hub for the Northeast, with carriers moving freight between New York City, Boston, Montreal, Buffalo, and the Midwest. The Port of Albany-Rensselaer handles heavy-lift and project cargo on the Hudson River.',
+      "Albany is New York's state capital and the hub of the Capital District, where the cannabis industry has been developing since the state legalized recreational marijuana through the Marijuana Regulation and Taxation Act in 2021. The city's proximity to the Office of Cannabis Management, which regulates the state's cannabis program, gives local operators direct engagement with policymakers. Albany's market serves the Capital District population and extends to consumers from surrounding rural communities throughout upstate New York.",
     sections: [
       {
-        heading: 'Trucking in Albany',
+        heading: 'Cannabis Market in Albany',
         content:
-          'Albany\'s trucking industry serves multiple roles. The city is a natural break point and relay location for carriers on the I-90 corridor between the Midwest and New England. It also serves as a distribution center for the New York State government and the growing Capital District technology sector centered on GlobalFoundries and other semiconductor operations.\n\nThe Port of Albany-Rensselaer is the farthest-inland port on the Hudson River, handling heavy-lift cargo, wind energy components, and scrap metal. This generates specialized trucking demand for oversized loads and intermodal transfers.',
+          "Albany's cannabis market has evolved as New York's licensing program has progressed. The state's social equity licensing priorities have shaped the market, with licenses prioritized for applicants impacted by cannabis prohibition. Dispensaries in the Capital District serve both recreational consumers and medical patients under the state's combined program.\n\nCultivation and processing operations in the Albany region benefit from available agricultural land and industrial spaces. The Capital District's proximity to the Catskills and Hudson Valley, where cannabis cultivation has historical roots, supports supply chain development. The state's requirement for in-state cultivation and processing means local operations supply the New York market.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-90 (New York State Thruway) runs east-west through Albany connecting Buffalo and the Midwest to the west and Boston and New England to the east via I-90 and the Massachusetts Turnpike. I-87 (Northway/Thruway) runs north to Montreal and south to New York City. I-88 heads southwest to Binghamton. US-9 and US-20 provide alternate north-south and east-west routes.',
+          "Dispensaries in Albany are found along Central Avenue, Western Avenue, and in the downtown Lark Street district. The Colonie commercial corridor and Wolf Road area also host cannabis retail. Cultivation and processing operations are located in agricultural zones in Albany, Rensselaer, and Saratoga counties, as well as in industrial areas along I-87 and the Port of Albany area.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Northeast corridor coverage for operations across high-cost New York and New England states',
-          'Cross-border coverage for Canadian freight via I-87 to Montreal',
-          'Heavy-lift and project cargo coverage for Port of Albany operations',
-          'Severe winter coverage for upstate New York snow and ice conditions',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for all cannabis products sold or manufactured',
+          'Property insurance for grow facilities and retail storefronts',
+          'Workers compensation for all cannabis business employees',
+          'Cyber liability for point-of-sale and compliance tracking systems',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does operating in New York state affect my trucking insurance costs?',
-        a: 'New York has some of the highest trucking insurance costs in the nation due to its legal environment, high jury verdict trends, and mandatory minimum coverage requirements. The state\'s no-fault auto insurance system adds complexity. Working with an agent experienced in New York trucking insurance is essential.',
+        q: "How does New York's cannabis regulatory environment affect insurance in Albany?",
+        a: "New York's cannabis regulations, administered by the Office of Cannabis Management, include specific insurance requirements for all license types. The state's social equity focus and evolving regulatory landscape mean licensees should work with insurers who stay current with New York cannabis law. Insurance requirements may differ based on your license type and the scale of your operations.",
       },
       {
-        q: 'Do I need special coverage for cross-border freight to Canada from Albany?',
-        a: 'Yes. If you operate into Canada via I-87 to Montreal, you need a Canadian liability policy or a properly endorsed US policy that extends coverage into Canada. Customs bond coverage and cross-border cargo provisions are also necessary.',
+        q: 'What are the insurance costs for a cannabis business in Albany?',
+        a: "Insurance costs for cannabis businesses in Albany vary based on license type, operation size, revenue, and risk profile. New York's legal environment, which tends toward higher jury verdicts, contributes to elevated liability costs compared to some other states. Working with a cannabis-specialized insurance broker can help identify competitive options and ensure adequate coverage without overpaying.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1418,52 +1652,59 @@ export const citiesPart2 = [
     state: 'New York',
     stateSlug: 'new-york',
     abbreviation: 'NY',
-    metaTitle: 'Trucking Insurance in Buffalo, NY',
+    metaTitle: 'Cannabis Insurance in Buffalo, NY',
     metaDescription:
-      'Commercial trucking insurance in Buffalo, New York. Coverage for carriers at the Peace Bridge border crossing and I-90 western terminus in New York.',
-    heroHeading: 'Buffalo Trucking Insurance',
+      'Cannabis business insurance in Buffalo, New York. Coverage for dispensaries, cultivators, and processors in western New York.',
+    heroHeading: 'Buffalo Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the US-Canada border and western New York freight gateway.',
+      'Insurance for cannabis businesses in western New York and the Niagara Frontier.',
     overview:
-      'Buffalo is a major US-Canada border crossing point, with the Peace Bridge connecting to Fort Erie, Ontario and handling billions of dollars in cross-border trade annually. The city sits at the western end of the New York State Thruway (I-90) and at the junction of I-190, creating a strategic position for freight moving between the Midwest, Canada, and the northeastern United States. The Port of Buffalo on Lake Erie adds waterborne freight connectivity.',
+      "Buffalo is a major cannabis market in western New York, serving a metro area population along the Niagara Frontier. The city's cannabis industry has developed under New York's recreational legalization framework, with dispensaries, cultivation facilities, and processing operations establishing throughout the region. Buffalo's proximity to the Canadian border, where cannabis is nationally legal, creates unique market dynamics. The city's affordable real estate and revitalizing economy have attracted cannabis entrepreneurs.",
     sections: [
       {
-        heading: 'Trucking in Buffalo',
+        heading: 'Cannabis Market in Buffalo',
         content:
-          'Buffalo\'s trucking industry is heavily influenced by US-Canada cross-border trade. The Peace Bridge and Lewiston-Queenston Bridge process thousands of commercial truck crossings daily, handling automotive parts, manufactured goods, agricultural products, and consumer freight between the two nations. Canadian carriers and US carriers both maintain significant operations in the Buffalo Niagara region.\n\nBeyond cross-border operations, Buffalo serves as a regional distribution hub for western New York and northwestern Pennsylvania. The city\'s manufacturing base includes steel, food processing, and chemical production, all generating freight demand.',
+          "Buffalo's cannabis market serves the western New York population and benefits from strong consumer demand in a region that has embraced legalization. The city's dispensaries cater to both recreational consumers and medical patients. The proximity to Ontario, Canada, where cannabis has been legal nationally since 2018, creates familiarity and consumer acceptance.\n\nCultivation and processing operations in the Buffalo area leverage affordable industrial spaces and agricultural land in Erie and Niagara counties. The region's greenhouse and nursery industry has provided transferable expertise for cannabis cultivation. Western New York's agricultural heritage supports outdoor growing during the warmer months.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-90 (New York State Thruway) runs east from Buffalo through Rochester, Syracuse, and Albany to the Massachusetts border. I-190 connects to the Peace Bridge and Niagara Falls border crossings. I-290 provides a northeast bypass to the Thruway. US-219 runs south toward Salamanca and the Southern Tier. Highway 5 follows the Lake Erie shore. The QEW on the Canadian side connects to Toronto and the Golden Horseshoe industrial region.',
+          "Dispensaries in Buffalo are located along Elmwood Avenue, Hertel Avenue, Main Street, and in the Allentown neighborhood. The Transit Road corridor in the eastern suburbs and Niagara Falls Boulevard also host cannabis retail. Cultivation and processing facilities are found in industrial zones along I-90, in the Tonawanda industrial corridor, and in agricultural areas of Erie and Niagara counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'US-Canada cross-border coverage for Peace Bridge and Lewiston bridge operations',
-          'Canadian liability coverage for operations in Ontario and beyond',
-          'Customs bonding and cargo coverage for international freight',
-          'Lake-effect snow and severe winter coverage for one of America\'s snowiest cities',
-          'FAST/C-TPAT program compliance for expedited border crossing operations',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for cannabis flower, edibles, and concentrates',
+          'Property insurance with winter weather provisions for western New York',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for cross-border trucking at the Peace Bridge?',
-        a: 'Cross-border operations require both US and Canadian insurance coverage. You need a Canadian non-resident liability policy or an endorsement on your US policy that extends to Canada. Cargo coverage must address customs and bonding requirements, and your equipment coverage should be valid in both countries.',
+        q: 'How does Buffalo severe winter weather affect cannabis business insurance?',
+        a: "Buffalo's extreme lake-effect snow and cold create specific risks for cannabis operations including power outages that can destroy indoor crops, snow load damage to greenhouses, and supply chain disruptions. Your property and crop insurance should address weather-related losses, and your facility should have backup power systems. Insurers evaluate your winter preparedness when pricing coverage.",
       },
       {
-        q: 'How does Buffalo\'s severe winter weather affect my trucking insurance?',
-        a: 'Buffalo is one of the snowiest large cities in the United States due to Lake Erie lake-effect snow. Winter claims frequency is higher than national averages. Insurers evaluate your winter preparedness, including equipment readiness and driver training for severe weather operations.',
+        q: 'Does Canadian cannabis legalization affect the Buffalo market?',
+        a: "While Canada's national cannabis legalization creates consumer acceptance in the Buffalo area, cannabis products cannot legally cross the international border. Your insurance coverage applies only to your New York operations. If you serve customers near the border, ensure your security and compliance protocols prevent any cross-border product movement.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1472,50 +1713,59 @@ export const citiesPart2 = [
     state: 'New York',
     stateSlug: 'new-york',
     abbreviation: 'NY',
-    metaTitle: 'Trucking Insurance in Syracuse, NY',
+    metaTitle: 'Cannabis Insurance in Syracuse, NY',
     metaDescription:
-      'Commercial trucking insurance in Syracuse, New York. Coverage for carriers at the I-90 and I-81 crossroads in central New York.',
-    heroHeading: 'Syracuse Trucking Insurance',
+      'Cannabis business insurance in Syracuse, New York. Coverage for dispensaries, cultivators, and processors in central New York.',
+    heroHeading: 'Syracuse Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-90/I-81 interchange in central New York.',
+      'Insurance for cannabis businesses at the crossroads of central New York.',
     overview:
-      'Syracuse is positioned at the crossroads of I-90 and I-81 in central New York, making it a natural freight interchange between the east-west Thruway corridor and the north-south route connecting Canada to Pennsylvania. The city serves as a regional distribution center and has seen renewed investment from semiconductor industry expansions in the area, including the Micron Technology megafab project in nearby Clay.',
+      "Syracuse is positioned at the crossroads of I-90 and I-81 in central New York, making it a natural hub for cannabis businesses serving the upstate market. The city's cannabis industry has developed under New York's recreational legalization framework, with dispensaries serving both the local population and the broader central New York region. Syracuse's university community, centered on Syracuse University, provides a steady consumer base, while the region's agricultural heritage supports cannabis cultivation.",
     sections: [
       {
-        heading: 'Trucking in Syracuse',
+        heading: 'Cannabis Market in Syracuse',
         content:
-          'Syracuse\'s trucking industry benefits from its central New York location at the junction of two major interstates. The city is a regional distribution hub for grocery, retail, and industrial products serving upstate New York communities. The ongoing Micron semiconductor fabrication facility construction is generating massive construction materials hauling and will create long-term high-value technology freight once operational.\n\nThe region also supports dairy farming and food processing freight, with carriers hauling milk, cheese, and other agricultural products from surrounding farm country to processing and distribution facilities.',
+          "Syracuse's cannabis market serves the central New York population through licensed dispensaries operating in the metro area. The city's university presence brings consumer demand from the student and academic communities. The surrounding agricultural region has attracted cannabis cultivators who benefit from central New York's farming infrastructure.\n\nThe ongoing economic growth in the Syracuse area, including major technology investments, has diversified the consumer base beyond the university community. Cannabis manufacturing and processing operations supply the regional market with a range of products from flower to edibles and concentrates.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-90 (New York State Thruway) runs east-west through Syracuse connecting Buffalo and the Midwest to the west with Albany and Boston to the east. I-81 runs north-south connecting Watertown and the Canadian border to the north with Binghamton and Pennsylvania to the south. I-481 provides an eastern bypass of the city. US-11 parallels I-81 through the Mohawk Valley.',
+          "Dispensaries in Syracuse are located along Erie Boulevard, James Street, and near the Destiny USA shopping center. The University Hill area near Syracuse University and the Westcott Street neighborhood also host cannabis retail. Cultivation and processing facilities are found in industrial areas along I-81, in the North Syracuse commercial corridor, and in agricultural zones of Onondaga, Madison, and Cayuga counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Heavy winter coverage for one of the snowiest metro areas in the United States',
-          'Construction materials hauling coverage for Micron megafab and related projects',
-          'Agricultural and dairy cargo coverage for central New York farm products',
-          'New York State legal environment provisions for liability exposure management',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for all cannabis products sold or manufactured',
+          'Property insurance for grow facilities and retail locations',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for central New York cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Syracuse\'s extreme snowfall affect trucking insurance?',
-        a: 'Syracuse averages over 120 inches of snow annually, making it the snowiest major city in the United States. This creates significant winter driving risk. Insurers closely evaluate your winter loss history and safety programs. Equipment for snow conditions and driver training documentation are important for managing premiums.',
+        q: 'How does Syracuse extreme snowfall affect cannabis operations insurance?',
+        a: "Syracuse averages over 120 inches of snow annually, creating significant risks for cannabis businesses. Indoor cultivation facilities face power outage risks, greenhouses can suffer snow load damage, and supply chain disruptions affect product availability. Your property insurance should include provisions for snow and ice damage, and your crop coverage should address losses from power-related environmental control failures.",
       },
       {
-        q: 'Will the Micron facility create new trucking insurance needs in Syracuse?',
-        a: 'The Micron megafab will generate both construction-phase hauling demand and long-term technology freight. Carriers handling semiconductor materials and cleanroom equipment will need specialized high-value cargo coverage. Construction phase operations require coverage for heavy haul, oversized loads, and construction site liability.',
+        q: 'What New York cannabis insurance requirements apply in Syracuse?',
+        a: "All New York cannabis licensees must maintain insurance coverage meeting Office of Cannabis Management requirements. This typically includes general liability, product liability, property insurance, and workers compensation with minimum limits specified by license type. Syracuse operators must also comply with any local cannabis ordinance requirements that may specify additional conditions.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1524,50 +1774,59 @@ export const citiesPart2 = [
     state: 'Missouri',
     stateSlug: 'missouri',
     abbreviation: 'MO',
-    metaTitle: 'Trucking Insurance in Springfield, MO',
+    metaTitle: 'Cannabis Insurance in Springfield, MO',
     metaDescription:
-      'Commercial trucking insurance in Springfield, Missouri. Coverage for carriers in the Ozarks region and along the I-44 corridor.',
-    heroHeading: 'Springfield Trucking Insurance',
+      'Cannabis business insurance in Springfield, Missouri. Coverage for dispensaries, cultivators, and processors in the Ozarks region.',
+    heroHeading: 'Springfield Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the Ozarks and the I-44 freight corridor.',
+      'Insurance for cannabis businesses in the Ozarks and Southwest Missouri.',
     overview:
-      'Springfield is the third-largest city in Missouri and a significant trucking hub in the Ozarks region. The city is home to several major trucking companies and sits along I-44, connecting St. Louis to Tulsa. Bass Pro Shops is headquartered here, generating nationwide distribution freight. The region\'s food processing, manufacturing, and agricultural industries provide a diversified freight base.',
+      "Springfield is Missouri's third-largest city and a growing cannabis market in the Ozarks region. Missouri voters approved recreational cannabis through Amendment 3 in November 2022, building on the medical marijuana program established in 2018. The Springfield area has seen significant dispensary growth, with retail locations throughout the metro. The city's central location in the four-state region and its role as a distribution hub make it attractive for cannabis cultivation and processing operations serving the Missouri market.",
     sections: [
       {
-        heading: 'Trucking in Springfield',
+        heading: 'Cannabis Market in Springfield',
         content:
-          'Springfield has a deep connection to the trucking industry, with carriers like Prime Inc. and CFI (now TFI International) headquartered in the area. The city\'s trucking culture and workforce make it an attractive base for carrier operations. Bass Pro Shops\' national distribution network generates substantial outbound freight, while food processors and agricultural operations supply the inbound side.\n\nThe region\'s poultry industry, centered on Tyson Foods and Butterball operations, creates significant refrigerated and live animal hauling demand. Springfield also serves as a distribution center for the broader Ozarks region, including parts of Arkansas, Oklahoma, and Kansas.',
+          "Springfield's cannabis market has expanded rapidly since recreational legalization. The city's dispensaries serve consumers from across the Ozarks region, including parts of Arkansas, Oklahoma, and Kansas where cannabis access varies. The transition from medical-only to recreational sales has increased customer volume and revenue across the market.\n\nCultivation operations in the Springfield area include indoor grows in converted industrial spaces and greenhouse operations in the surrounding rural areas. Processing and manufacturing companies produce edibles, concentrates, and infused products for the Missouri market. Springfield's role as a regional distribution center supports cannabis product movement throughout the state.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-44 connects Springfield to St. Louis to the northeast and Tulsa and Oklahoma City to the southwest. US-65 runs north-south connecting to I-70 at Marshall to the north and Branson and the Arkansas border to the south. US-60 heads east toward the Poplar Bluff area and west toward Joplin. Highway 13 runs north toward Clinton and Sedalia.',
+          "Dispensaries in Springfield are located along Glenstone Avenue, Campbell Avenue, Sunshine Street, and in the Battlefield Road commercial corridor. The Republic Road area and Ozark nearby also host cannabis retail. Cultivation and processing facilities are found in industrial zones along I-44, in the north Springfield industrial area, and in agricultural zones of Greene, Christian, and Webster counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Large fleet coverage for Springfield-based national carrier operations',
-          'Poultry industry cargo coverage for live birds and processed products',
-          'Ozark mountain terrain coverage for hilly, winding route conditions',
-          'Multi-regional distribution coverage for Bass Pro and other national accounts',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for cannabis flower, edibles, and concentrates',
+          'Property insurance for cultivation and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor and greenhouse cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'Why is Springfield considered a trucking industry hub?',
-        a: 'Springfield is home to the headquarters of several large carriers and has a deep trucking workforce. From an insurance perspective, this concentration of trucking expertise means local agents and insurers are experienced with motor carrier risk, and there is a competitive insurance market for carriers based in the region.',
+        q: 'What insurance do Missouri cannabis dispensaries in Springfield need?',
+        a: "Missouri requires cannabis licensees to maintain insurance coverage as part of their licensing requirements. Dispensaries need general liability, product liability, property insurance, and workers compensation. The Missouri Division of Cannabis Regulation specifies minimum coverage amounts. Given Springfield's high customer volume from the broader Ozarks region, adequate premises liability coverage is particularly important.",
       },
       {
-        q: 'How does the Ozarks terrain affect trucking insurance in the Springfield area?',
-        a: 'The Ozarks feature winding, hilly roads with elevation changes that increase accident risk compared to flat terrain. Fog in the valleys and ice on bridges add seasonal hazards. Insurers evaluate your drivers\' experience with mountain and hill driving when assessing risk in this region.',
+        q: 'How does the four-state border area affect Springfield cannabis businesses?',
+        a: "Springfield's proximity to Arkansas, Oklahoma, and Kansas means cannabis businesses draw consumers from a wide area. However, cannabis products cannot legally cross state lines. Your insurance should clearly define your Missouri operations, and your compliance programs should prevent any cross-border product movement. The multi-state consumer base increases foot traffic, which your liability coverage should adequately address.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1576,50 +1835,59 @@ export const citiesPart2 = [
     state: 'Iowa',
     stateSlug: 'iowa',
     abbreviation: 'IA',
-    metaTitle: 'Trucking Insurance in Des Moines, IA',
+    metaTitle: 'Cannabis Insurance in Des Moines, IA',
     metaDescription:
-      'Commercial trucking insurance in Des Moines, Iowa. Coverage for carriers at the I-80 and I-35 junction in the agricultural heartland.',
-    heroHeading: 'Des Moines Trucking Insurance',
+      'Cannabis business insurance in Des Moines, Iowa. Coverage for medical cannabidiol dispensaries and hemp businesses in the state capital.',
+    heroHeading: 'Des Moines Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-80/I-35 crossroads in America\'s agricultural heartland.',
+      "Insurance for medical cannabis and hemp businesses in Iowa's capital city.",
     overview:
-      'Des Moines sits at the junction of I-80 and I-35 in central Iowa, placing it at the intersection of two major transcontinental freight corridors. The state capital serves as a distribution center for Iowa\'s enormous agricultural output, including corn, soybeans, pork, and ethanol. The city\'s insurance industry headquarters, including major companies like Principal Financial and EMC Insurance, give it unique insight into risk management.',
+      "Des Moines is Iowa's capital city and the center of the state's limited medical cannabidiol program. Iowa's program allows qualifying patients to obtain cannabidiol products from licensed dispensaries, though the program is among the most restrictive in the nation. The hemp industry has more breadth, with Iowa farmers cultivating hemp under the state program. Des Moines serves as the regulatory and market hub for both the medical cannabidiol program and hemp industry in Iowa.",
     sections: [
       {
-        heading: 'Trucking in Des Moines',
+        heading: 'Cannabis Market in Des Moines',
         content:
-          'Des Moines\' trucking industry is inseparable from Iowa\'s agricultural economy. The state is the nation\'s largest producer of corn and pork, and a top producer of soybeans and eggs. Trucks move grain from farms to elevators and processing plants, transport livestock to packing facilities, and haul ethanol and biodiesel from refineries to blending terminals across the Midwest.\n\nThe city also serves as a regional distribution hub, with carriers supplying consumer goods to Iowa communities and transshipment operations leveraging the I-80/I-35 interchange for freight redistribution.',
+          "Des Moines' cannabis market operates under Iowa's Medical Cannabidiol Act, which allows licensed dispensaries to sell cannabidiol products to patients with qualifying conditions. The program has gradually expanded qualifying conditions and product forms, but remains restricted compared to neighboring states. The state's five licensed manufacturing facilities produce the cannabidiol products sold through dispensaries.\n\nThe hemp and CBD market is more developed, with Iowa farmers growing hemp for fiber, grain, and CBD extraction. CBD retailers throughout the Des Moines metro area sell hemp-derived products to consumers. The state's agricultural expertise supports hemp cultivation operations throughout central Iowa.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-80 runs east-west through Des Moines connecting to Council Bluffs/Omaha to the west and Iowa City, Davenport, and Chicago to the east. I-35 runs north-south connecting to Minneapolis to the north and Kansas City to the south. US-65 provides an alternate north-south route. US-69 runs through the eastern metro area. Highway 163 connects to Oskaloosa and southeastern Iowa.',
+          "Medical cannabidiol dispensaries in the Des Moines area are located in specific licensed locations throughout the metro. CBD retailers operate along Merle Hay Road, University Avenue, and in the Jordan Creek Town Center area. Hemp cultivation is concentrated in agricultural areas of Polk, Dallas, and Warren counties. Processing operations are found in industrial zones along I-80 and I-35 corridors.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Agricultural commodity cargo coverage for grain, livestock, and ethanol',
-          'Tanker coverage for ethanol and biodiesel transport operations',
-          'Livestock mortality and escape coverage for pork and cattle hauling',
-          'Severe weather coverage for Iowa tornadoes, blizzards, and ice storms',
+          'General liability for medical cannabidiol dispensary and CBD retail operations',
+          'Product liability for cannabidiol products and hemp-derived items',
+          'Property insurance for dispensary locations and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for Iowa hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for hauling ethanol in Iowa?',
-        a: 'Ethanol is a flammable liquid requiring hazmat-endorsed auto liability with a minimum of $1,000,000 in coverage. You need pollution liability, a properly filed MCS-90 endorsement, and cargo coverage specifically addressing flammable liquid commodities. Your tanker equipment must meet DOT specifications.',
+        q: "How does Iowa's limited cannabis program affect insurance options?",
+        a: "Iowa's restrictive medical cannabidiol program means fewer cannabis-specific insurers operate in the market compared to states with broader legalization. However, the limited scope also means lower risk exposure for licensed operations. Hemp and CBD businesses have more insurance options available because they operate under the federally legal hemp framework.",
       },
       {
-        q: 'How does Iowa\'s agricultural freight seasonality affect my insurance?',
-        a: 'Harvest season in the fall creates peak trucking demand with increased truck traffic on rural roads that are often shared with farm equipment. This seasonal surge affects accident frequency. If you add temporary trucks or drivers during harvest, notify your insurer to maintain proper coverage.',
+        q: 'What insurance does a hemp farmer in Iowa need?',
+        a: "Iowa hemp farmers need crop insurance covering the hemp plants, property insurance for farming equipment and facilities, general liability for farm operations, and workers compensation for employees. Federal crop insurance programs for hemp have expanded, and specialty agricultural insurers offer coverage tailored to hemp cultivation. Your operation must hold a valid Iowa Department of Agriculture hemp license.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1628,50 +1896,59 @@ export const citiesPart2 = [
     state: 'Nebraska',
     stateSlug: 'nebraska',
     abbreviation: 'NE',
-    metaTitle: 'Trucking Insurance in Omaha, NE',
+    metaTitle: 'Cannabis Insurance in Omaha, NE',
     metaDescription:
-      'Commercial trucking insurance in Omaha, Nebraska. Coverage for carriers at the I-80 corridor and Missouri River freight crossing.',
-    heroHeading: 'Omaha Trucking Insurance',
+      'Cannabis business insurance in Omaha, Nebraska. Coverage for hemp and CBD businesses in the I-80 corridor.',
+    heroHeading: 'Omaha Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the I-80 corridor at the gateway to the Great Plains.',
+      'Insurance for hemp and CBD businesses in the Omaha metropolitan area.',
     overview:
-      'Omaha straddles the Missouri River on the I-80 corridor, serving as the eastern gateway to the Great Plains and a major distribution center for the central United States. The city is home to several Fortune 500 companies including Berkshire Hathaway, Union Pacific Railroad, and ConAgra Brands, all of which generate significant freight demand. The combination of meatpacking, food processing, agriculture, and railcar intermodal operations creates a diverse trucking market.',
+      "Omaha is Nebraska's largest city, positioned on the I-80 corridor at the Missouri River. Nebraska has taken steps toward cannabis reform, with voters approving medical cannabis ballot measures in 2024. The hemp and CBD market has been operating under the state's industrial hemp program. Omaha's large consumer base, central location, and business infrastructure make it the primary market for cannabis-related businesses in Nebraska as the regulatory landscape continues to evolve.",
     sections: [
       {
-        heading: 'Trucking in Omaha',
+        heading: 'Cannabis Market in Omaha',
         content:
-          'Omaha\'s freight economy is anchored by food processing and distribution. ConAgra, Tyson, and numerous other food companies maintain operations in the metro area, generating refrigerated and dry freight demand. The city\'s meatpacking heritage continues with major beef and pork processing facilities in the surrounding area.\n\nUnion Pacific Railroad\'s headquarters and major classification yards in the Omaha area create intermodal freight opportunities, with carriers providing drayage and local distribution services. Werner Enterprises, one of the nation\'s largest trucking companies, is headquartered in Omaha, adding to the city\'s trucking industry depth.',
+          "Omaha's cannabis market is at a transitional point as Nebraska implements voter-approved medical cannabis measures. The hemp and CBD retail market is well established, with shops throughout the metro area serving consumers with hemp-derived products. The city's population of over 900,000 in the metro area provides a substantial consumer base for both CBD products and eventual medical cannabis dispensaries.\n\nHemp cultivation in eastern Nebraska benefits from the state's agricultural expertise and fertile farmland. Processing facilities in the Omaha area convert hemp biomass into CBD products for the regional market. The city's distribution infrastructure supports hemp product shipping throughout the Great Plains.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-80 runs east-west through Omaha as the primary transcontinental corridor connecting Des Moines and Chicago to the east with Lincoln, Grand Island, and the West to the west. I-29 runs north-south along the Missouri River connecting to Sioux City and Sioux Falls to the north and Kansas City to the south. US-75 provides an alternate north-south route. Highway 370 and I-480 serve the metro area and connect to Council Bluffs, Iowa.',
+          "CBD retailers in Omaha operate along Dodge Street, Center Street, 72nd Street, and in the Aksarben Village area. The Millard and Papillion suburbs also host CBD shops. Hemp cultivation is found in agricultural areas of Douglas, Sarpy, and Saunders counties. Processing operations are located in industrial zones along I-80 and in the Eppley Airfield area.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Food processing and refrigerated cargo coverage for ConAgra and meatpacking freight',
-          'Intermodal drayage coverage for Union Pacific rail-to-truck operations',
-          'Missouri River flood exposure for equipment stored in river valley areas',
-          'Great Plains severe weather coverage for tornadoes and winter storms',
+          'General liability for CBD retail and hemp product businesses',
+          'Product liability for hemp-derived CBD products',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for Nebraska hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does the presence of major carriers like Werner affect insurance in Omaha?',
-        a: 'The concentration of large carriers and related businesses in Omaha means there is a mature trucking insurance market with experienced agents and competitive options. However, individual carrier pricing still depends on your specific operations, safety record, and fleet composition.',
+        q: 'What is the status of medical cannabis in Nebraska?',
+        a: "Nebraska voters approved medical cannabis measures in 2024, and the state is developing its implementation framework. Insurance coverage for medical cannabis businesses will become available as licenses are issued. In the meantime, hemp and CBD businesses can obtain standard commercial insurance tailored to their operations. Work with an insurer who is tracking Nebraska's regulatory developments.",
       },
       {
-        q: 'What coverage do I need for food processing freight in Omaha?',
-        a: 'Food processing freight requires cargo coverage addressing contamination, spoilage, and temperature control. If you haul refrigerated products, ensure your policy covers reefer breakdown and resulting cargo loss. Your coverage limits should reflect the full value of processed food loads.',
+        q: 'What insurance do Omaha CBD retailers need?',
+        a: "CBD retailers in Omaha need general liability for store operations, product liability for all hemp-derived products sold, property insurance for inventory and fixtures, and workers compensation for employees. Maintain documentation of product testing and compliance with Nebraska hemp regulations to support your insurance applications and any potential claims.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'reefer-breakdown',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1680,50 +1957,59 @@ export const citiesPart2 = [
     state: 'Nebraska',
     stateSlug: 'nebraska',
     abbreviation: 'NE',
-    metaTitle: 'Trucking Insurance in Lincoln, NE',
+    metaTitle: 'Cannabis Insurance in Lincoln, NE',
     metaDescription:
-      'Commercial trucking insurance in Lincoln, Nebraska. Coverage for carriers on the I-80 corridor serving agricultural and manufacturing freight.',
-    heroHeading: 'Lincoln Trucking Insurance',
+      'Cannabis business insurance in Lincoln, Nebraska. Coverage for hemp and CBD businesses in the state capital.',
+    heroHeading: 'Lincoln Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers on the I-80 corridor in Nebraska\'s capital city.',
+      "Insurance for hemp and CBD businesses in Nebraska's capital city.",
     overview:
-      'Lincoln is Nebraska\'s capital and second-largest city, positioned on the I-80 corridor west of Omaha. The city serves as a regional distribution center with freight operations supporting agriculture, food processing, manufacturing, and the University of Nebraska system. Kawasaki Motors Manufacturing operates a major facility in Lincoln producing rail cars, ATV/UTVs, and jet skis, generating specialized manufacturing freight.',
+      "Lincoln is Nebraska's capital and second-largest city, positioned on the I-80 corridor. Like the rest of the state, Lincoln is transitioning toward medical cannabis following voter-approved ballot measures in 2024. The city's hemp and CBD market has been active, supported by the University of Nebraska's agricultural research programs and the region's farming heritage. Lincoln's role as the state capital means cannabis policy developments will directly affect local businesses.",
     sections: [
       {
-        heading: 'Trucking in Lincoln',
+        heading: 'Cannabis Market in Lincoln',
         content:
-          'Lincoln\'s trucking sector serves the state capital\'s distribution needs and connects to the broader I-80 freight corridor. The city\'s manufacturing base, anchored by Kawasaki and numerous food processors, creates a mix of heavy manufacturing and agricultural freight. Grain elevators and ethanol plants in the surrounding area generate bulk commodity hauling demand.\n\nThe University of Nebraska and state government operations add institutional freight requirements, while Lincoln\'s growing metro area drives increasing consumer goods distribution volume.',
+          "Lincoln's cannabis-related market includes CBD retail operations and emerging medical cannabis preparations. The University of Nebraska-Lincoln's agricultural research programs have supported hemp science, providing a knowledge base for cultivators in the area. CBD retailers serve the city's student population and broader community.\n\nHemp cultivation in Lancaster County and surrounding areas leverages the region's agricultural infrastructure. Processing operations convert hemp into CBD products for retail distribution. As the medical cannabis program develops, Lincoln is expected to become a market for licensed dispensaries serving the capital region.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-80 passes just north of Lincoln running east to Omaha and west through Grand Island to the Colorado border. US-77 runs north-south through the city connecting to I-80 and the surrounding agricultural region. Highway 2 heads southwest toward the Nebraska Sandhills. US-34 runs east toward the Missouri River and Iowa. Highway 77 connects to Beatrice and the Kansas border to the south.',
+          "CBD retailers in Lincoln are located along O Street, 27th Street, South 48th Street, and near Gateway Mall. The Haymarket District and downtown area also host CBD shops catering to the university community. Hemp cultivation is found in agricultural zones of Lancaster and Seward counties. Processing operations are located in industrial areas along Highway 77 and in the Lincoln Airport business park.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Manufacturing cargo coverage for Kawasaki rail car and vehicle shipments',
-          'Agricultural commodity coverage for grain and ethanol transport',
-          'Plains severe weather coverage for tornadic storms and winter blizzards',
-          'State government and institutional freight coverage',
+          'General liability for CBD retail and hemp product operations',
+          'Product liability for hemp-derived CBD products',
+          'Property insurance for retail stores and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for central Nebraska hemp farming',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What coverage do I need for hauling manufactured vehicles from Kawasaki Lincoln?',
-        a: 'Hauling manufactured vehicles and rail car components requires high-value cargo coverage reflecting the per-unit value of these products. Your policy should cover loading and unloading damage, transit damage, and properly address the specialized equipment needed for oversized railcar component transport.',
+        q: "How does Lincoln's university community affect the cannabis market?",
+        a: "The University of Nebraska brings a significant consumer population interested in CBD and wellness products. From an insurance perspective, a university-adjacent customer base means steady foot traffic and consumer engagement. Ensure your general liability coverage is adequate for the volume of customer interactions, and your product liability covers all products marketed to this demographic.",
       },
       {
-        q: 'How does Nebraska\'s winter weather affect trucking operations out of Lincoln?',
-        a: 'Nebraska experiences significant winter storms including blizzards with near-zero visibility. I-80 closures during winter storms can strand carriers for extended periods. Ensure your coverage includes provisions for delay expenses and that your physical damage policy covers weather-related incidents during forced stops.',
+        q: 'When will medical cannabis dispensaries open in Lincoln?',
+        a: "Nebraska is implementing medical cannabis following the 2024 voter-approved measures. The timeline for dispensary licensing and opening depends on the regulatory framework being developed. Insurance coverage for medical cannabis operations will be available once licensing begins. Monitor developments through the state's regulatory agencies and consult with a cannabis-experienced insurer to prepare your application.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1732,50 +2018,59 @@ export const citiesPart2 = [
     state: 'South Dakota',
     stateSlug: 'south-dakota',
     abbreviation: 'SD',
-    metaTitle: 'Trucking Insurance in Sioux Falls, SD',
+    metaTitle: 'Cannabis Insurance in Sioux Falls, SD',
     metaDescription:
-      'Commercial trucking insurance in Sioux Falls, South Dakota. Coverage for carriers at the I-90 and I-29 junction in the Upper Great Plains.',
-    heroHeading: 'Sioux Falls Trucking Insurance',
+      'Cannabis business insurance in Sioux Falls, South Dakota. Coverage for medical cannabis dispensaries and hemp businesses in the Upper Great Plains.',
+    heroHeading: 'Sioux Falls Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-90/I-29 crossroads in the Upper Great Plains.',
+      'Insurance for medical cannabis and hemp businesses in South Dakota.',
     overview:
-      'Sioux Falls is the largest city in South Dakota and sits at the intersection of I-90 and I-29, making it the primary freight crossroads of the Upper Great Plains. The city serves as a regional distribution hub for the Dakotas and surrounding states, with a trucking industry built around agricultural commodities, meatpacking, and the financial services sector that has grown significantly in recent decades.',
+      "Sioux Falls is the largest city in South Dakota and the primary market for the state's medical cannabis program. South Dakota voters approved medical marijuana through Initiated Measure 26 in 2020, and dispensaries began serving patients in 2023. The city's growing population and business-friendly environment have attracted cannabis entrepreneurs. Hemp cultivation is also active under South Dakota's industrial hemp program, leveraging the state's agricultural expertise.",
     sections: [
       {
-        heading: 'Trucking in Sioux Falls',
+        heading: 'Cannabis Market in Sioux Falls',
         content:
-          'Sioux Falls\' freight market is driven by agricultural and food processing operations. Smithfield Foods operates a major pork processing facility in the city, and the surrounding region produces cattle, corn, soybeans, and dairy products that require transportation to markets. The city is a collection point for agricultural commodities from across the Dakotas.\n\nThe financial and technology sectors have added distribution and data center freight demand. Sioux Falls\' business-friendly environment and central location have attracted carriers looking for a base to serve the northern Great Plains and Upper Midwest markets.',
+          "Sioux Falls' medical cannabis market has developed as the state's dispensary licensing program has progressed. Licensed dispensaries in the city serve patients with qualifying conditions including chronic pain, PTSD, cancer, and other approved diagnoses. The market continues to mature as more patients register and more dispensaries open.\n\nHemp cultivation in the South Dakota region supports CBD product manufacturing and retail. The state's agricultural community has embraced hemp as a crop option, and CBD retailers throughout Sioux Falls serve the broader consumer market. The combination of medical cannabis and hemp operations creates a developing cannabis economy in the city.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-90 runs east-west through Sioux Falls connecting to Rapid City and the Black Hills to the west and Rochester, Minnesota and the Upper Midwest to the east. I-29 runs north-south along the Big Sioux River connecting to Fargo and Winnipeg to the north and Sioux City, Omaha, and Kansas City to the south. Highway 42 and Highway 11 serve local distribution traffic.',
+          "Medical cannabis dispensaries in Sioux Falls are located along Louise Avenue, 41st Street, and in the Western Mall area. The Minnesota Avenue corridor and Tea suburb also host cannabis operations. Hemp cultivation is found in agricultural areas of Minnehaha, Lincoln, and Turner counties. Processing facilities operate from industrial zones along I-90 and I-29 corridors.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Severe winter weather coverage for Dakota blizzard and ice storm conditions',
-          'Agricultural commodity coverage for grain, livestock, and dairy transport',
-          'Long-haul remote route coverage for sparsely populated Great Plains corridors',
-          'Meatpacking freight coverage for Smithfield and other processor operations',
+          'General liability for medical cannabis dispensary operations',
+          'Product liability for all dispensed cannabis products',
+          'Property insurance for dispensary locations and grow facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for South Dakota cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does South Dakota\'s regulatory environment affect trucking insurance?',
-        a: 'South Dakota is generally considered a business-friendly state with a favorable legal environment for carriers. The state has no corporate income tax and relatively low regulatory burden. Insurance costs in South Dakota tend to be lower than coastal states, though severe weather exposure remains a rating factor.',
+        q: 'What insurance does a South Dakota medical cannabis dispensary need?',
+        a: "South Dakota medical cannabis dispensaries need general liability, product liability, property insurance, and workers compensation. The South Dakota Department of Health oversees the medical cannabis program and specifies licensing requirements that include minimum insurance coverage. Your coverage should also address the specific security and compliance requirements of the state program.",
       },
       {
-        q: 'What winter driving challenges affect insurance in the Sioux Falls area?',
-        a: 'Sioux Falls and the Dakota region experience severe winter conditions including blizzards, ground blizzards with near-zero visibility, black ice, and extreme cold. I-90 and I-29 are frequently affected by winter closures. Insurers evaluate your winter preparedness and may offer credits for documented cold weather safety programs.',
+        q: 'How does South Dakota winter weather affect cannabis business insurance?',
+        a: "Sioux Falls experiences severe winter conditions including blizzards and extreme cold that can impact cannabis operations. Indoor cultivation facilities face risks from power outages and heating failures. Your property and crop insurance should address weather-related losses, and your facility should have backup power and heating systems to protect plants and inventory during winter storms.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'non-trucking-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1784,50 +2079,59 @@ export const citiesPart2 = [
     state: 'North Dakota',
     stateSlug: 'north-dakota',
     abbreviation: 'ND',
-    metaTitle: 'Trucking Insurance in Fargo, ND',
+    metaTitle: 'Cannabis Insurance in Fargo, ND',
     metaDescription:
-      'Commercial trucking insurance in Fargo, North Dakota. Coverage for carriers on the I-94 and I-29 corridors serving the Red River Valley and Bakken region.',
-    heroHeading: 'Fargo Trucking Insurance',
+      'Cannabis business insurance in Fargo, North Dakota. Coverage for medical cannabis dispensaries and hemp businesses in the upper Midwest.',
+    heroHeading: 'Fargo Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the I-94/I-29 junction in the upper Midwest.',
+      'Insurance for medical cannabis and hemp businesses in North Dakota.',
     overview:
-      'Fargo sits at the junction of I-94 and I-29 on the North Dakota-Minnesota border, serving as the largest metro area between Minneapolis and the Pacific Northwest on I-94. The city\'s trucking industry supports the Red River Valley\'s massive agricultural output, Bakken oil field logistics, and distribution for the northern Great Plains. Extreme winter conditions define the operational environment.',
+      "Fargo sits at the junction of I-94 and I-29 on the North Dakota-Minnesota border, serving as the largest metro area in the state. North Dakota approved medical marijuana through Measure 5 in 2016, and dispensaries have been operating since 2019. Fargo's position near the Minnesota border, where recreational cannabis was legalized in 2023, creates cross-border market awareness. The city's growing population and agricultural heritage support both medical cannabis dispensaries and hemp cultivation operations.",
     sections: [
       {
-        heading: 'Trucking in Fargo',
+        heading: 'Cannabis Market in Fargo',
         content:
-          'Fargo\'s freight economy is built on agriculture and energy. The Red River Valley is one of the most productive agricultural regions in North America, producing wheat, sugar beets, corn, and sunflowers. Trucks move grain from farms and elevators to processing facilities and rail terminals. The Bakken oil formation in western North Dakota has generated oilfield trucking demand, with Fargo serving as a supply and logistics base.\n\nThe city also serves as the primary distribution center for North Dakota and northwestern Minnesota, with retailers and wholesalers using Fargo as a hub to supply communities across a vast, sparsely populated region.',
+          "Fargo's medical cannabis market serves patients across eastern North Dakota through licensed dispensaries. The proximity to Minnesota, which legalized recreational cannabis in 2023, creates consumer awareness and potential market dynamics as residents compare access across the state line.\n\nHemp cultivation in the Red River Valley leverages some of the most productive agricultural land in North America. The region's farming expertise translates well to hemp production, and processing facilities in the Fargo area convert hemp into CBD products. The city's growing technology sector has also attracted cannabis-adjacent technology businesses including compliance and tracking software companies.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-94 runs east-west through Fargo connecting to Minneapolis to the east and Bismarck and the Bakken region to the west. I-29 runs north-south along the Red River connecting to Winnipeg, Manitoba to the north and Sioux Falls and Kansas City to the south. US-10 and US-52 provide alternate east-west routes. Highway 13 runs south into the agricultural heartland.',
+          "Medical cannabis dispensaries in Fargo are located along 13th Avenue, 45th Street, and in the West Fargo commercial area. CBD retailers operate throughout the metro including University Drive near NDSU, South Fargo commercial areas, and in Moorhead across the Minnesota border. Hemp cultivation is found in the rich agricultural zones of Cass, Richland, and Traill counties. Processing operations are in industrial areas along I-29.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Extreme winter operations coverage for sub-zero temperatures and blizzard conditions',
-          'Agricultural commodity coverage for Red River Valley grain and sugar beet hauling',
-          'Bakken oil field service trucking coverage for western North Dakota operations',
-          'Canadian border crossing coverage for I-29 freight to Winnipeg',
+          'General liability for medical cannabis dispensary and CBD retail operations',
+          'Product liability for dispensed cannabis and hemp-derived products',
+          'Property insurance with extreme weather provisions for North Dakota',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for Red River Valley hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How do extreme winter conditions in Fargo affect my trucking insurance?',
-        a: 'Fargo is one of the coldest major cities in the continental United States, with winter temperatures regularly dropping below minus 20 degrees Fahrenheit. These conditions create unique risks including diesel fuel gelling, brake system freezing, and extreme cold-related accidents. Insurers factor this exposure into pricing.',
+        q: 'How do extreme winter conditions in Fargo affect cannabis insurance?',
+        a: "Fargo's extreme winter temperatures, regularly dropping below minus 20 degrees, create unique risks for cannabis operations. Indoor cultivation facilities face critical risks from heating system failures and power outages. Your property and crop insurance should address cold weather equipment failures, and your facility must have redundant heating and power systems. Insurers evaluate your winter preparedness when pricing coverage.",
       },
       {
-        q: 'Do I need special coverage for Bakken oil field operations from a Fargo base?',
-        a: 'If you operate in the Bakken region, you need coverage that addresses oilfield-specific exposures including lease road operations, hazmat hauling for crude oil and produced water, and the remote locations where recovery services are limited. These operations typically carry higher premiums than general freight.',
+        q: 'Does Minnesota recreational legalization affect the Fargo cannabis market?',
+        a: "Minnesota's recreational legalization creates market awareness but does not change North Dakota's medical-only framework. Cannabis products cannot legally cross state lines. For insurance purposes, your coverage applies to your North Dakota operations only. If you plan to operate in both states, each requires separate licensing and insurance programs.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1836,51 +2140,59 @@ export const citiesPart2 = [
     state: 'Montana',
     stateSlug: 'montana',
     abbreviation: 'MT',
-    metaTitle: 'Trucking Insurance in Billings, MT',
+    metaTitle: 'Cannabis Insurance in Billings, MT',
     metaDescription:
-      'Commercial trucking insurance in Billings, Montana. Coverage for carriers in the Yellowstone Valley serving agriculture, energy, and long-haul freight.',
-    heroHeading: 'Billings Trucking Insurance',
+      'Cannabis business insurance in Billings, Montana. Coverage for dispensaries, cultivators, and processors in the Yellowstone Valley.',
+    heroHeading: 'Billings Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in Montana\'s largest city and regional freight hub.',
+      "Insurance for cannabis businesses in Montana's largest city.",
     overview:
-      'Billings is the largest city in Montana and the primary distribution hub for a vast region spanning Montana, Wyoming, and the western Dakotas. The city sits along I-90 in the Yellowstone Valley, with a trucking industry serving petroleum refining, agriculture, and the distribution needs of a territory larger than many eastern states. Long distances between population centers define the operating environment.',
+      "Billings is Montana's largest city and a significant cannabis market following the state's recreational legalization through Initiative 190 in 2020. The city's dispensaries serve both recreational consumers and medical patients from across the Yellowstone Valley and a vast surrounding territory. Montana's cannabis market operates under the Department of Revenue, and Billings has emerged as a hub for dispensary, cultivation, and processing operations. The city's agricultural heritage and available land support cannabis cultivation.",
     sections: [
       {
-        heading: 'Trucking in Billings',
+        heading: 'Cannabis Market in Billings',
         content:
-          'Billings\' trucking operations cover enormous distances. The city serves as the distribution center for communities hundreds of miles away, with carriers supplying groceries, building materials, fuel, and consumer goods across vast rural territories. Two oil refineries operated by CHS and Calumet process crude from Montana and Wyoming wells, generating tanker truck demand for fuel distribution.\n\nThe agricultural sector produces cattle, wheat, sugar beets, and hay, all requiring transport over long distances to markets and processing facilities. The Bakken formation in eastern Montana adds oilfield hauling demand.',
+          "Billings' cannabis market has expanded significantly since recreational sales began. The city's dispensaries serve a wide geographic area, as Billings is the only major population center for hundreds of miles in any direction. This means cannabis businesses in Billings draw customers from across eastern Montana, northern Wyoming, and western North Dakota.\n\nCultivation operations in the Billings area include indoor grows in converted commercial spaces and greenhouse operations that take advantage of the Yellowstone Valley's growing season. Processing companies manufacture edibles, concentrates, and other products for the Montana market. The city's position as a regional distribution hub supports cannabis supply chain logistics.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-90 runs east-west through Billings connecting to Butte and Missoula to the west and Sheridan, Wyoming and Rapid City to the east. I-94 splits off from I-90 east of Billings heading northeast to Miles City, Glendive, and the North Dakota border. US-87 runs north to Great Falls. US-212 heads southwest toward Red Lodge and the Beartooth Highway. Highway 3 connects south to the Crow Reservation and Wyoming.',
+          "Dispensaries in Billings are located along Grand Avenue, King Avenue, Main Street, and in the Rimrock Mall area. The Heights neighborhood and Lockwood area also host cannabis retail. Cultivation and processing facilities are found in industrial zones along I-90, in the South Billings industrial area, and in agricultural properties throughout Yellowstone County.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Long-haul remote route coverage for Montana\'s vast distances between services',
-          'Petroleum refinery distribution coverage for CHS and Calumet fuel hauling',
-          'Livestock and agricultural cargo coverage for ranching and farming operations',
-          'Mountain pass and extreme weather coverage for winter operations',
-          'Wildlife collision coverage for deer, elk, and livestock on open range highways',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for all cannabis products sold or manufactured',
+          'Property insurance for grow facilities and retail storefronts',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for Montana cannabis cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Montana\'s remote geography affect my trucking insurance?',
-        a: 'Montana\'s vast distances mean breakdowns and accidents occur far from services. Your towing and recovery coverage needs to account for long-distance tows, potentially exceeding 100 miles to the nearest repair facility. Additionally, emergency response times are longer in rural Montana, which can affect injury severity in accidents.',
+        q: 'What insurance do Montana cannabis dispensaries in Billings need?',
+        a: "Montana cannabis dispensaries need general liability, product liability, property insurance, and workers compensation. The Montana Department of Revenue administers the cannabis program and specifies licensing requirements including insurance minimums. Given Billings' role as a regional hub serving customers from vast distances, adequate premises liability and product liability coverage is especially important.",
       },
       {
-        q: 'Do I need special coverage for wildlife collisions on Montana highways?',
-        a: 'Montana has significant wildlife collision risk, particularly with deer, elk, and antelope. Open range laws mean livestock may also be on highways. Your comprehensive physical damage coverage should adequately address these collisions, which can cause severe truck damage.',
+        q: "How does Billings' remote geography affect cannabis business insurance?",
+        a: "Billings' position as an isolated major city means your customer service area is enormous and supply chain logistics cover long distances. For cultivation operations, the remote location means longer emergency response times. Ensure your property insurance covers equipment failure in locations where replacement parts may take days to arrive, and your crop insurance addresses the risks of delayed equipment repairs.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1889,50 +2201,59 @@ export const citiesPart2 = [
     state: 'Idaho',
     stateSlug: 'idaho',
     abbreviation: 'ID',
-    metaTitle: 'Trucking Insurance in Boise, ID',
+    metaTitle: 'Cannabis Insurance in Boise, ID',
     metaDescription:
-      'Commercial trucking insurance in Boise, Idaho. Coverage for carriers on the I-84 corridor serving technology, agriculture, and western freight markets.',
-    heroHeading: 'Boise Trucking Insurance',
+      'Cannabis business insurance in Boise, Idaho. Coverage for hemp and CBD businesses in the Treasure Valley.',
+    heroHeading: 'Boise Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in Idaho\'s capital and growing western logistics hub.',
+      'Insurance for hemp and CBD businesses in the Treasure Valley.',
     overview:
-      'Boise is Idaho\'s capital and largest city, positioned on the I-84 corridor between Salt Lake City and Portland. The city has experienced rapid growth, and its trucking industry serves a diverse economy that includes technology companies like Micron and HP, agricultural operations in the Snake River Valley, and distribution operations for the growing Treasure Valley population.',
+      "Boise is Idaho's capital and largest city, situated in a state that has not legalized cannabis for medical or recreational use. Idaho maintains some of the strictest cannabis laws in the nation, with even CBD products containing any detectable THC being prohibited. However, the hemp market has evolved, and businesses selling THC-free CBD products and hemp-derived goods operate in the Boise area. The city's proximity to legal cannabis markets in Oregon, Nevada, and Washington creates consumer awareness and advocacy for reform.",
     sections: [
       {
-        heading: 'Trucking in Boise',
+        heading: 'Cannabis Market in Boise',
         content:
-          'Boise\'s trucking sector has grown alongside the city\'s economic expansion. The technology industry, anchored by Micron Technology\'s memory chip manufacturing, generates high-value freight and specialized logistics demand. The Snake River Valley produces significant agricultural output including potatoes, dairy, sugar beets, and grain, all requiring transportation to processing and market.\n\nThe city\'s rapid population growth has increased demand for construction materials, consumer goods distribution, and last-mile delivery services. Boise also serves as a relay point for I-84 carriers moving between the Pacific Northwest and the Intermountain West.',
+          "Boise's cannabis-adjacent market is limited by Idaho's strict laws. CBD products sold in Idaho must contain zero THC, which is stricter than the federal 0.3 percent threshold. This limits the product offerings available to retailers but does not eliminate the market entirely. THC-free CBD products, hemp fiber goods, and hemp seed products are available throughout the Boise area.\n\nThe proximity to legal recreational markets in Oregon, Nevada, and Washington creates demand and consumer awareness in Boise. Cannabis advocacy groups are active in the city, and the regulatory landscape may evolve over time. Hemp cultivation under Idaho's industrial hemp program is growing, with farmers in the Treasure Valley exploring the crop.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-84 is the primary corridor running east to Twin Falls, Pocatello, and Salt Lake City, and west through Ontario, Oregon to Portland. I-184 (the Connector) links downtown Boise to I-84. Highway 55 runs north toward McCall and the central Idaho mountains. Highway 21 heads to the Boise National Forest. US-20/26 runs east toward Mountain Home and the Snake River Plain.',
+          "THC-free CBD retailers in Boise are located along Fairview Avenue, State Street, and in the Boise Towne Square Mall area. The Eagle Road corridor and Meridian suburb also host hemp product shops. Hemp cultivation is found in agricultural areas of Ada, Canyon, and Gem counties. Processing operations that produce THC-free hemp products are located in industrial zones along I-84 and in the Nampa area.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'High-value technology cargo coverage for Micron and semiconductor industry freight',
-          'Agricultural commodity coverage for potato, dairy, and sugar beet shipments',
-          'Mountain pass winter coverage for I-84 grades between Boise and Twin Falls',
-          'Growing metro distribution coverage for Treasure Valley expansion',
+          'General liability for CBD retail and hemp product businesses',
+          'Product liability for THC-free CBD and hemp products',
+          'Property insurance for retail locations and hemp processing facilities',
+          'Workers compensation for cultivation and retail employees',
+          'Crop and harvest coverage for Treasure Valley hemp farming',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Boise\'s growth affect the trucking insurance market?',
-        a: 'Boise\'s rapid population and economic growth is expanding the local trucking market. Increased traffic volume and construction activity raise accident frequency. However, the diverse freight base and growing market mean more insurance carriers are competing for business in the region.',
+        q: "How does Idaho's strict cannabis law affect insurance for Boise businesses?",
+        a: "Idaho's zero-THC requirement for CBD products means your business must demonstrate strict compliance with state law. Insurance coverage requires your products to be legal under Idaho law, and any product testing positive for THC could void your coverage. Maintain rigorous third-party lab testing documentation for all products, and ensure your suppliers provide certificates of analysis showing zero THC content.",
       },
       {
-        q: 'What coverage challenges exist for I-84 operations through Idaho?',
-        a: 'I-84 through Idaho involves mountain passes, significant winter weather exposure, and long stretches between services. Your coverage should include adequate towing limits for mountain terrain, winter weather provisions, and consideration of the remote areas where response times are extended.',
+        q: 'Can I sell full-spectrum CBD products in Boise?',
+        a: "Full-spectrum CBD products that contain any detectable THC are not legal in Idaho. Only broad-spectrum or CBD isolate products with zero THC can be sold. Your product liability insurance coverage is contingent on selling legal products. If you sell products that violate Idaho law, your insurance policy may not cover resulting claims. Always verify product compliance before offering it for sale.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1941,50 +2262,59 @@ export const citiesPart2 = [
     state: 'Washington',
     stateSlug: 'washington',
     abbreviation: 'WA',
-    metaTitle: 'Trucking Insurance in Spokane, WA',
+    metaTitle: 'Cannabis Insurance in Spokane, WA',
     metaDescription:
-      'Commercial trucking insurance in Spokane, Washington. Coverage for carriers in the Inland Northwest at the I-90 corridor.',
-    heroHeading: 'Spokane Trucking Insurance',
+      'Cannabis business insurance in Spokane, Washington. Coverage for dispensaries, cultivators, and processors in the Inland Northwest.',
+    heroHeading: 'Spokane Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the Inland Northwest freight hub on I-90.',
+      'Insurance for cannabis businesses in the Inland Northwest.',
     overview:
-      'Spokane is the largest city in eastern Washington and the hub of the Inland Northwest, serving as a distribution center for a region spanning eastern Washington, northern Idaho, and western Montana. The city sits on I-90 between Seattle and Missoula, with freight operations supporting agriculture, timber, mining, and the growing regional economy.',
+      "Spokane is the largest city in eastern Washington and a mature cannabis market that has been operating since Washington State legalized recreational marijuana through Initiative 502 in 2012. The city's dispensaries serve both the local population and consumers from nearby Idaho, where cannabis remains illegal. Spokane's cannabis industry includes retail shops, indoor cultivation facilities, and processing operations that have established over more than a decade of legal operation.",
     sections: [
       {
-        heading: 'Trucking in Spokane',
+        heading: 'Cannabis Market in Spokane',
         content:
-          'Spokane\'s trucking industry distributes goods across a vast inland territory. The city serves as the primary supply center for communities in the Columbia Basin, Palouse wheat country, Idaho\'s Silver Valley mining region, and Montana\'s western communities. The agricultural sector generates grain, lentil, and pea shipments from the rich Palouse farmland south of the city.\n\nTimber and forest products from Idaho and Montana forests move through Spokane to processing facilities and markets. The city\'s growing role as a technology and healthcare hub has added distribution freight for consumer goods and medical supplies.',
+          "Spokane's cannabis market is well-established, with licensed retailers operating throughout the metro area. The city benefits from its position near the Idaho border, drawing consumers who lack legal access in their home state. The Liquor and Cannabis Board regulates the market, and Spokane has seen the natural market evolution from initial boom to competitive maturity.\n\nCultivation operations in the Spokane area are primarily indoor, using warehouse and industrial spaces. The region's climate, with cold winters and moderate summers, favors controlled-environment growing. Processing companies manufacture a full range of products from concentrates to edibles for the eastern Washington market.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-90 runs east-west through Spokane connecting to Seattle and the Puget Sound to the west and Coeur d\'Alene, Missoula, and points east. US-2 provides an alternate east-west route through northern Washington and connects to the Idaho Panhandle. US-95 runs north-south from Moscow, Idaho through the region. US-395 heads south toward the Tri-Cities and the Columbia Basin. Highway 27 connects to the Palouse agricultural region.',
+          "Cannabis retailers in Spokane are located along Division Street, Sprague Avenue, and the Monroe Street corridor. The North Spokane area along Division and the Spokane Valley commercial corridor on Sprague also host cannabis shops. Cultivation and processing facilities are found in industrial zones in Spokane Valley, along Trent Avenue, and in the West Plains industrial area near the airport.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Mountain pass winter coverage for I-90 through the Cascades and Fourth of July Pass',
-          'Agricultural commodity coverage for Palouse wheat, lentils, and dry pea shipments',
-          'Timber and logging products cargo coverage for forest products freight',
-          'Inland Northwest distribution coverage for remote territory service',
+          'General liability for established retail cannabis operations',
+          'Product liability for cannabis flower, edibles, and concentrates',
+          'Property insurance for cultivation facilities and retail stores',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How do mountain passes on I-90 affect my insurance operating from Spokane?',
-        a: 'I-90 between Spokane and Seattle crosses Snoqualmie Pass and several other mountain grades. Winter closures and chain requirements are common. Eastbound, Fourth of July Pass and Lookout Pass into Montana also present challenges. Your insurance should include mountain terrain towing coverage and provisions for weather-related delays.',
+        q: 'What insurance do mature Washington cannabis businesses in Spokane need?',
+        a: "Even well-established Spokane cannabis businesses need comprehensive insurance coverage. As your operation matures, your coverage should evolve with your risk profile. Product liability limits may need to increase as revenue grows. Property coverage should reflect current replacement values. Workers compensation should address your full staffing levels. Annual coverage reviews with your insurance agent are important.",
       },
       {
-        q: 'What coverage do I need for grain hauling in the Palouse region?',
-        a: 'Palouse grain hauling requires cargo coverage for wheat, barley, lentils, and dry peas. Your policy should cover grain spills and contamination. Many grain haulers operate on seasonal schedules aligned with harvest, so discuss seasonal coverage adjustments with your agent.',
+        q: 'How does Idaho proximity affect cannabis insurance in Spokane?',
+        a: "Spokane's border position with Idaho, where cannabis is illegal, creates compliance considerations. Your insurance coverage applies to your Washington operations, and your compliance programs should prevent any cross-border product movement. The increased foot traffic from Idaho consumers benefits your business but also increases premises liability exposure. Ensure your coverage adequately addresses your actual customer volume.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'non-trucking-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -1993,52 +2323,59 @@ export const citiesPart2 = [
     state: 'Washington',
     stateSlug: 'washington',
     abbreviation: 'WA',
-    metaTitle: 'Trucking Insurance in Tacoma, WA',
+    metaTitle: 'Cannabis Insurance in Tacoma, WA',
     metaDescription:
-      'Commercial trucking insurance in Tacoma, Washington. Coverage for carriers serving the Port of Tacoma and Pacific Northwest freight corridor.',
-    heroHeading: 'Tacoma Trucking Insurance',
+      'Cannabis business insurance in Tacoma, Washington. Coverage for dispensaries, cultivators, and processors in the Puget Sound cannabis market.',
+    heroHeading: 'Tacoma Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at the Port of Tacoma and Puget Sound freight hub.',
+      'Insurance for cannabis businesses in the Puget Sound corridor.',
     overview:
-      'Tacoma is home to the Port of Tacoma, which together with the Port of Seattle forms The Northwest Seaport Alliance, the fourth-largest container gateway in North America. The city\'s trucking industry is dominated by port drayage and intermodal operations, with thousands of containers daily moving between the port, local distribution centers, and inland markets via I-5 and I-90. Joint Base Lewis-McChord adds military logistics demand.',
+      "Tacoma is a major cannabis market in the Puget Sound region, benefiting from Washington State's pioneering recreational cannabis legalization in 2012. The city's cannabis industry includes established retail shops, indoor cultivation operations, and processing facilities. Tacoma's urban density and proximity to Joint Base Lewis-McChord's civilian population create strong consumer demand. The city has welcomed cannabis businesses, with retail locations operating throughout the metro area and cultivation in industrial zones.",
     sections: [
       {
-        heading: 'Trucking in Tacoma',
+        heading: 'Cannabis Market in Tacoma',
         content:
-          'Tacoma\'s freight sector revolves around port operations. The Port of Tacoma handles container ships from Asia Pacific trading partners, with drayage carriers moving containers to warehouses, rail yards, and distribution centers throughout the Puget Sound region. The Tacoma Tideflats industrial area hosts the port terminals, intermodal yards, and related logistics operations.\n\nJoint Base Lewis-McChord, one of the largest military installations on the West Coast, generates defense logistics freight. The base\'s deployable forces require movement of vehicles, equipment, and supplies, often with urgent timelines and specialized handling requirements.',
+          "Tacoma's cannabis market operates within one of the most mature recreational frameworks in the nation. The city's retailers serve a diverse consumer base drawn from the Tacoma metro area and surrounding Pierce County communities. The competitive market has driven product innovation and operational efficiency among established operators.\n\nCultivation operations in the Tacoma area primarily use indoor growing facilities in converted industrial and warehouse spaces. The Tideflats industrial area and surrounding zones provide suitable facilities for larger operations. Processing companies manufacture concentrates, edibles, and infused products for distribution throughout the Puget Sound region and beyond.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-5 runs through Tacoma connecting to Seattle and the Canadian border to the north and Portland to the south. I-705 provides direct access to the downtown waterfront and port area. Highway 16 runs west to the Kitsap Peninsula. Highway 512 connects to the eastern suburbs and I-5 south of the city. Highway 167 links to the Auburn Valley warehouse district. I-90 is accessible via I-5 north through Seattle.',
+          "Cannabis retailers in Tacoma are located along Pacific Avenue, South Tacoma Way, 6th Avenue in the Hilltop district, and in the Stadium District. The Lakewood, University Place, and Puyallup areas also host cannabis shops. Cultivation and processing facilities are found in the Tideflats industrial area, along Port of Tacoma Road, and in industrial zones in Fife and Federal Way.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Container drayage coverage for Port of Tacoma terminal operations',
-          'Chassis interchange and intermodal equipment liability',
-          'Military freight coverage for Joint Base Lewis-McChord logistics',
-          'Heavy I-5 corridor congestion coverage for Puget Sound operations',
-          'International cargo coverage for trans-Pacific container freight',
+          'General liability for established retail cannabis operations in urban settings',
+          'Product liability for the full range of cannabis products',
+          'Property insurance for indoor cultivation and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor cannabis cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for port drayage at the Port of Tacoma?',
-        a: 'Port drayage requires auto liability coverage that addresses terminal operations, container handling, and chassis interchange exposures. You need marine cargo coverage or inland marine extensions for port-to-warehouse movements. The Northwest Seaport Alliance may have specific insurance requirements for terminal access.',
+        q: 'What insurance considerations exist for Tacoma cannabis businesses?',
+        a: "Tacoma's mature cannabis market means businesses face competitive pressures and must maintain strong risk management practices. Your insurance should cover premises liability for high-traffic retail locations, product liability for all product types, property coverage for valuable cultivation equipment, and workers compensation. Washington's legal environment and jury verdict trends should inform your liability limits.",
       },
       {
-        q: 'How does I-5 congestion in the Tacoma-Seattle corridor affect my insurance?',
-        a: 'The I-5 corridor through the Puget Sound is chronically congested, with heavy truck traffic from port operations adding to commuter traffic. This congestion increases fender-bender frequency and affects your loss experience. Insurers evaluate your Puget Sound exposure as a distinct risk factor.',
+        q: 'How does Puget Sound weather affect cannabis cultivation insurance in Tacoma?',
+        a: "Tacoma's mild but wet climate favors indoor cultivation, which dominates the area's growing operations. Indoor facilities face risks from power outages, equipment failures, and moisture-related issues like mold. Your crop and property insurance should address these controlled-environment risks, and your facility should have backup systems for critical environmental controls.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'hired-and-non-owned-auto',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2047,50 +2384,59 @@ export const citiesPart2 = [
     state: 'Oregon',
     stateSlug: 'oregon',
     abbreviation: 'OR',
-    metaTitle: 'Trucking Insurance in Eugene, OR',
+    metaTitle: 'Cannabis Insurance in Eugene, OR',
     metaDescription:
-      'Commercial trucking insurance in Eugene, Oregon. Coverage for carriers in the southern Willamette Valley and I-5 corridor.',
-    heroHeading: 'Eugene Trucking Insurance',
+      'Cannabis business insurance in Eugene, Oregon. Coverage for dispensaries, cultivators, and processors in the southern Willamette Valley.',
+    heroHeading: 'Eugene Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the southern Willamette Valley and Cascades freight market.',
+      "Insurance for cannabis businesses in Oregon's southern Willamette Valley.",
     overview:
-      'Eugene sits at the southern end of Oregon\'s Willamette Valley on the I-5 corridor, serving as a distribution center for southern Oregon and a gateway to the Cascade Range and central Oregon. The city\'s trucking industry supports timber and forest products, agricultural operations, and distribution for the University of Oregon and the growing Eugene-Springfield metro area.',
+      "Eugene sits at the southern end of Oregon's Willamette Valley and has been a center of cannabis culture and commerce since Oregon legalized recreational marijuana through Measure 91 in 2014. The city hosts a dense concentration of dispensaries, reflecting its progressive culture and university community centered on the University of Oregon. The surrounding Lane County is one of Oregon's top cannabis cultivation regions, with outdoor grows benefiting from the Willamette Valley's temperate climate and long growing season.",
     sections: [
       {
-        heading: 'Trucking in Eugene',
+        heading: 'Cannabis Market in Eugene',
         content:
-          'Eugene\'s freight economy is rooted in the timber industry, with carriers hauling logs, lumber, and wood products from Cascade Range forests to mills and distribution points throughout the region. While the timber industry has contracted from its historical peak, it remains a significant freight generator. The Willamette Valley also produces grass seed, nursery stock, and wine grapes that require transportation.\n\nThe city serves as a regional distribution hub for southern Oregon communities and as a staging point for freight heading east over the Cascades to Bend and central Oregon via Highway 126.',
+          "Eugene's cannabis market is one of the most competitive in Oregon, with numerous dispensaries operating in a city with a strong cannabis culture. The University of Oregon community contributes to consumer demand, and the city's progressive orientation has created a welcoming environment for cannabis businesses. The Oregon Liquor and Cannabis Commission oversees the market.\n\nCultivation in the Eugene area includes both large-scale outdoor operations in the surrounding Willamette Valley and indoor grows in converted industrial spaces. Lane County's climate is particularly well-suited to sun-grown cannabis, and the region has produced award-winning strains. Processing operations manufacture concentrates, edibles, and topicals for the Oregon market.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-5 runs through Eugene connecting Portland to the north and Medford and the California border to the south. Highway 126 heads east to Springfield, the McKenzie Pass area, and connects to US-97 and central Oregon. Highway 99 provides an alternate north-south route through the valley floor. Highway 58 runs southeast over Willamette Pass to Oakridge and connects to US-97 at Chemult. Highway 36 heads west toward the Oregon coast.',
+          "Dispensaries in Eugene are concentrated along West 11th Avenue, Willamette Street, the Whiteaker neighborhood, and near the University of Oregon campus. The River Road area and Springfield also host cannabis retail. Outdoor cultivation is widespread in rural areas of Lane County, particularly in the Pleasant Hill, Creswell, and Cottage Grove areas. Indoor grows and processing facilities are in industrial zones along Highway 99 and the West Eugene industrial corridor.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Timber and log hauling coverage for forest products operations',
-          'Mountain pass winter coverage for Cascades crossing on Highway 58 and Highway 126',
-          'Agricultural specialty cargo coverage for grass seed and nursery products',
-          'Rainy season coverage for the Pacific Northwest\'s wet driving conditions',
+          'General liability for dispensary operations in a competitive market',
+          'Product liability for cannabis flower, edibles, and manufactured products',
+          'Property insurance for grow facilities and retail storefronts',
+          'Workers compensation for cultivation, processing, and retail staff',
+          'Crop and harvest coverage for outdoor and greenhouse cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for log hauling in the Oregon Cascades?',
-        a: 'Log hauling is a high-risk operation requiring robust auto liability, physical damage, and cargo coverage. Logging trucks operate on steep, winding forest roads and public highways with heavy loads. Your policy needs to address the unique rollover and load-shift risks of log transport. Rates for log haulers are typically higher than general freight operations.',
+        q: 'What insurance do Oregon cannabis cultivators near Eugene need?',
+        a: "Oregon cannabis cultivators need crop and harvest insurance for outdoor and indoor operations, property insurance for grow facilities and equipment, general liability, workers compensation, and product liability if selling directly. Lane County's outdoor growing conditions create specific risks from rain, mold, and early frost that your crop coverage should address.",
       },
       {
-        q: 'How does Oregon\'s wet climate affect my trucking insurance?',
-        a: 'The Willamette Valley receives significant rainfall, creating wet road conditions for much of the year. Hydroplaning, reduced visibility, and longer stopping distances increase accident risk. Insurers evaluate your wet weather safety practices and may review your seasonal loss patterns.',
+        q: "How does Oregon's wet climate affect cannabis crop insurance near Eugene?",
+        a: "The Willamette Valley receives significant rainfall, creating mold and mildew risk for outdoor cannabis crops, especially during the fall harvest season. Crop insurance for Eugene-area outdoor grows should specifically address moisture-related losses. Many cultivators use light deprivation greenhouses to manage harvest timing and avoid the worst fall rains, and your coverage should reflect your specific growing method.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2099,52 +2445,59 @@ export const citiesPart2 = [
     state: 'California',
     stateSlug: 'california',
     abbreviation: 'CA',
-    metaTitle: 'Trucking Insurance in Riverside, CA',
+    metaTitle: 'Cannabis Insurance in Riverside, CA',
     metaDescription:
-      'Commercial trucking insurance in Riverside, California. Coverage for carriers in the eastern Inland Empire distribution and warehouse corridor.',
-    heroHeading: 'Riverside Trucking Insurance',
+      'Cannabis business insurance in Riverside, California. Coverage for dispensaries, cultivation facilities, and processors in the eastern Inland Empire.',
+    heroHeading: 'Riverside Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the eastern Inland Empire logistics market.',
+      'Insurance for cannabis businesses in the eastern Inland Empire.',
     overview:
-      'Riverside anchors the eastern portion of the Inland Empire, the largest warehouse and distribution market in North America. The city sits at the junction of Highway 91, I-215, and Highway 60, with massive volumes of freight flowing from the ports of Los Angeles and Long Beach to distribution centers throughout the region. Riverside\'s position provides carriers access to both the LA Basin market and the high desert and eastern California distribution corridors.',
+      "Riverside anchors the eastern portion of the Inland Empire and has developed a growing cannabis market within California's recreational framework. While the City of Riverside itself has been cautious with cannabis permitting, the broader Riverside County region has seen significant cannabis business development. Large warehouse spaces originally built for goods distribution have been converted to indoor cultivation facilities, and dispensaries serve consumers across the eastern Inland Empire.",
     sections: [
       {
-        heading: 'Trucking in Riverside',
+        heading: 'Cannabis Market in Riverside',
         content:
-          'Riverside\'s trucking industry is part of the broader Inland Empire distribution ecosystem. The city and surrounding communities in Moreno Valley, Perris, and Beaumont host enormous distribution centers for Amazon, Skechers, Ross Stores, and other major retailers. These facilities generate constant truck traffic for both inbound container loads from the ports and outbound distribution to western US markets.\n\nThe March Air Reserve Base/March Inland Port Airport adds military logistics and air cargo connectivity. The region\'s growth has pushed warehouse development eastward into the Moreno Valley and Beaumont areas, extending the distribution corridor along Highway 60 and I-215.',
+          "The Riverside area cannabis market benefits from the region's vast industrial infrastructure and large consumer population. Several cities in the greater Riverside area have opted to allow cannabis businesses, creating a patchwork of permitted zones. Indoor cultivation operations have taken advantage of affordable warehouse space, and dispensaries serve consumers from across the eastern Inland Empire.\n\nProcessing and manufacturing operations in the Riverside region produce a wide range of cannabis products including edibles, concentrates, and topicals. The area's proximity to both the Los Angeles market and the desert communities creates distribution opportunities along the I-10 and I-15 corridors.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'Highway 91 connects Riverside to Orange County and the LA Basin to the west. I-215 runs through the city connecting to San Bernardino to the north and Murrieta/Temecula to the south. Highway 60 runs east-west connecting to the Pomona/Ontario area to the west and Beaumont/Banning to the east. I-15 is accessible to the northeast, providing routes to Las Vegas and the High Desert. Highway 74 connects south toward Lake Elsinore.',
+          "Cannabis operations in the Riverside area are found in various cities and unincorporated areas of Riverside County. Dispensaries operate along University Avenue, Arlington Avenue, and in the Moreno Valley and Perris areas. Indoor cultivation facilities are concentrated in industrial parks in Moreno Valley, Perris, and Beaumont along the Highway 60 and I-215 corridors. Processing operations occupy industrial spaces in the March Air Reserve Base area and along the I-15 corridor.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'High-traffic corridor coverage for the congested 91/60/215 interchange area',
-          'Distribution center operations liability for warehouse and dock work',
-          'CARB emissions compliance coverage for California air quality regulations',
-          'High-value consumer goods cargo coverage for retail distribution freight',
-          'Air cargo and military logistics coverage for March Inland Port operations',
+          'General liability for dispensary and retail cannabis operations',
+          'Product liability for all manufactured and sold cannabis products',
+          'Property insurance for converted warehouse cultivation facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for large-scale indoor cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does the Highway 91 corridor affect trucking insurance for Riverside carriers?',
-        a: 'Highway 91 is one of the most congested freight corridors in Southern California, with heavy commuter and truck traffic creating elevated accident risk. Insurers factor this corridor exposure into pricing. Operating during off-peak hours and documenting routing alternatives can help demonstrate risk mitigation.',
+        q: 'How does local cannabis regulation vary in the Riverside area?',
+        a: "Cannabis regulation in the Riverside area varies significantly by city and jurisdiction. Some cities have embraced cannabis businesses while others maintain bans. Your insurance coverage requires your business to operate in compliance with local ordinances. Before applying for coverage, verify that your specific location is zoned and permitted for cannabis operations under the applicable local jurisdiction.",
       },
       {
-        q: 'What CARB compliance considerations affect my trucking insurance in California?',
-        a: 'California Air Resources Board regulations require specific emission standards for trucks operating in the state. Non-compliant equipment can result in fines and operational restrictions. While CARB compliance is not directly an insurance issue, a fine or shutdown can affect your ability to maintain continuous coverage and operations.',
+        q: 'What insurance do large indoor cultivation operations in Riverside need?',
+        a: "Large indoor cultivation operations need comprehensive property insurance covering the facility, growing equipment, HVAC systems, and lighting infrastructure. Crop and harvest insurance protects the cannabis plants from environmental control failures, pests, and contamination. General liability, workers compensation, and equipment breakdown coverage round out the essential package for indoor grows in the Inland Empire.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'excess-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2153,50 +2506,59 @@ export const citiesPart2 = [
     state: 'Colorado',
     stateSlug: 'colorado',
     abbreviation: 'CO',
-    metaTitle: 'Trucking Insurance in Aurora, CO',
+    metaTitle: 'Cannabis Insurance in Aurora, CO',
     metaDescription:
-      'Commercial trucking insurance in Aurora, Colorado. Coverage for carriers in the eastern Denver metro distribution and logistics corridor.',
-    heroHeading: 'Aurora Trucking Insurance',
+      'Cannabis business insurance in Aurora, Colorado. Coverage for dispensaries, cultivation facilities, and processors in the eastern Denver metro.',
+    heroHeading: 'Aurora Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the eastern Denver metro logistics corridor.',
+      'Insurance for cannabis businesses in the eastern Denver metropolitan area.',
     overview:
-      'Aurora is the third-largest city in Colorado, situated on the eastern side of the Denver metropolitan area along the I-70 and E-470 corridors. The city has developed a significant logistics and distribution sector, with industrial parks and fulfillment centers serving the Front Range market. Buckley Space Force Base and the Anschutz Medical Campus add specialized freight requirements to a market primarily focused on regional distribution.',
+      "Aurora is Colorado's third-largest city, situated on the eastern edge of the Denver metro area. Colorado was a pioneer in cannabis legalization, and Aurora has developed a significant cannabis market with numerous dispensaries, cultivation facilities, and processing operations. The city has established its own cannabis licensing framework, and the market has matured over more than a decade of legal operation. Aurora's diverse population and proximity to Denver International Airport create a broad consumer base.",
     sections: [
       {
-        heading: 'Trucking in Aurora',
+        heading: 'Cannabis Market in Aurora',
         content:
-          'Aurora\'s trucking industry benefits from its position on the eastern edge of metro Denver where suburban development meets the plains. The I-70 corridor through Aurora provides the primary gateway for freight entering Denver from the east, including transcontinental loads from Kansas City and beyond. The city\'s industrial areas along I-70 and E-470 host distribution centers, cross-dock facilities, and freight terminals.\n\nThe proximity to Denver International Airport creates air cargo support trucking demand, while Buckley Space Force Base generates defense logistics freight. The growing Aurora metro area drives increasing demand for consumer goods distribution and construction materials transport.',
+          "Aurora's cannabis market is well-established within Colorado's mature recreational framework. The city hosts dozens of licensed dispensaries serving both recreational consumers and medical patients. Aurora's diverse demographics have shaped a market that caters to a broad range of consumer preferences, from budget-conscious shoppers to premium product seekers.\n\nCultivation operations in Aurora include indoor grows in commercial and industrial spaces, many of which have been purpose-built for cannabis. The city's processing sector manufactures concentrates, edibles, and infused products. The competitive Colorado market has driven innovation and operational efficiency among Aurora's cannabis businesses.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-70 runs east-west through Aurora connecting to downtown Denver and the mountain corridor to the west and Limon, Kansas, and the Great Plains to the east. I-225 runs through the city connecting I-25 to the north and I-70 to the south. E-470 provides a tolled bypass around the eastern metro area connecting I-25 north, DIA, and I-70. Highway 83 runs south toward Parker and Colorado Springs. Colfax Avenue (US-40) runs east-west through the city.',
+          "Dispensaries in Aurora are located along East Colfax Avenue, Havana Street, Iliff Avenue, and near the Aurora Mall area. The Chambers Road corridor and Buckley Air Force Base adjacent neighborhoods also host cannabis retail. Cultivation and processing facilities are found in industrial zones along I-70, in the Fitzsimons area, and in commercial parks along E-470.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Front Range distribution corridor coverage for metro Denver operations',
-          'I-70 mountain corridor coverage for Eisenhower Tunnel and mountain grade operations',
-          'Hailstorm and severe weather coverage for Colorado Front Range exposure',
-          'DIA air cargo connection coverage for airport logistics operations',
+          'General liability for established dispensary operations',
+          'Product liability for cannabis flower, edibles, and concentrates',
+          'Property insurance for cultivation and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does Colorado\'s hail exposure affect my trucking insurance in Aurora?',
-        a: 'The Colorado Front Range, including Aurora, is one of the most hail-prone regions in the United States. Severe hailstorms can cause extensive damage to trucks and trailers parked outdoors. Your comprehensive physical damage coverage should address hail damage, and consider your equipment storage strategy during severe weather season.',
+        q: 'What insurance do established Aurora cannabis businesses need?',
+        a: "Even mature Aurora cannabis businesses should maintain comprehensive coverage including general liability, product liability, property insurance, workers compensation, and crop coverage for cultivation operations. Colorado's Marijuana Enforcement Division requires licensees to meet specific insurance requirements. Annual reviews ensure your coverage keeps pace with your business growth and regulatory changes.",
       },
       {
-        q: 'What insurance considerations exist for I-70 mountain operations from Aurora?',
-        a: 'Carriers based in Aurora frequently operate west on I-70 through the Eisenhower Tunnel and over mountain passes. These operations involve steep grades, chain requirements, and winter weather hazards. Ensure your policy provides adequate mountain operation coverage and towing limits for high-altitude breakdowns.',
+        q: 'How does Colorado hail exposure affect cannabis operations in Aurora?',
+        a: "The Colorado Front Range, including Aurora, is one of the most hail-prone regions in the nation. Severe hailstorms can damage greenhouse operations, outdoor growing areas, and building structures. Your property insurance should specifically address hail damage, and any outdoor or greenhouse cultivation should have crop coverage that includes hail exposure.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2205,52 +2567,59 @@ export const citiesPart2 = [
     state: 'Colorado',
     stateSlug: 'colorado',
     abbreviation: 'CO',
-    metaTitle: 'Trucking Insurance in Colorado Springs, CO',
+    metaTitle: 'Cannabis Insurance in Colorado Springs, CO',
     metaDescription:
-      'Commercial trucking insurance in Colorado Springs, Colorado. Coverage for carriers serving military installations and the southern Front Range.',
-    heroHeading: 'Colorado Springs Trucking Insurance',
+      'Cannabis business insurance in Colorado Springs, Colorado. Coverage for medical cannabis dispensaries and hemp businesses on the southern Front Range.',
+    heroHeading: 'Colorado Springs Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers serving the southern Front Range and military freight corridor.',
+      'Insurance for medical cannabis and hemp businesses on the southern Front Range.',
     overview:
-      'Colorado Springs is the second-largest city in Colorado and home to five military installations including Fort Carson, Peterson Space Force Base, Schriever Space Force Base, the US Air Force Academy, and NORAD at Cheyenne Mountain. The city\'s trucking industry is significantly influenced by defense logistics, alongside regional distribution for the growing southern Front Range market along the I-25 corridor.',
+      "Colorado Springs presents a unique cannabis market within Colorado's legalized landscape. While the state legalized recreational cannabis in 2012, Colorado Springs voters have repeatedly rejected recreational sales within city limits. The city does allow medical cannabis dispensaries, which serve qualifying patients. This creates a market where medical operators thrive while recreational consumers travel to neighboring Manitou Springs or Pueblo. The city's large military population, centered on five installations, also shapes the local cannabis landscape.",
     sections: [
       {
-        heading: 'Trucking in Colorado Springs',
+        heading: 'Cannabis Market in Colorado Springs',
         content:
-          'Colorado Springs\' trucking sector is heavily shaped by military logistics. Fort Carson, one of the Army\'s largest installations, requires constant movement of vehicles, equipment, ammunition, and supplies. The space-focused installations generate high-value technology cargo and classified materials shipments. These defense contracts demand carriers with elevated security clearances and strict compliance programs.\n\nThe civilian freight market has grown substantially as Colorado Springs\' population has expanded. Distribution centers, construction materials suppliers, and retail operations drive increasing non-military freight volume along the I-25 corridor.',
+          "Colorado Springs' cannabis market operates exclusively through medical dispensaries within city limits. This medical-only framework means operators serve registered patients with qualifying conditions, creating a different business model than recreational markets in Denver and other Colorado cities. The limited competition from recreational outlets has sustained strong medical dispensary operations.\n\nThe broader El Paso County region also hosts cultivation and processing operations. Hemp businesses operate freely, and CBD retailers serve the general consumer market. The city's conservative character combined with Colorado's overall progressive cannabis policy creates an interesting market dynamic.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-25 runs north-south through Colorado Springs connecting to Denver to the north and Pueblo and Trinidad to the south. US-24 heads west through Ute Pass toward Woodland Park and Leadville, and east toward Limon and the Kansas border. Highway 21 (Powers Boulevard) serves the eastern military installations. Highway 115 connects to Fort Carson and Canon City. Highway 94 heads east across the plains.',
+          "Medical cannabis dispensaries in Colorado Springs are found along Academy Boulevard, Platte Avenue, and in the Garden of the Gods Road area. The South Nevada Avenue corridor and Austin Bluffs Parkway area also host medical cannabis retail. Cultivation operations are located in industrial zones along I-25, in the Cimarron Hills area, and in agricultural properties in El Paso County. CBD retailers operate throughout the city's commercial corridors.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Military base logistics coverage for Fort Carson and space installation freight',
-          'High-value classified cargo coverage for defense technology shipments',
-          'I-25 corridor coverage for Denver-Colorado Springs-Pueblo operations',
-          'Mountain and high-altitude operations coverage for western route exposure',
-          'Hail and severe weather coverage for Front Range storm exposure',
+          'General liability for medical cannabis dispensary operations',
+          'Product liability for all dispensed medical cannabis products',
+          'Property insurance for dispensary locations and grow facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance requirements exist for hauling military freight at Fort Carson?',
-        a: 'Military freight contracts typically require elevated auto liability limits, often $2,000,000 or higher, plus specialized cargo coverage for military vehicles and equipment. Ammunition and explosives shipments require hazmat endorsements and additional security protocols. Your insurer must be experienced with Department of Defense contract requirements.',
+        q: 'Can I open a recreational cannabis shop in Colorado Springs?',
+        a: "As of now, Colorado Springs does not permit recreational cannabis retail sales within city limits. Medical dispensaries are allowed. Insurance coverage is available for medical cannabis operations that hold valid Colorado Marijuana Enforcement Division licenses and comply with local regulations. If the city's policy changes in the future, your coverage can be updated accordingly.",
       },
       {
-        q: 'How does Colorado Springs\' elevation affect trucking operations and insurance?',
-        a: 'Colorado Springs sits at over 6,000 feet elevation, and western routes climb much higher. High altitude affects engine performance, braking, and driver alertness. Carriers operating mountain routes west of the city face additional exposure from steep grades and winter weather conditions.',
+        q: 'How does the military population affect cannabis businesses in Colorado Springs?',
+        a: "The five military installations in Colorado Springs mean a large portion of the local population is subject to federal drug testing requirements and cannot use cannabis. This limits your customer base compared to other Colorado cities. Your business plan and insurance coverage should reflect the actual size of your eligible market. CBD products remain accessible to military personnel as long as they contain no THC.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2259,50 +2628,59 @@ export const citiesPart2 = [
     state: 'Kansas',
     stateSlug: 'kansas',
     abbreviation: 'KS',
-    metaTitle: 'Trucking Insurance in Wichita, KS',
+    metaTitle: 'Cannabis Insurance in Wichita, KS',
     metaDescription:
-      'Commercial trucking insurance in Wichita, Kansas. Coverage for carriers serving the Air Capital aviation industry and central Kansas freight market.',
-    heroHeading: 'Wichita Trucking Insurance',
+      'Cannabis business insurance in Wichita, Kansas. Coverage for hemp and CBD businesses in central Kansas.',
+    heroHeading: 'Wichita Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the Air Capital of the World and central Kansas freight hub.',
+      'Insurance for hemp and CBD businesses in central Kansas.',
     overview:
-      'Wichita is known as the Air Capital of the World, home to major aviation manufacturers including Textron Aviation (Cessna and Beechcraft), Spirit AeroSystems, and Bombardier Learjet. The city\'s trucking industry serves aviation manufacturing logistics alongside the agricultural and energy sectors of central Kansas. Wichita\'s position at the intersection of I-35, I-135, and the Kansas Turnpike makes it a natural freight crossroads.',
+      "Wichita is Kansas' largest city, operating in a state that has not legalized medical or recreational cannabis. However, the hemp and CBD market has developed under the Kansas Industrial Hemp Program, and CBD retailers serve consumers throughout the Wichita metro area. The city's proximity to Colorado, Oklahoma, and Missouri, all of which have legal cannabis programs, creates consumer awareness and demand for legal hemp-derived products. Kansas has been gradually moving toward cannabis reform, and Wichita businesses can position themselves for future market expansion.",
     sections: [
       {
-        heading: 'Trucking in Wichita',
+        heading: 'Cannabis Market in Wichita',
         content:
-          'Wichita\'s freight economy combines aerospace manufacturing with agricultural commodity transport. Aviation companies require precision logistics for aircraft components, assemblies, and raw materials like aluminum and composite materials. These shipments often involve oversized loads and high-value cargo requiring specialized handling.\n\nThe surrounding agricultural region produces wheat, cattle, and grain sorghum, generating bulk commodity hauling demand. Koch Industries, headquartered in Wichita, and its subsidiaries create additional industrial and chemical freight requirements.',
+          "Wichita's cannabis-adjacent market centers on CBD retail and hemp products. The city's population of nearly 400,000 provides a substantial consumer base for hemp-derived wellness products. CBD specialty shops, smoke shops, and wellness retailers have added hemp products to their offerings throughout the metro area.\n\nHemp cultivation in central Kansas leverages the state's vast agricultural resources. Farmers in Sedgwick and surrounding counties are exploring hemp as a crop option. Processing operations are beginning to establish in the Wichita area, though the market remains in early development compared to neighboring states with legal cannabis programs.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-35 passes near Wichita connecting to Oklahoma City to the south and Emporia and Kansas City to the northeast. I-135 runs north from Wichita to Salina and I-70. The Kansas Turnpike (I-35) connects to Topeka. US-54 runs east-west through the city toward Liberal to the west and Eureka to the east. US-81 provides a north-south route through the heart of Kansas wheat country. Highway 96 heads west toward Dodge City.',
+          "CBD retailers in Wichita are found along Rock Road, East Kellogg Drive, West Street, and in the Towne East and Towne West shopping areas. The Douglas Avenue corridor and Old Town entertainment district also host hemp product shops. Hemp cultivation is located in agricultural areas of Sedgwick, Butler, and Harvey counties. Processing operations occupy industrial spaces along I-135 and in the Wichita industrial corridor.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Aviation component and oversized cargo coverage for aerospace manufacturing freight',
-          'High-value manufacturing parts insurance for Spirit AeroSystems and Textron supply chains',
-          'Agricultural commodity coverage for Kansas wheat and cattle operations',
-          'Severe weather coverage for Kansas tornado and hail exposure',
+          'General liability for CBD retail and hemp product businesses',
+          'Product liability for hemp-derived CBD products and supplements',
+          'Property insurance for retail stores and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for Kansas hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What coverage do I need for hauling aviation components in Wichita?',
-        a: 'Aviation components are high-value, often custom-manufactured items. Your cargo coverage needs limits that reflect the replacement cost of aircraft assemblies, which can be hundreds of thousands of dollars per load. Additionally, oversized components like wing sections and fuselage panels require specialized transport coverage.',
+        q: 'What is the legal status of cannabis products in Wichita?',
+        a: "Kansas does not permit the sale of THC cannabis products. Hemp-derived CBD products containing less than 0.3 percent THC are legal under the Kansas Industrial Hemp Program and federal law. Your insurance coverage should specifically address the legal hemp-derived products you sell. Maintain lab testing documentation for all products to demonstrate THC compliance.",
       },
       {
-        q: 'How does Kansas tornado risk affect my trucking insurance?',
-        a: 'Kansas is in the heart of Tornado Alley, with significant severe weather exposure from April through September. Your comprehensive physical damage coverage should address tornado and hail damage to equipment. Consider where you park equipment during severe weather season and whether your facilities provide adequate shelter.',
+        q: 'Will Kansas legalize cannabis and how should Wichita businesses prepare?',
+        a: "Kansas has been gradually considering cannabis reform. While the timeline is uncertain, Wichita businesses currently operating in the hemp and CBD space will have a head start if the market expands. Maintaining clean business operations, strong compliance records, and a positive insurance history positions you well for future licensing opportunities if and when Kansas broadens legal access.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'excess-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2311,50 +2689,59 @@ export const citiesPart2 = [
     state: 'Kansas',
     stateSlug: 'kansas',
     abbreviation: 'KS',
-    metaTitle: 'Trucking Insurance in Topeka, KS',
+    metaTitle: 'Cannabis Insurance in Topeka, KS',
     metaDescription:
-      'Commercial trucking insurance in Topeka, Kansas. Coverage for carriers on the I-70 corridor serving the state capital and northeast Kansas freight market.',
-    heroHeading: 'Topeka Trucking Insurance',
+      'Cannabis business insurance in Topeka, Kansas. Coverage for hemp and CBD businesses in the state capital.',
+    heroHeading: 'Topeka Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers on the I-70 corridor in the Kansas capital region.',
+      "Insurance for hemp and CBD businesses in Kansas' capital city.",
     overview:
-      'Topeka is the capital of Kansas, situated on I-70 between Kansas City and the central Kansas plains. The city serves as a distribution center for the northeast Kansas market and a freight corridor for transcontinental I-70 traffic. Mars Wrigley and Frito-Lay operate major production facilities in the area, and the BNSF rail yards create intermodal freight opportunities for local carriers.',
+      "Topeka is the capital of Kansas, situated on I-70 between Kansas City and the central Kansas plains. As the seat of state government, Topeka is where cannabis policy decisions are made, and hemp and CBD businesses in the city operate close to the regulatory process. The Kansas Industrial Hemp Program allows cultivation and processing of hemp, and CBD retailers serve consumers throughout the Topeka area. The city's proximity to Missouri, where recreational cannabis is legal, creates cross-border market awareness.",
     sections: [
       {
-        heading: 'Trucking in Topeka',
+        heading: 'Cannabis Market in Topeka',
         content:
-          'Topeka\'s trucking industry benefits from its I-70 position and its role as the state capital. Government freight, including state agency supplies and correctional facility logistics, provides a steady base of demand. The food manufacturing sector, with Mars Wrigley\'s pet food plant and Frito-Lay\'s snack production facility, generates significant outbound freight.\n\nThe BNSF Railway maintains major classification yards in Topeka, creating intermodal transfer opportunities and local drayage demand. The city also serves as a distribution point for agricultural communities across northeast Kansas.',
+          "Topeka's hemp and CBD market operates within Kansas' legal framework. The state capital hosts CBD retailers and hemp product businesses serving the Topeka metro population. The proximity to Kansas City and the Missouri border, where recreational cannabis is legal, drives consumer awareness and demand for legal hemp products.\n\nHemp cultivation in the northeast Kansas agricultural region supports the growing industry. The area's established farming infrastructure and agricultural workforce provide a foundation for hemp production. As the state capital, Topeka will be at the center of any future Kansas cannabis policy changes.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-70 runs east-west through Topeka connecting to Kansas City to the east and Salina, Hays, and Denver to the west. US-75 runs north-south connecting to Holton and the Nebraska border to the north and Emporia and the Oklahoma border to the south. US-24 runs east-west as an alternate to I-70. The Kansas Turnpike (I-335) connects south to Emporia and the I-35 corridor.',
+          "CBD retailers in Topeka are found along Wanamaker Road, Gage Boulevard, and in the Topeka West shopping corridors. The downtown area and Kansas Avenue commercial district also host hemp product shops. Hemp cultivation is located in agricultural zones of Shawnee, Jefferson, and Jackson counties. Processing operations are in industrial areas along I-70 and near Forbes Field.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Food manufacturing cargo coverage for Mars and Frito-Lay production freight',
-          'State government contract coverage for capital city logistics operations',
-          'Intermodal drayage coverage for BNSF rail yard container movements',
-          'Tornado Alley severe weather coverage for northeast Kansas exposure',
+          'General liability for CBD retail and hemp product operations',
+          'Product liability for hemp-derived CBD products',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for northeast Kansas hemp farming',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for food manufacturing freight from Topeka?',
-        a: 'Food products require cargo coverage that addresses contamination, temperature control, and regulatory recall exposure. If you haul for major brands like Mars or Frito-Lay, their contracts typically specify minimum coverage limits and may require excess liability protection beyond standard levels.',
+        q: 'How does Topeka being the state capital affect cannabis business prospects?',
+        a: "Operating in the state capital means your business is close to the legislative and regulatory process. This proximity can be advantageous for staying current with policy developments and engaging in industry advocacy. From an insurance perspective, Topeka's market size and regulatory environment are the key factors in pricing. Your compliance posture is always the most important element in obtaining and maintaining coverage.",
       },
       {
-        q: 'How does I-70 transcontinental traffic affect insurance in Topeka?',
-        a: 'I-70 is one of the busiest east-west freight corridors in the nation, carrying heavy truck volumes through Topeka. This traffic density affects accident frequency and is a factor in your insurance pricing. However, Topeka\'s position allows carriers to serve both the I-70 corridor and the regional Kansas market efficiently.',
+        q: 'What insurance do Topeka hemp businesses need?',
+        a: "Topeka hemp and CBD businesses need general liability for operations, product liability for all products sold or manufactured, property insurance for facilities and inventory, and workers compensation for employees. Maintaining compliance with the Kansas Industrial Hemp Program is essential for insurance eligibility. Keep all licensing and product testing documentation current to support your coverage.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2363,52 +2750,59 @@ export const citiesPart2 = [
     state: 'South Carolina',
     stateSlug: 'south-carolina',
     abbreviation: 'SC',
-    metaTitle: 'Trucking Insurance in Charleston, SC',
+    metaTitle: 'Cannabis Insurance in Charleston, SC',
     metaDescription:
-      'Commercial trucking insurance in Charleston, South Carolina. Coverage for carriers serving the Port of Charleston and Southeast automotive logistics.',
-    heroHeading: 'Charleston Trucking Insurance',
+      'Cannabis business insurance in Charleston, South Carolina. Coverage for hemp and CBD businesses in the Lowcountry.',
+    heroHeading: 'Charleston Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers at one of the fastest-growing container ports on the East Coast.',
+      'Insurance for hemp and CBD businesses in the South Carolina Lowcountry.',
     overview:
-      'Charleston is home to one of the busiest and fastest-growing container ports on the US East Coast. The Port of Charleston, operated by the South Carolina Ports Authority, handles substantial container volumes with its recently completed Hugh K. Leatherman Terminal and the planned Navy Base Intermodal Container Transfer Facility. The city\'s trucking industry serves port drayage, automotive manufacturing logistics for Volvo and Mercedes-Benz, and distribution for the rapidly growing Lowcountry region.',
+      "Charleston is one of South Carolina's largest cities and a hub for the state's growing hemp and CBD industry. South Carolina has not legalized medical or recreational cannabis, but the state has embraced hemp cultivation and CBD product sales under its industrial hemp program. Charleston's tourism industry, thriving downtown retail scene, and health-conscious consumer base have made it a strong market for CBD products. The Lowcountry's agricultural heritage also supports hemp cultivation in surrounding rural areas.",
     sections: [
       {
-        heading: 'Trucking in Charleston',
+        heading: 'Cannabis Market in Charleston',
         content:
-          'Charleston\'s trucking sector has grown dramatically alongside port expansion. The port\'s deep-water terminals handle containers from Asia, Europe, and Latin America, generating thousands of daily drayage moves to distribution centers and intermodal yards. The automotive sector adds another major freight component, with Volvo Cars operating an assembly plant in Ridgeville and Mercedes-Benz Vans manufacturing in North Charleston.\n\nThe Charleston region\'s rapid population and economic growth has also driven expansion of consumer goods distribution, construction materials transport, and food distribution for the Lowcountry\'s hospitality and tourism industries.',
+          "Charleston's cannabis-adjacent market is driven by CBD retail and hemp products. The city's vibrant tourism industry brings millions of visitors annually, creating a consumer base beyond the local population. CBD shops have found success in Charleston's retail-rich environment, particularly in the downtown tourist areas and along the major commercial corridors.\n\nHemp cultivation in the Lowcountry benefits from South Carolina's long growing season and warm climate. The state's agricultural community has explored hemp as a crop, and processing facilities in the Charleston area convert hemp biomass into CBD products. The city's port and logistics infrastructure could support larger-scale hemp product distribution as the market develops.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-26 runs northwest from Charleston to Columbia and connects to the national interstate system. I-526 (Mark Clark Expressway) provides a beltway around the northern portion of the metro area connecting the port terminals to I-26. US-17 runs along the coast north toward Myrtle Beach and south toward Savannah. US-78 heads northwest toward Summerville and Orangeburg. Highway 61 connects to the Ashley River area and western suburbs.',
+          "CBD retailers in Charleston are found along King Street in the downtown shopping district, in the Mount Pleasant Towne Centre area, on Savannah Highway in West Ashley, and along Rivers Avenue in North Charleston. Hemp cultivation is located in agricultural areas of Charleston, Berkeley, and Dorchester counties. Processing operations occupy industrial spaces along I-26 and in the North Charleston industrial corridor.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Container port drayage coverage for Port of Charleston terminal operations',
-          'Automotive manufacturing cargo insurance for Volvo and Mercedes supply chains',
-          'Hurricane and flood coverage for Lowcountry coastal exposure',
-          'Chassis interchange and intermodal equipment coverage',
-          'International cargo coverage for import/export container freight',
+          'General liability for CBD retail operations in tourist-heavy areas',
+          'Product liability for hemp-derived CBD products including edibles and topicals',
+          'Property insurance with hurricane coverage for Lowcountry facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for Lowcountry hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What insurance do I need for drayage at the Port of Charleston?',
-        a: 'Port drayage requires auto liability covering terminal operations, cargo coverage for container contents, and chassis interchange insurance. The South Carolina Ports Authority has specific insurance requirements for terminal access. Your coverage should also address the high-traffic congestion around port facilities and I-526.',
+        q: 'How does hurricane exposure affect hemp and CBD business insurance in Charleston?',
+        a: "Charleston is highly exposed to Atlantic hurricanes, and your property and crop insurance must address wind, flood, and storm surge damage. Hemp cultivation in the Lowcountry faces particular risk from late-season hurricanes that can coincide with the fall harvest. Your property insurance should include comprehensive wind and flood coverage, and business interruption provisions should account for extended recovery periods after major storms.",
       },
       {
-        q: 'How does hurricane exposure affect trucking insurance in Charleston?',
-        a: 'Charleston is highly exposed to Atlantic hurricanes and tropical storms. Your physical damage policy should include comprehensive wind and flood coverage, and many insurers apply hurricane deductibles for coastal operations. Having an equipment evacuation plan is essential during hurricane season.',
+        q: 'What insurance does a CBD shop on King Street in Charleston need?',
+        a: "A CBD retail shop in Charleston's high-traffic tourist district needs robust general liability coverage for customer interactions, product liability for all CBD products sold, property insurance for inventory and fixtures, and workers compensation. The tourist location means high foot traffic and potentially higher premises liability exposure. Ensure your coverage limits reflect the volume of customer interactions at your specific location.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'excess-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2417,50 +2811,59 @@ export const citiesPart2 = [
     state: 'Georgia',
     stateSlug: 'georgia',
     abbreviation: 'GA',
-    metaTitle: 'Trucking Insurance in Augusta, GA',
+    metaTitle: 'Cannabis Insurance in Augusta, GA',
     metaDescription:
-      'Commercial trucking insurance in Augusta, Georgia. Coverage for carriers in the CSRA region along the I-20 corridor between Atlanta and the Carolinas.',
-    heroHeading: 'Augusta Trucking Insurance',
+      'Cannabis business insurance in Augusta, Georgia. Coverage for low-THC oil dispensaries and hemp businesses in the CSRA region.',
+    heroHeading: 'Augusta Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the Central Savannah River Area on the I-20 corridor.',
+      'Insurance for low-THC cannabis and hemp businesses in the Central Savannah River Area.',
     overview:
-      'Augusta is the second-largest metro area in Georgia, situated on the Savannah River along the I-20 corridor between Atlanta and Columbia, South Carolina. The city\'s trucking industry serves the US Army Cyber Center of Excellence at Fort Eisenhower (formerly Fort Gordon), the Savannah River Site nuclear facility, and a growing distribution sector leveraging the city\'s position in the Central Savannah River Area (CSRA) bi-state market.',
+      "Augusta is the second-largest metro area in Georgia, situated on the Savannah River along the I-20 corridor. Georgia's cannabis program is limited to low-THC oil for qualifying medical conditions, and the state has been gradually implementing its licensing framework. Hemp and CBD businesses operate more broadly under the state's industrial hemp program. Augusta's position on the Georgia-South Carolina border creates bi-state market dynamics, and the city's growing economy supports consumer demand for hemp-derived products.",
     sections: [
       {
-        heading: 'Trucking in Augusta',
+        heading: 'Cannabis Market in Augusta',
         content:
-          'Augusta\'s freight market straddles the Georgia-South Carolina border, with carriers serving both states from the I-20 corridor. Fort Eisenhower, the Army\'s premier cyber and signal training installation, generates defense logistics demand. The Department of Energy\'s Savannah River Site across the border in South Carolina handles nuclear materials and requires specialized hazmat transportation services.\n\nThe city\'s commercial freight sector includes manufacturing, forest products, and consumer goods distribution for the CSRA market. Augusta\'s position between Atlanta and the Port of Charleston via I-20 makes it a natural midpoint for east-west freight.',
+          "Augusta's cannabis market operates under Georgia's restrictive framework. The state permits low-THC oil (containing no more than 5 percent THC) for patients with qualifying conditions, but the licensing and distribution infrastructure has been slow to develop. The Georgia Access to Medical Cannabis Commission oversees the program.\n\nThe CBD and hemp market is more developed, with retailers throughout the Augusta area selling hemp-derived products. The city's bi-state market with South Carolina creates opportunities, as both states allow hemp and CBD product sales. Hemp cultivation under Georgia's industrial hemp program is being explored in the CSRA agricultural areas.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-20 runs east-west through Augusta connecting to Atlanta to the west and Columbia, South Carolina to the east. I-520 (Bobby Jones Expressway) provides a southern bypass around the city. US-1 runs through downtown connecting to the South Carolina border. US-25 heads south toward Waynesboro and the Savannah area. Highway 56 runs southwest through the agricultural Burke County region.',
+          "CBD retailers in Augusta are located along Washington Road, Wrightsboro Road, and in the Augusta Mall area. The Gordon Highway corridor and Martinez suburb also host hemp product shops. Hemp cultivation is found in agricultural areas of Richmond, Columbia, and Burke counties. Processing operations are in industrial zones along I-20 and the Bobby Jones Expressway corridor.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Military base logistics coverage for Fort Eisenhower defense operations',
-          'Nuclear facility transport coverage for Savannah River Site specialized freight',
-          'Bi-state operating coverage for Georgia and South Carolina cross-border operations',
-          'Forest products and agricultural cargo coverage for CSRA timber and farm freight',
+          'General liability for CBD retail and hemp product operations',
+          'Product liability for low-THC oil and hemp-derived products',
+          'Property insurance for retail locations and processing facilities',
+          'Workers compensation for all employees',
+          'Crop and harvest coverage for CSRA hemp cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What special insurance do I need for hauling to the Savannah River Site?',
-        a: 'The Savannah River Site handles radioactive and nuclear materials, and carriers serving the facility must meet strict DOE transportation requirements. This includes specialized hazmat cargo coverage, elevated liability limits, and environmental cleanup coverage. Not all insurers write this type of risk, so work with an agent experienced in nuclear facility logistics.',
+        q: "How does Georgia's limited cannabis program affect insurance in Augusta?",
+        a: "Georgia's restrictive cannabis program means fewer cannabis-specific insurers operate in the market. Low-THC oil operations require specialized coverage that addresses the specific products permitted under state law. Hemp and CBD businesses have more standard commercial insurance options available. As the Georgia program develops, insurance products will expand accordingly.",
       },
       {
-        q: 'How does operating in both Georgia and South Carolina from Augusta affect my insurance?',
-        a: 'Augusta sits directly on the state line, and many local operations cross between Georgia and South Carolina daily. Your interstate authority and insurance filings must cover both states. The legal environments differ between the two states, which can affect how claims are handled depending on where an incident occurs.',
+        q: 'Does the Georgia-South Carolina border affect cannabis business operations in Augusta?',
+        a: "Augusta sits directly on the state line, and many consumers cross between Georgia and South Carolina. While both states permit hemp and CBD sales, the specific regulations differ. Cannabis products legal in one state may not be legal in the other. Your insurance coverage should clearly define the geographic scope of your operations and the products you sell in each state.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
-      'pollution-liability',
+      'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2469,50 +2872,59 @@ export const citiesPart2 = [
     state: 'Florida',
     stateSlug: 'florida',
     abbreviation: 'FL',
-    metaTitle: 'Trucking Insurance in Tallahassee, FL',
+    metaTitle: 'Cannabis Insurance in Tallahassee, FL',
     metaDescription:
-      'Commercial trucking insurance in Tallahassee, Florida. Coverage for carriers on the I-10 corridor serving Florida\'s capital and the Big Bend region.',
-    heroHeading: 'Tallahassee Trucking Insurance',
+      'Cannabis business insurance in Tallahassee, Florida. Coverage for medical cannabis dispensaries and hemp businesses in the state capital.',
+    heroHeading: 'Tallahassee Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers on the I-10 corridor in Florida\'s capital region.',
+      "Insurance for medical cannabis and hemp businesses in Florida's capital city.",
     overview:
-      'Tallahassee is Florida\'s capital city, positioned on the I-10 corridor in the Big Bend region of the state. The city\'s trucking industry serves state government logistics, Florida State University and Florida A&M University operations, and distribution for the Big Bend and western Florida Panhandle communities. Tallahassee\'s location on I-10 makes it a waypoint for freight moving between Jacksonville and the western Gulf Coast.',
+      "Tallahassee is Florida's state capital, where the medical cannabis program is administered and where policy decisions shape the industry. Florida's medical marijuana program, established through Amendment 2 in 2016, has grown into one of the largest in the nation. Tallahassee serves as both a market for medical cannabis dispensaries and the regulatory hub where the Office of Medical Marijuana Use oversees the program. The city's position in North Florida and its role as the state capital create a unique cannabis business environment.",
     sections: [
       {
-        heading: 'Trucking in Tallahassee',
+        heading: 'Cannabis Market in Tallahassee',
         content:
-          'Tallahassee\'s freight sector is shaped by its role as the state capital. Government freight, including supplies for state agencies, the legislature, and the governor\'s office, provides consistent hauling demand. The two major universities add institutional freight for campus operations, research facilities, and athletic programs.\n\nThe city serves as a regional distribution hub for the Big Bend area and surrounding rural communities in Georgia and Florida. Timber operations in the surrounding forests generate log and lumber freight, while agricultural operations produce peanuts, cotton, and cattle requiring transport.',
+          "Tallahassee's medical cannabis market is served by dispensaries operated by Florida's vertically integrated licensed medical marijuana treatment centers. These operators handle everything from cultivation to retail under a single license. The capital city's patient population includes state government employees, university communities from FSU and FAMU, and the broader Big Bend region.\n\nThe proximity to state regulators gives Tallahassee cannabis businesses direct access to the Office of Medical Marijuana Use. Hemp and CBD retailers also operate throughout the city, serving consumers with a range of hemp-derived products. The North Florida agricultural areas support hemp cultivation under the state's industrial hemp program.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-10 runs east-west through Tallahassee connecting to Jacksonville to the east and Pensacola and Mobile to the west. US-27 runs north to the Georgia border and south through the Big Bend to Perry. US-319 connects to Thomasville, Georgia and the south Georgia agricultural region. US-90 parallels I-10 through the city. Highway 363 heads south toward the Gulf Coast at St. Marks.',
+          "Medical marijuana dispensaries in Tallahassee are located along Apalachee Parkway, North Monroe Street, and in the Capital Circle commercial areas. The Thomasville Road corridor and Killearn area also host dispensary locations. CBD retailers operate throughout the city including near FSU and FAMU campuses. Hemp cultivation is found in agricultural areas of Leon, Gadsden, and Jefferson counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'State government contract coverage for capital city logistics operations',
-          'Hurricane and tropical storm coverage for Big Bend exposure',
-          'Timber and forestry products cargo coverage for North Florida operations',
-          'Rural route coverage for distribution to remote Big Bend communities',
+          'General liability for medical cannabis dispensary operations',
+          'Product liability for all dispensed medical cannabis products',
+          'Property insurance for dispensary locations and cultivation facilities',
+          'Workers compensation for all cannabis business employees',
+          'Cyber liability for patient data and medical record protection',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does hurricane risk affect my trucking insurance in Tallahassee?',
-        a: 'While Tallahassee is inland from the coast, the Big Bend region is exposed to Gulf hurricanes. Recent storms have demonstrated that inland communities can sustain significant damage. Your physical damage policy should include wind and flood provisions, and you should have an equipment protection plan for hurricane threats.',
+        q: "How does Florida's vertically integrated model affect cannabis insurance?",
+        a: "Florida requires medical marijuana treatment centers to be vertically integrated, meaning they cultivate, process, and dispense under one license. This creates comprehensive insurance needs spanning cultivation, manufacturing, distribution, and retail operations. Your coverage must address each stage of the supply chain, from crop insurance for growing operations to product liability at the dispensary counter.",
       },
       {
-        q: 'What freight opportunities exist for trucking companies in the Tallahassee area?',
-        a: 'Tallahassee offers a stable base of government and institutional freight with lower competition than major metro markets. The I-10 corridor position adds transit freight opportunities. From an insurance perspective, the moderate freight base and lower congestion compared to South Florida can be favorable for building a positive loss history.',
+        q: 'Is recreational cannabis coming to Florida and how should businesses prepare?',
+        a: "Florida has considered recreational cannabis ballot measures, and passage would dramatically expand the market. For existing medical operators in Tallahassee, recreational legalization would increase customer volume, inventory requirements, and liability exposure. Maintaining strong insurance coverage and compliance records positions your business well for any market expansion. Pre-existing relationships with cannabis-experienced insurers will be valuable as the market evolves.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2521,52 +2933,59 @@ export const citiesPart2 = [
     state: 'Florida',
     stateSlug: 'florida',
     abbreviation: 'FL',
-    metaTitle: 'Trucking Insurance in Orlando, FL',
+    metaTitle: 'Cannabis Insurance in Orlando, FL',
     metaDescription:
-      'Commercial trucking insurance in Orlando, Florida. Coverage for carriers serving Central Florida\'s tourism, distribution, and construction freight markets.',
-    heroHeading: 'Orlando Trucking Insurance',
+      'Cannabis business insurance in Orlando, Florida. Coverage for medical cannabis dispensaries and hemp businesses in Central Florida.',
+    heroHeading: 'Orlando Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in Central Florida\'s dynamic tourism and distribution economy.',
+      "Insurance for medical cannabis and hemp businesses in Central Florida's dynamic market.",
     overview:
-      'Orlando is the heart of Central Florida, a region defined by its massive tourism industry, rapid population growth, and expanding distribution sector. The city\'s trucking industry serves Walt Disney World, Universal Studios, and dozens of other attractions requiring constant supply chain support. The convergence of I-4, Florida\'s Turnpike, and the BeachLine Expressway makes Orlando a central freight hub for the entire Florida peninsula.',
+      "Orlando is the heart of Central Florida and one of the largest medical cannabis markets in the state. Florida's medical marijuana program has grown rapidly, and Orlando's large population, tourism industry, and diverse demographics create strong patient demand. The city's dispensaries serve both permanent residents and seasonal visitors with qualifying medical conditions. The convergence of I-4, Florida's Turnpike, and major arterials makes Orlando a strategic hub for cannabis distribution across Central Florida.",
     sections: [
       {
-        heading: 'Trucking in Orlando',
+        heading: 'Cannabis Market in Orlando',
         content:
-          'Orlando\'s freight market is uniquely influenced by tourism. The theme parks and hospitality industry require year-round deliveries of food and beverage, merchandise, construction materials for constant renovation, and specialty freight for attractions and events. This creates a freight base unlike any other city, with significant last-mile and white-glove delivery demand.\n\nBeyond tourism, Orlando has developed a substantial distribution sector serving Central Florida\'s rapidly growing population. Major retailers and e-commerce companies have located fulfillment centers along the I-4 corridor and Florida\'s Turnpike. Construction freight supporting new residential and commercial development adds another layer of trucking demand.',
+          "Orlando's medical cannabis market is among the most active in Florida. Multiple licensed medical marijuana treatment centers operate dispensaries throughout the metro area, serving a large and growing patient population. The city's tourism industry brings visitors who may hold out-of-state medical cannabis cards, though Florida's reciprocity provisions determine their access.\n\nThe broader Central Florida region supports cannabis cultivation and processing operations. The warm climate enables greenhouse and outdoor growing, while the population density supports multiple dispensary locations. CBD and hemp retailers also serve the market, with shops in tourist areas, shopping centers, and neighborhood commercial districts throughout the metro.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-4 is the primary east-west corridor through Orlando connecting Tampa to the west and Daytona Beach to the east. Florida\'s Turnpike runs north-south providing toll-road access to Miami and the southeast coast. The BeachLine Expressway (Highway 528) connects to the Space Coast and Port Canaveral. Highway 429 (Western Beltway) serves the growing western suburbs and theme park area. US-441/US-17-92 handle local distribution traffic through the metro.',
+          "Medical cannabis dispensaries in Orlando are located along Colonial Drive, Orange Blossom Trail, International Drive near the tourist corridor, and in the Millenia area. The Altamonte Springs, Winter Park, and Kissimmee suburbs also host dispensary locations. CBD retailers are found throughout the metro including on International Drive, Park Avenue in Winter Park, and in the Mills 50 district. Cultivation operations are in agricultural areas of Orange, Osceola, and Seminole counties.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Tourism and hospitality industry freight coverage for theme park supply chains',
-          'High-traffic I-4 corridor coverage for one of America\'s most dangerous interstates',
-          'Hurricane and tropical storm coverage for Central Florida weather exposure',
-          'Construction materials cargo coverage for the rapidly growing metro area',
-          'Temperature-controlled cargo coverage for food and beverage distribution to hospitality',
+          'General liability for dispensary operations in high-traffic tourist areas',
+          'Product liability for all medical cannabis products dispensed',
+          'Property insurance with hurricane coverage for Central Florida facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for Central Florida cultivation operations',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does I-4 traffic affect my trucking insurance in Orlando?',
-        a: 'I-4 through the Orlando metro area has been consistently ranked among the most dangerous interstates in the United States due to high traffic volumes, frequent congestion, and the mix of tourist and commercial traffic. Insurers closely evaluate I-4 exposure in your operations. Maintaining a clean safety record on this corridor is critical.',
+        q: 'How does the Orlando tourism market affect cannabis business insurance?',
+        a: "Orlando's tourism industry creates high foot traffic and seasonal demand variations that affect your insurance needs. Dispensaries in tourist-heavy areas need robust premises liability coverage. Your product liability should account for serving patients who may be unfamiliar with Florida's specific product formulations. Seasonal revenue fluctuations should be reflected in your coverage levels to ensure adequate protection during peak periods.",
       },
       {
-        q: 'What coverage do I need for hauling freight to theme parks and resorts?',
-        a: 'Theme park and resort deliveries often involve navigating private property with specific access rules, time windows, and security requirements. Your auto liability should cover operations on private roads and property. If you handle specialty freight like ride components or entertainment equipment, your cargo coverage should reflect the high per-unit values involved.',
+        q: 'What hurricane insurance do Orlando cannabis businesses need?',
+        a: "While Orlando is inland from the coast, Central Florida is exposed to hurricane-force winds, flooding, and extended power outages. Your property insurance should include comprehensive wind and flood coverage. Cultivation operations face crop loss risk from extended power outages affecting environmental controls. Business interruption coverage should account for the possibility of extended closures following major storms.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'excess-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
   {
@@ -2575,52 +2994,59 @@ export const citiesPart2 = [
     state: 'Nevada',
     stateSlug: 'nevada',
     abbreviation: 'NV',
-    metaTitle: 'Trucking Insurance in Reno, NV',
+    metaTitle: 'Cannabis Insurance in Reno, NV',
     metaDescription:
-      'Commercial trucking insurance in Reno, Nevada. Coverage for carriers in the Reno-Sparks distribution hub on the I-80 corridor between California and the Intermountain West.',
-    heroHeading: 'Reno Trucking Insurance',
+      'Cannabis business insurance in Reno, Nevada. Coverage for dispensaries, cultivation facilities, and processors in the Reno-Sparks cannabis market.',
+    heroHeading: 'Reno Cannabis Insurance',
     heroSubheading:
-      'Insurance for carriers in the booming Reno-Sparks distribution and logistics corridor.',
+      'Insurance for cannabis businesses in the Reno-Sparks metropolitan area.',
     overview:
-      'Reno and neighboring Sparks have become one of the fastest-growing distribution hubs in the western United States. The metro area\'s position on I-80 just east of the Sierra Nevada provides access to California\'s massive consumer market without the state\'s higher operating costs and regulatory burden. Tesla\'s Gigafactory, Amazon, Walmart, and dozens of other companies have built major distribution facilities in the Reno-Sparks-Fernley corridor, creating an explosion of trucking demand.',
+      "Reno and neighboring Sparks have developed a thriving cannabis market since Nevada legalized recreational marijuana through Question 2 in 2016. The metro area's position on I-80, just east of the California border, draws consumers from Northern California communities where dispensary access may be limited. Reno's tourism and entertainment industry creates additional consumer traffic, and the city's growing population supports year-round dispensary demand. The Reno-Sparks area hosts cultivation, processing, and distribution operations supplying both the local market and the Las Vegas corridor.",
     sections: [
       {
-        heading: 'Trucking in Reno',
+        heading: 'Cannabis Market in Reno',
         content:
-          'Reno\'s transformation into a distribution powerhouse has been driven by companies seeking to serve the California market from a Nevada base. The Tahoe Reno Industrial Center east of Sparks is one of the largest industrial parks in the world, hosting Tesla\'s Gigafactory, Google, Switch data centers, and numerous distribution operations. This concentration generates thousands of daily truck movements.\n\nThe city also supports mining logistics for Nevada\'s gold and lithium operations, agricultural freight from surrounding ranching communities, and tourism-related supply chains for the Reno-Tahoe resort market.',
+          "Reno's cannabis market is well-established within Nevada's recreational framework. The city hosts numerous dispensaries serving recreational consumers and medical patients. The proximity to the California border draws consumers from Truckee, Tahoe, and Sacramento-area communities, adding to the local customer base. The tourism and casino industry brings additional foot traffic to dispensaries located near hotels and entertainment venues.\n\nCultivation operations in the Reno-Sparks area include both large-scale indoor grows in the Tahoe Reno Industrial Center and smaller boutique operations closer to the city. Processing companies manufacture a full range of products for the Nevada market. The growing population driven by technology and distribution sector expansion has increased consumer demand.",
       },
       {
-        heading: 'Key Freight Corridors',
+        heading: 'Key Cannabis Districts',
         content:
-          'I-80 is the primary corridor running west over Donner Pass to Sacramento and the San Francisco Bay Area, and east to Winnemucca, Elko, and Salt Lake City. I-580 (formerly US-395) runs south toward Carson City and connects to Highway 50 toward Lake Tahoe. US-395 continues north toward Susanville and Oregon. Highway 445 heads north through the desert toward the Black Rock Desert region. I-80 Business Loop serves the downtown and industrial areas.',
+          "Dispensaries in Reno are located along South Virginia Street, Fourth Street in the downtown casino corridor, Kietzke Lane, and in the Meadowood Mall area. Sparks dispensaries are found along Victorian Avenue and the I-80 corridor. Cultivation and processing facilities are concentrated in the Tahoe Reno Industrial Center, along I-80 in Fernley, and in industrial zones in Sparks and Reno's north valleys.",
       },
       {
-        heading: 'Coverage Considerations',
+        heading: 'Coverage Recommendations',
         bullets: [
-          'Donner Pass mountain grade and winter operations coverage for I-80 Sierra crossing',
-          'High-value technology cargo coverage for Tesla Gigafactory and tech distribution',
-          'Multi-state operations coverage for Nevada-California cross-border freight',
-          'Mining industry logistics coverage for gold and lithium operation supply chains',
-          'Desert and mountain weather coverage for extreme temperature variations',
+          'General liability for dispensary operations including tourist foot traffic',
+          'Product liability for cannabis flower, edibles, concentrates, and topicals',
+          'Property insurance for cultivation and processing facilities',
+          'Workers compensation for all cannabis business employees',
+          'Crop and harvest coverage for indoor and greenhouse cultivation',
         ],
       },
     ],
     faqs: [
       {
-        q: 'How does operating between Reno and California affect my trucking insurance?',
-        a: 'Many Reno-based carriers primarily serve the California market. Even though you are based in Nevada, if a significant portion of your operations occur in California, your insurance rates will reflect California exposure, which is typically higher due to the state\'s legal environment, traffic density, and regulatory requirements.',
+        q: 'What insurance do Reno cannabis businesses near the California border need?',
+        a: "Reno dispensaries that serve California consumers still operate under Nevada law and regulation. Your insurance covers your Nevada operations regardless of where your customers originate. However, the border location means your compliance programs must prevent any cross-border product movement. Cannabis purchased in Nevada cannot legally be transported into California, and your business practices should reinforce this to customers.",
       },
       {
-        q: 'What coverage challenges exist for the I-80 Donner Pass crossing?',
-        a: 'Donner Pass on I-80 is one of the most challenging mountain crossings in the West, with chain controls, steep grades, and winter closures. Your coverage should include substantial towing and recovery limits for mountain operations, cargo delay provisions for pass closures, and physical damage coverage for chain-related equipment damage.',
+        q: 'How does the Reno-Sparks industrial growth affect cannabis cultivation insurance?',
+        a: "The Reno-Sparks area's rapid industrial growth, including the Tahoe Reno Industrial Center, has created a competitive market for commercial space. Cannabis cultivators compete with technology companies and distribution centers for suitable facilities. Your property insurance should reflect current replacement costs in this growing market, and your coverage should address the specific risks of indoor cultivation including HVAC failures, electrical issues, and fire hazards.",
       },
     ],
     recommendedCoverages: [
-      'auto-liability',
-      'physical-damage',
-      'motor-truck-cargo',
       'general-liability',
-      'excess-liability',
+      'product-liability',
+      'property-insurance',
+      'workers-compensation',
+      'crop-harvest',
+    ],
+    relatedIndustries: [
+      'dispensaries',
+      'indoor-cultivation',
+      'outdoor-greenhouse',
+      'processors',
+      'delivery-services',
     ],
   },
 ];

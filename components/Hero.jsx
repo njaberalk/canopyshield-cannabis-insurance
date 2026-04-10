@@ -15,6 +15,8 @@ export default function Hero() {
         <img
           src="https://images.pexels.com/photos/7667908/pexels-photo-7667908.jpeg?auto=compress&cs=tinysrgb&w=1920"
           alt="Cannabis cultivation facility"
+          width={1920}
+          height={1080}
           loading="eager"
           className="absolute inset-0 w-full h-full object-cover"
           style={{ opacity: 0.4, objectPosition: '50% 40%' }}

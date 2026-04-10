@@ -127,7 +127,7 @@ export default function Header() {
             </Link>
 
             {/* Desktop Nav - matching alkemeins.com structure */}
-            <nav className="hidden lg:flex items-center gap-0">
+            <nav aria-label="Main navigation" className="hidden lg:flex items-center gap-0">
               <Dropdown
                 label="Coverage"
                 items={coverageItems}
