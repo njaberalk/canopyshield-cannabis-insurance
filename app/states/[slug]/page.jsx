@@ -33,11 +33,11 @@ export default async function StatePage({ params }) {
     {
       '@context': 'https://schema.org',
       '@type': 'Service',
-      name: `Trucking Insurance in ${state.name}`,
+      name: `Cannabis Insurance in ${state.name}`,
       provider: { '@type': 'InsuranceAgency', name: 'CanopyShield', url: 'https://canopyshield.com' },
       description: state.metaDescription,
       url: `https://canopyshield.com/cannabis/states/${state.slug}/`,
-      serviceType: 'Commercial Trucking Insurance',
+      serviceType: 'Cannabis Business Insurance',
       areaServed: { '@type': 'State', name: state.name, containedIn: { '@type': 'Country', name: 'United States' } },
     },
     ...(state.faqs?.length ? [{

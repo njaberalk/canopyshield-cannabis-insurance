@@ -100,7 +100,7 @@ export default function StateRequirementsContent() {
                     </p>
                   </div>
                   <div className="border border-ash rounded-[1rem] p-4">
-                    <p className="text-brand/50 uppercase tracking-[0.1em] font-bold mb-1" style={{ fontSize: '0.65rem' }}>State DOT Agency</p>
+                    <p className="text-brand/50 uppercase tracking-[0.1em] font-bold mb-1" style={{ fontSize: '0.65rem' }}>Regulatory Agency</p>
                     <p className="text-brand font-bold" style={{ fontSize: '0.9rem' }}>{result.dotAgency}</p>
                   </div>
                 </div>

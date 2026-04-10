@@ -33,11 +33,11 @@ export default async function CityPage({ params }) {
     {
       '@context': 'https://schema.org',
       '@type': 'Service',
-      name: `Trucking Insurance in ${city.city}, ${city.abbreviation}`,
+      name: `Cannabis Insurance in ${city.city}, ${city.abbreviation}`,
       provider: { '@type': 'InsuranceAgency', name: 'CanopyShield', url: 'https://canopyshield.com' },
       description: city.metaDescription,
       url: `https://canopyshield.com/cannabis/cities/${city.slug}/`,
-      serviceType: 'Commercial Trucking Insurance',
+      serviceType: 'Cannabis Business Insurance',
       areaServed: { '@type': 'City', name: city.city, containedIn: { '@type': 'State', name: city.state } },
     },
     ...(city.faqs?.length ? [{
