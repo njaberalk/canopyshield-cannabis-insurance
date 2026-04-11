@@ -34,7 +34,7 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative h-full flex items-center justify-center text-center">
+      <div className="relative h-full flex items-end justify-center text-center pb-32">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
           <h1
             className="font-extrabold tracking-tight mb-6"
