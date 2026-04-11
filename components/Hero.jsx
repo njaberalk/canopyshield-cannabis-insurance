@@ -10,7 +10,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative overflow-hidden bg-brand" style={{ height: '100vh', minHeight: '600px', maxHeight: '900px' }}>
+    <section className="relative overflow-hidden bg-brand" style={{ paddingTop: '16rem', paddingBottom: '8rem' }}>
       <div className="absolute inset-0">
         <img
           src="https://images.pexels.com/photos/7667908/pexels-photo-7667908.jpeg?auto=compress&cs=tinysrgb&w=1920"
@@ -34,7 +34,7 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative h-full flex items-end justify-center text-center pb-32">
+      <div className="relative text-center">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
           <h1
             className="font-extrabold tracking-tight mb-6"
