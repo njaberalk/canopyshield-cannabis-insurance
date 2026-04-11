@@ -34,12 +34,12 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative text-center">
+      <div className="relative">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
           <h1
             className="font-extrabold tracking-tight mb-6"
             style={{
-              fontSize: 'clamp(3.5rem, 9vw, 9rem)',
+              fontSize: 'clamp(2.8rem, 5.5vw, 5.5rem)',
               lineHeight: '1',
               letterSpacing: '-0.02em',
               textShadow: '0 2px 20px rgba(0,0,0,0.3)',
@@ -54,7 +54,7 @@ export default function Hero() {
           </h1>
 
           <p
-            className="text-cream font-medium mx-auto mb-12"
+            className="text-cream font-medium mb-12"
             style={{
               fontSize: '1.25rem',
               lineHeight: '1.65',
