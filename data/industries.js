@@ -68,8 +68,7 @@ export const industries = [
     slug: 'indoor-cultivation',
     title: 'Indoor Cultivation',
     metaTitle: 'Indoor Cannabis Grow Insurance',
-    metaDescription:
-      'Insurance for indoor cannabis cultivation facilities covering crop loss from HVAC and power failure, fire, mold, pesticide contamination, and equipment breakdown.',
+    metaDescription: 'Insurance for indoor cannabis cultivation facilities covering crop loss from HVAC and power failure, fire, mold, pesticide contamination, and equipment break...',
     heroHeading: 'Insurance for Indoor Cannabis Cultivation',
     heroSubheading:
       'Protect your grow operation from the catastrophic losses that can wipe out an entire harvest when climate systems fail or contamination strikes.',
@@ -129,8 +128,7 @@ export const industries = [
     slug: 'outdoor-greenhouse',
     title: 'Outdoor & Greenhouse Cultivation',
     metaTitle: 'Outdoor Cannabis Grow Insurance',
-    metaDescription:
-      'Insurance for outdoor and greenhouse cannabis cultivation covering weather damage, crop theft, pest infestations, and environmental liability for agricultural operations.',
+    metaDescription: 'Insurance for outdoor and greenhouse cannabis cultivation covering weather damage, crop theft, pest infestations, and environmental liability for agricultura...',
     heroHeading: 'Insurance for Outdoor and Greenhouse Cannabis',
     heroSubheading:
       'Protect your harvest from the weather events, theft, and pest pressures that outdoor and greenhouse cultivators face every growing season.',
@@ -313,8 +311,7 @@ export const industries = [
     slug: 'testing-labs',
     title: 'Testing Laboratories',
     metaTitle: 'Cannabis Testing Lab Insurance',
-    metaDescription:
-      'Insurance for cannabis testing laboratories covering errors and omissions, contamination cross-contamination, professional liability, and lab equipment coverage.',
+    metaDescription: 'Insurance for cannabis testing laboratories covering errors and omissions, contamination cross-contamination, professional liability, and lab equipment cover...',
     heroHeading: 'Insurance for Cannabis Testing Laboratories',
     heroSubheading:
       'Protect your lab from the professional liability and operational risks of being the final quality checkpoint before cannabis products reach consumers.',
@@ -371,7 +368,7 @@ export const industries = [
   {
     slug: 'vertically-integrated',
     title: 'Vertically Integrated Operators',
-    metaTitle: 'Vertically Integrated Cannabis',
+    metaTitle: 'Vertically Integrated Cannabis Insurance',
     metaDescription:
       'Insurance for vertically integrated cannabis operators covering cultivation, processing, distribution, and retail under coordinated multi-location programs.',
     heroHeading: 'Insurance for Vertically Integrated Cannabis Operations',
@@ -556,8 +553,7 @@ export const industries = [
     slug: 'ancillary-businesses',
     title: 'Ancillary Businesses',
     metaTitle: 'Ancillary Cannabis Insurance',
-    metaDescription:
-      'Insurance for ancillary cannabis businesses including technology, consulting, packaging, and marketing companies that serve the cannabis industry without touching the plant.',
+    metaDescription: 'Insurance for ancillary cannabis businesses including technology, consulting, packaging, and marketing companies that serve the cannabis industry without tou...',
     heroHeading: 'Insurance for Ancillary Cannabis Businesses',
     heroSubheading:
       'Coverage for the technology, consulting, packaging, and marketing companies that power the cannabis industry without directly handling cannabis products.',

@@ -2,7 +2,7 @@ export const coverages = [
   {
     slug: 'general-liability',
     title: 'General Liability',
-    metaTitle: 'Cannabis General Liability',
+    metaTitle: 'Cannabis General Liability Insurance',
     metaDescription:
       'General liability insurance for cannabis businesses. Specialty surplus lines coverage for dispensaries, cultivators, and processors against third-party claims.',
     heroHeading: 'General Liability Insurance for Cannabis Businesses',
@@ -63,7 +63,7 @@ export const coverages = [
   {
     slug: 'product-liability',
     title: 'Product Liability',
-    metaTitle: 'Cannabis Product Liability',
+    metaTitle: 'Cannabis Product Liability Insurance',
     metaDescription:
       'Product liability insurance for cannabis edibles, concentrates, and flower. Coverage for contamination, mislabeling, dosing errors, and adverse reaction claims.',
     heroHeading: 'Product Liability Insurance for Cannabis Companies',
@@ -238,9 +238,8 @@ export const coverages = [
   {
     slug: 'commercial-auto',
     title: 'Commercial Auto',
-    metaTitle: 'Cannabis Commercial Auto',
-    metaDescription:
-      'Commercial auto insurance for cannabis delivery services and facility transport. Covers vehicles transporting product between grows, processors, and dispensaries.',
+    metaTitle: 'Cannabis Commercial Auto Insurance',
+    metaDescription: 'Commercial auto insurance for cannabis delivery services and facility transport. Covers vehicles transporting product between grows, processors, and dispensa...',
     heroHeading: 'Commercial Auto Insurance for Cannabis Operations',
     heroSubheading:
       'Vehicle coverage for cannabis delivery fleets and transport operations, structured for the regulatory and security requirements of moving controlled substances.',
@@ -295,7 +294,7 @@ export const coverages = [
   {
     slug: 'workers-compensation',
     title: 'Workers\' Compensation',
-    metaTitle: 'Cannabis Workers\' Comp',
+    metaTitle: 'Cannabis Workers\ Insurance' Comp',
     metaDescription:
       'Workers\' compensation insurance for cannabis businesses. Mandatory coverage for cultivation, processing, and dispensary employees in a high-risk workplace environment.',
     heroHeading: 'Workers\' Compensation for Cannabis Employers',
@@ -356,7 +355,7 @@ export const coverages = [
   {
     slug: 'equipment-breakdown',
     title: 'Equipment Breakdown',
-    metaTitle: 'Cannabis Equipment Breakdown',
+    metaTitle: 'Cannabis Equipment Breakdown Insurance',
     metaDescription:
       'Equipment breakdown insurance for cannabis HVAC, lighting, extraction, and irrigation systems. Covers mechanical and electrical failure in grow facilities.',
     heroHeading: 'Equipment Breakdown Insurance for Cannabis Operations',
@@ -413,7 +412,7 @@ export const coverages = [
   {
     slug: 'cyber-liability',
     title: 'Cyber Liability',
-    metaTitle: 'Cannabis Cyber Liability',
+    metaTitle: 'Cannabis Cyber Liability Insurance',
     metaDescription:
       'Cyber liability insurance for cannabis businesses. Covers POS data breaches, seed-to-sale tracking system failures, and customer data protection.',
     heroHeading: 'Cyber Liability Insurance for Cannabis Businesses',
@@ -471,8 +470,7 @@ export const coverages = [
     slug: 'directors-officers',
     title: 'Directors & Officers (D&O) Liability',
     metaTitle: 'Cannabis D&O Insurance',
-    metaDescription:
-      'Directors and officers liability insurance for cannabis companies. Protects leadership against shareholder suits, regulatory actions, and management liability claims.',
+    metaDescription: 'Directors and officers liability insurance for cannabis companies. Protects leadership against shareholder suits, regulatory actions, and management liabilit...',
     heroHeading: 'Directors & Officers Insurance for Cannabis Companies',
     heroSubheading:
       'Management liability protection for cannabis company executives, board members, and investors navigating an industry defined by regulatory complexity and federal uncertainty.',
@@ -527,9 +525,8 @@ export const coverages = [
   {
     slug: 'crime-theft',
     title: 'Crime / Theft Coverage',
-    metaTitle: 'Cannabis Crime & Theft Coverage',
-    metaDescription:
-      'Crime and theft insurance for cash-heavy cannabis businesses. Covers robbery, burglary, employee dishonesty, and product theft at dispensaries and grow facilities.',
+    metaTitle: 'Cannabis Crime & Theft Coverage Insurance',
+    metaDescription: 'Crime and theft insurance for cash-heavy cannabis businesses. Covers robbery, burglary, employee dishonesty, and product theft at dispensaries and grow facil...',
     heroHeading: 'Crime & Theft Insurance for Cannabis Businesses',
     heroSubheading:
       'Comprehensive protection against the elevated robbery, burglary, employee dishonesty, and product theft risks inherent to the cash-intensive cannabis industry.',

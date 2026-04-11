@@ -3,8 +3,7 @@ export const resources = [
     slug: 'cannabis-insurance-cost',
     title: 'How Much Does Cannabis Insurance Cost?',
     metaTitle: 'Cannabis Insurance Cost Guide',
-    metaDescription:
-      'Learn what cannabis insurance costs for dispensaries, cultivators, and manufacturers. Breakdown of pricing factors, average premiums by coverage type, and strategies to manage your rates.',
+    metaDescription: 'Learn what cannabis insurance costs for dispensaries, cultivators, and manufacturers. Breakdown of pricing factors, average premiums by coverage type, and st...',
     category: 'Guide',
     heroHeading: 'How Much Does Cannabis Insurance Cost?',
     heroSubheading:
@@ -74,8 +73,7 @@ export const resources = [
     slug: 'cannabis-insurance-requirements',
     title: 'Cannabis Insurance Requirements by State',
     metaTitle: 'Cannabis Insurance Requirements',
-    metaDescription:
-      'State-by-state guide to cannabis insurance requirements. Minimum coverage limits, mandatory policies, and compliance standards for dispensaries, cultivators, and manufacturers.',
+    metaDescription: 'State-by-state guide to cannabis insurance requirements. Minimum coverage limits, mandatory policies, and compliance standards for dispensaries, cultivators,...',
     category: 'Guide',
     heroHeading: 'Cannabis Insurance Requirements by State',
     heroSubheading:
@@ -210,8 +208,7 @@ export const resources = [
     slug: 'product-liability-cannabis',
     title: 'Product Liability for Cannabis Companies',
     metaTitle: 'Cannabis Product Liability Guide',
-    metaDescription:
-      'Understanding product liability insurance for cannabis businesses. Coverage for contamination, mislabeling, adverse reactions, and recall expenses across all product types.',
+    metaDescription: 'Understanding product liability insurance for cannabis businesses. Coverage for contamination, mislabeling, adverse reactions, and recall expenses across all...',
     category: 'Guide',
     heroHeading: 'Product Liability for Cannabis Companies',
     heroSubheading:
@@ -277,8 +274,7 @@ export const resources = [
     slug: 'crop-insurance-cannabis',
     title: 'Crop Insurance for Cannabis Cultivators',
     metaTitle: 'Cannabis Crop Insurance Guide',
-    metaDescription:
-      'Crop insurance guide for cannabis cultivators. Coverage for plants, harvested product, and inventory against fire, theft, pests, equipment failure, and environmental damage.',
+    metaDescription: 'Crop insurance guide for cannabis cultivators. Coverage for plants, harvested product, and inventory against fire, theft, pests, equipment failure, and envir...',
     category: 'Guide',
     heroHeading: 'Crop Insurance for Cannabis Cultivators',
     heroSubheading:
@@ -404,8 +400,7 @@ export const resources = [
     slug: 'cannabis-vs-hemp-insurance',
     title: 'Cannabis vs Hemp Insurance: Key Differences',
     metaTitle: 'Cannabis vs Hemp Insurance',
-    metaDescription:
-      'Understanding the insurance differences between cannabis and hemp businesses. Federal legality, coverage availability, pricing, and regulatory considerations compared.',
+    metaDescription: 'Understanding the insurance differences between cannabis and hemp businesses. Federal legality, coverage availability, pricing, and regulatory considerations...',
     category: 'Guide',
     heroHeading: 'Cannabis vs Hemp Insurance: Key Differences',
     heroSubheading:
@@ -468,8 +463,7 @@ export const resources = [
     slug: 'cannabis-claims-guide',
     title: 'Cannabis Insurance Claims Guide',
     metaTitle: 'Cannabis Insurance Claims',
-    metaDescription:
-      'How to file and manage cannabis insurance claims. Step-by-step guidance for property losses, product liability, theft, crop damage, and workers compensation claims.',
+    metaDescription: 'How to file and manage cannabis insurance claims. Step-by-step guidance for property losses, product liability, theft, crop damage, and workers compensation ...',
     category: 'Guide',
     heroHeading: 'Cannabis Insurance Claims Guide',
     heroSubheading:
@@ -537,8 +531,7 @@ export const resources = [
     slug: 'cannabis-insurance-glossary',
     title: 'Cannabis Insurance Glossary',
     metaTitle: 'Cannabis Insurance Glossary',
-    metaDescription:
-      'Comprehensive glossary of cannabis insurance and industry terms. Definitions for 280E, seed-to-sale, METRC, vertical integration, canopy, extraction methods, COA, and more.',
+    metaDescription: 'Comprehensive glossary of cannabis insurance and industry terms. Definitions for 280E, seed-to-sale, METRC, vertical integration, canopy, extraction methods,...',
     category: 'Reference',
     heroHeading: 'Cannabis Insurance Glossary',
     heroSubheading:

@@ -14,7 +14,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="https://images.pexels.com/photos/7667908/pexels-photo-7667908.jpeg?auto=compress&cs=tinysrgb&w=1920"
-          alt="Cannabis cultivation facility"
+          alt="Licensed cannabis dispensary storefront for marijuana business insurance"
           width={1920}
           height={1080}
           loading="eager"

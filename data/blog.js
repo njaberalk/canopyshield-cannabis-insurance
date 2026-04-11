@@ -3,8 +3,7 @@ export const blogPosts = [
     slug: 'cannabis-insurance-trends-2026',
     title: 'Cannabis Insurance Market Trends 2026',
     metaTitle: 'Cannabis Insurance Trends 2026',
-    metaDescription:
-      'Explore cannabis insurance market trends for 2026 including rate changes, carrier capacity, regulatory developments, and coverage innovations affecting cannabis businesses nationwide.',
+    metaDescription: 'Explore cannabis insurance market trends for 2026 including rate changes, carrier capacity, regulatory developments, and coverage innovations affecting canna...',
     category: 'Industry Insights',
     publishDate: '2026-03-15',
     heroHeading: 'Cannabis Insurance Market Trends 2026',
@@ -63,8 +62,7 @@ export const blogPosts = [
     slug: 'mistakes-new-dispensaries-make',
     title: '5 Insurance Mistakes New Dispensaries Make',
     metaTitle: 'Dispensary Insurance Mistakes',
-    metaDescription:
-      'Avoid costly insurance mistakes when opening a cannabis dispensary. Learn the top pitfalls new dispensary owners make and how to protect your operation from day one.',
+    metaDescription: 'Avoid costly insurance mistakes when opening a cannabis dispensary. Learn the top pitfalls new dispensary owners make and how to protect your operation from ...',
     category: 'Tips & Advice',
     publishDate: '2026-04-02',
     heroHeading: '5 Insurance Mistakes New Dispensaries Make',
@@ -123,8 +121,7 @@ export const blogPosts = [
     slug: 'federal-legalization-insurance-impact',
     title: 'How Federal Legalization Could Change Cannabis Insurance',
     metaTitle: 'Federal Cannabis & Insurance',
-    metaDescription:
-      'How federal cannabis legalization or descheduling could transform the insurance landscape. Impact on rates, carrier access, banking, 280E, and coverage availability.',
+    metaDescription: 'How federal cannabis legalization or descheduling could transform the insurance landscape. Impact on rates, carrier access, banking, 280E, and coverage avail...',
     category: 'Industry Insights',
     publishDate: '2026-03-28',
     heroHeading: 'How Federal Legalization Could Change Cannabis Insurance',
@@ -183,8 +180,7 @@ export const blogPosts = [
     slug: 'cannabis-product-recall-preparation',
     title: 'Preparing for a Cannabis Product Recall',
     metaTitle: 'Cannabis Product Recall Guide',
-    metaDescription:
-      'How to prepare for a cannabis product recall. Recall planning, insurance coverage, regulatory requirements, and step-by-step response procedures for cannabis businesses.',
+    metaDescription: 'How to prepare for a cannabis product recall. Recall planning, insurance coverage, regulatory requirements, and step-by-step response procedures for cannabis...',
     category: 'Guide',
     publishDate: '2026-03-20',
     heroHeading: 'Preparing for a Cannabis Product Recall',
@@ -243,8 +239,7 @@ export const blogPosts = [
     slug: 'security-requirements-cannabis',
     title: 'Security & Insurance Requirements for Cannabis',
     metaTitle: 'Cannabis Security & Insurance',
-    metaDescription:
-      'Security requirements for cannabis businesses and their impact on insurance. Surveillance, access controls, alarm systems, and cash handling protocols for dispensaries and grows.',
+    metaDescription: 'Security requirements for cannabis businesses and their impact on insurance. Surveillance, access controls, alarm systems, and cash handling protocols for di...',
     category: 'Guide',
     publishDate: '2026-03-10',
     heroHeading: 'Security & Insurance Requirements for Cannabis',
@@ -298,9 +293,8 @@ export const blogPosts = [
   {
     slug: 'cannabis-edibles-liability',
     title: 'Edibles Liability: What Manufacturers Need to Know',
-    metaTitle: 'Cannabis Edibles Liability',
-    metaDescription:
-      'Product liability guide for cannabis edible manufacturers. Dosing accuracy, allergen disclosure, contamination risks, packaging requirements, and insurance considerations.',
+    metaTitle: 'Cannabis Edibles Liability Insurance',
+    metaDescription: 'Product liability guide for cannabis edible manufacturers. Dosing accuracy, allergen disclosure, contamination risks, packaging requirements, and insurance c...',
     category: 'Guide',
     publishDate: '2026-02-25',
     heroHeading: 'Edibles Liability: What Manufacturers Need to Know',
@@ -359,8 +353,7 @@ export const blogPosts = [
     slug: 'social-equity-cannabis-insurance',
     title: 'Insurance for Social Equity Cannabis Licensees',
     metaTitle: 'Social Equity Cannabis Insurance',
-    metaDescription:
-      'Insurance guide for social equity cannabis licensees. How to navigate insurance requirements, find affordable coverage, and build a compliant program on a limited budget.',
+    metaDescription: 'Insurance guide for social equity cannabis licensees. How to navigate insurance requirements, find affordable coverage, and build a compliant program on a li...',
     category: 'Industry Insights',
     publishDate: '2026-03-05',
     heroHeading: 'Insurance for Social Equity Cannabis Licensees',
@@ -415,8 +408,7 @@ export const blogPosts = [
     slug: 'cannabis-extraction-safety-insurance',
     title: 'Extraction Safety and Insurance Implications',
     metaTitle: 'Cannabis Extraction Insurance',
-    metaDescription:
-      'How cannabis extraction methods affect insurance costs and requirements. Safety protocols, equipment standards, and coverage considerations for BHO, CO2, ethanol, and solventless operations.',
+    metaDescription: 'How cannabis extraction methods affect insurance costs and requirements. Safety protocols, equipment standards, and coverage considerations for BHO, CO2, eth...',
     category: 'Guide',
     publishDate: '2026-02-15',
     heroHeading: 'Extraction Safety and Insurance Implications',
