@@ -33,14 +33,15 @@ export default function ValueProposition() {
         </div>
         <div ref={cardsRef} className="grid md:grid-cols-3 gap-6 stagger-children">
           {cards.map((card) => (
-            <div key={card.title} className="relative overflow-hidden rounded-[2rem] group cursor-pointer" style={{ height: '18rem' }}>
+            <div key={card.title} className="relative overflow-hidden rounded-[2rem] group cursor-pointer" style={{ height: '13rem' }}>
               <div className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style={{ backgroundImage: `url('${card.image}')`, filter: 'grayscale(100%)' }} />
               <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.6) 100%)' }} />
               <div className="absolute inset-0 pointer-events-none" style={{ opacity: 0.08, backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E")`, backgroundRepeat: 'repeat', backgroundSize: '128px 128px' }} />
               <div className="absolute inset-0 bg-brand opacity-0 group-hover:opacity-70" style={{ transition: 'opacity 0.5s ease' }} />
-              <div className="relative h-full flex flex-col justify-end p-7 overflow-hidden">
-                <h3 className="text-stone font-bold text-xl mb-2 relative z-10" style={{ fontSize: '1.25rem', lineHeight: '1.5' }}>{card.title}</h3>
-                <p className="text-cream font-light text-sm leading-relaxed relative z-10 opacity-0 group-hover:opacity-100" style={{ transition: 'opacity 0.6s ease' }}>{card.description}</p>
+              <div className="absolute inset-0 flex items-end justify-start" style={{ padding: '1.8rem' }}>
+                <h3 className="text-stone font-bold relative z-10" style={{ fontSize: '1.25rem', lineHeight: '1.3' }}>
+                  {card.title}
+                </h3>
               </div>
             </div>
           ))}
