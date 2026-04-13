@@ -110,6 +110,8 @@ export default function Header() {
       <header
         ref={navRef}
         className="fixed top-0 left-0 right-0 z-[999] bg-stone"
+        role="navigation"
+        aria-label="Site navigation"
         style={{
           padding: '1.25rem 0',
           boxShadow: '0 2px 7px rgba(0,0,0,0.2)',
@@ -179,7 +181,7 @@ export default function Header() {
         </div>
 
         {/* Mobile Menu */}
-        <div className="lg:hidden bg-stone overflow-hidden" style={{ maxHeight: mobileOpen ? '90vh' : '0', transition: 'max-height 0.4s ease', borderTop: mobileOpen ? '1px solid #e3e3d8' : 'none' }}>
+        <div className="lg:hidden bg-stone overflow-hidden" aria-hidden="true" style={{ maxHeight: mobileOpen ? '90vh' : '0', transition: 'max-height 0.4s ease', borderTop: mobileOpen ? '1px solid #e3e3d8' : 'none' }}>
           <div className="px-6 py-6 space-y-1 max-h-[80vh] overflow-y-auto">
             <span className="block text-blue-dark uppercase tracking-[0.12em] font-bold pb-2 border-b border-ash mb-3" style={{ fontSize: '0.65rem' }}>Coverage</span>
             {coverageItems.map((item) => (

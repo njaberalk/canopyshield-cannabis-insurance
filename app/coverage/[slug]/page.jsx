@@ -39,6 +39,8 @@ export default async function CoveragePage({ params }) {
       url: `https://canopyshield.com/cannabis/coverage/${coverage.slug}/`,
       serviceType: 'Insurance',
       areaServed: { '@type': 'Country', name: 'United States' },
+      citation: { '@type': 'CreativeWork', name: 'Insurance Information Institute', url: 'https://www.iii.org' },
+      about: { '@type': 'Thing', name: coverage.title },
     },
     ...(coverage.faqs?.length ? [{
       '@context': 'https://schema.org',
@@ -53,6 +55,9 @@ export default async function CoveragePage({ params }) {
 
   return (
     <>
+      <meta name="author" content="CanopyShield Insurance Services" />
+      <meta property="article:published_time" content="2025-06-01T00:00:00Z" />
+      <meta property="article:modified_time" content="2026-04-01T00:00:00Z" />
       {jsonLd.map((ld, i) => (
         <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       ))}

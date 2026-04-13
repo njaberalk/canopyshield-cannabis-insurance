@@ -22,16 +22,6 @@ export default function HomeContent() {
   return (
     <div className="min-h-screen bg-stone">
       <Header />
-      <div className="bg-brand/5 border-b border-ash" style={{ paddingTop: '5rem' }}>
-        <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4 py-3 flex flex-wrap items-center justify-between gap-2">
-          <span className="text-brand/50" style={{ fontSize: '0.7rem' }}>
-            Published by <strong className="text-brand/70">CanopyShield Insurance Services</strong> · Licensed Insurance Brokerage · Est. 2003
-          </span>
-          <span className="text-brand/40" style={{ fontSize: '0.65rem' }}>
-            Last updated April 2026
-          </span>
-        </div>
-      </div>
       <Hero />
       <section className="bg-stone border-b border-ash" style={{ padding: '2rem 0' }}>
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
