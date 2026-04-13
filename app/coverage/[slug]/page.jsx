@@ -56,6 +56,7 @@ export default async function CoveragePage({ params }) {
       {jsonLd.map((ld, i) => (
         <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       ))}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: coverage.title || coverage.metaTitle, datePublished: '2025-06-01', dateModified: '2026-04-01', author: { '@type': 'Organization', name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com' }, publisher: { '@type': 'Organization', name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com' } }) }} />
       <CoveragePageContent coverage={coverage} />
     </>
   );

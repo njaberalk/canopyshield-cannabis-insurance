@@ -54,6 +54,7 @@ export default async function IndustryPage({ params }) {
           })),
         }) }} />
       )}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: industry.title, datePublished: '2025-06-01', dateModified: '2026-04-01', author: { '@type': 'Organization', name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com' }, publisher: { '@type': 'Organization', name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com' } }) }} />
       <IndustryPageContent industry={industry} />
     </>
   );

@@ -36,6 +36,9 @@ export default function Hero() {
 
       <div className="relative">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
+          <p className="absolute" style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap', borderWidth: 0 }}>
+            CanopyShield provides cannabis insurance including general liability, product liability, crop, and property coverage for dispensaries and cultivators in all legal states.
+          </p>
           <h1
             className="font-extrabold tracking-tight mb-6"
             style={{
