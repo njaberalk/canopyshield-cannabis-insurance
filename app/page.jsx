@@ -13,6 +13,9 @@ export const metadata = {
 export default function HomePage() {
   return (
     <>
+      <meta name="author" content="CanopyShield Insurance Services" />
+      <meta property="article:published_time" content="2025-06-01T00:00:00Z" />
+      <meta property="article:modified_time" content="2026-04-01T00:00:00Z" />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -42,6 +45,8 @@ export default function HomePage() {
               'Cannabis Crop Insurance',
               'CBD & Hemp Insurance',
             ],
+            citation: { '@type': 'CreativeWork', name: 'Insurance Information Institute', url: 'https://www.iii.org' },
+            about: { '@type': 'Thing', name: 'Cannabis Insurance' },
           }),
         }}
       />
