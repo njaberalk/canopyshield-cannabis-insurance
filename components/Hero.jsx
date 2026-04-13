@@ -36,9 +36,6 @@ export default function Hero() {
 
       <div className="relative">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
-          <p className="absolute" style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap', borderWidth: 0 }}>
-            CanopyShield provides cannabis insurance including general liability, product liability, crop, and property coverage for dispensaries and cultivators in all legal states.
-          </p>
           <h1
             className="font-extrabold tracking-tight mb-6"
             style={{
@@ -68,7 +65,7 @@ export default function Hero() {
               transition: 'opacity 0.6s ease 0.3s, transform 0.6s ease 0.3s',
             }}
           >
-            Cannabis insurance for dispensaries, cultivators, and manufacturers. We cover general liability, product liability, crop, property, and compliance — in all legal states.
+            We help cannabis businesses find the right insurance. Our team covers general liability, product liability, property, and more. We work with dispensaries and growers in all legal states.
           </p>
 
           <p
@@ -82,7 +79,7 @@ export default function Hero() {
               transition: 'opacity 0.6s ease 0.38s, transform 0.6s ease 0.38s',
             }}
           >
-            CanopyShield provides cannabis insurance including general liability, product liability, crop coverage, property insurance, and workers&apos; compensation for dispensaries, cultivators, and manufacturers in all legal states.
+            CanopyShield is a licensed insurance broker. We offer cannabis insurance such as general liability, product liability, and property. We serve dispensaries and growers in all legal states.
           </p>
 
           <div
