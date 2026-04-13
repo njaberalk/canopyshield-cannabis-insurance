@@ -15,12 +15,14 @@ import FAQ from '../components/FAQ';
 import Testimonial from '../components/Testimonial';
 import QuoteForm from '../components/QuoteForm';
 import Footer from '../components/Footer';
+import QuoteModal from '../components/QuoteModal';
 
 export default function HomeContent() {
   useScrollAnimations();
 
   return (
     <div className="min-h-screen bg-stone">
+      <QuoteModal />
       <Header />
       <Hero />
       <section className="bg-stone border-b border-ash" style={{ padding: '2rem 0' }}>

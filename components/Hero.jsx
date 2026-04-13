@@ -21,7 +21,7 @@ export default function Hero() {
           className="absolute inset-0 w-full h-full object-cover"
           style={{ opacity: 0.5, objectPosition: '50% 0%', filter: 'grayscale(100%)' }}
         />
-        <div className="absolute inset-0" style={{ opacity: 0.55, backgroundColor: '#060b06' }} />
+        <div className="absolute inset-0" style={{ opacity: 0.55, backgroundColor: '#0a1510' }} />
         {/* Grain texture overlay */}
         <div
           className="absolute inset-0 pointer-events-none"
@@ -89,13 +89,13 @@ export default function Hero() {
               transition: 'opacity 0.6s ease 0.45s, transform 0.6s ease 0.45s',
             }}
           >
-            <a
-              href="#contact"
-              className="inline-flex items-center justify-center border-2 border-brand bg-brand text-stone text-center uppercase tracking-[0.16em] rounded-[2rem] font-semibold hover:border-stone hover:bg-stone hover:text-brand no-underline"
-              style={{ padding: '0.8rem 2.5rem 0.7rem', fontSize: '0.75rem', lineHeight: '2', transition: 'all 0.24s' }}
+            <button
+              onClick={() => window.dispatchEvent(new Event('open-quote-modal'))}
+              className="inline-flex items-center justify-center border-2 border-gold bg-gold text-center uppercase tracking-[0.16em] rounded-[2rem] font-semibold cursor-pointer"
+              style={{ padding: '0.8rem 2.5rem 0.7rem', fontSize: '0.75rem', lineHeight: '2', transition: 'all 0.24s', color: '#0d1210' }}
             >
               Get Your Quote Today
-            </a>
+            </button>
           </div>
         </div>
       </div>

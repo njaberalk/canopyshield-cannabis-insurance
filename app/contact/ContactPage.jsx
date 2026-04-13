@@ -71,7 +71,7 @@ export default function ContactPage() {
       <Header />
 
       {/* Hero */}
-      <section className="relative overflow-hidden" style={{ paddingTop: '12rem', paddingBottom: '5rem', backgroundColor: '#060b06' }}>
+      <section className="relative overflow-hidden" style={{ paddingTop: '12rem', paddingBottom: '5rem', backgroundColor: '#0a1510' }}>
         <div className="absolute inset-0 pointer-events-none" style={{ opacity: 0.08, backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E")`, backgroundRepeat: 'repeat', backgroundSize: '128px 128px' }} />
         <div className="relative max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4 text-center">
           <h1 className="text-stone font-extrabold tracking-tight mb-4" style={{ fontSize: 'clamp(2.5rem, 5vw, 3.5rem)', lineHeight: '1.1' }}>Get in Touch</h1>

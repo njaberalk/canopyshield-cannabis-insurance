@@ -158,13 +158,13 @@ export default function Header() {
                 onToggle={() => setOpenDropdown(openDropdown === 'resources' ? null : 'resources')}
                 onClose={() => setOpenDropdown(null)}
               />
-              <a
-                href="/quote/"
-                className="border-[1.5px] border-blue text-blue hover:border-gold hover:bg-gold hover:text-brand uppercase tracking-[0.16em] px-5 py-2 font-bold rounded-[20px] ml-3 no-underline"
-                style={{ fontSize: '0.65rem', transition: 'all 0.24s' }}
+              <button
+                onClick={() => window.dispatchEvent(new Event('open-quote-modal'))}
+                className="border-[1.5px] border-blue text-blue hover:border-gold hover:bg-gold hover:text-brand uppercase tracking-[0.16em] px-5 py-2 font-bold rounded-[20px] ml-3 cursor-pointer"
+                style={{ fontSize: '0.65rem', transition: 'all 0.24s', background: 'transparent' }}
               >
                 Get Your Quote
-              </a>
+              </button>
             </nav>
 
             {/* Hamburger */}
@@ -209,9 +209,9 @@ export default function Header() {
               <a href="https://canopyshield.com" onClick={() => setMobileOpen(false)} className="block text-blue-dark hover:text-brand uppercase tracking-[0.12em] font-bold py-2 no-underline" style={{ fontSize: '0.65rem' }}>← Back to CanopyShield</a>
             </div>
 
-            <a href="/quote/" className="inline-block border-2 border-gold bg-gold text-brand uppercase tracking-[0.16em] px-6 py-3 font-bold rounded-[20px] mt-4 no-underline text-center w-full" style={{ fontSize: '0.75rem', transition: 'all 0.24s' }}>
+            <button onClick={() => { setMobileOpen(false); window.dispatchEvent(new Event('open-quote-modal')); }} className="block border-2 border-gold bg-gold uppercase tracking-[0.16em] px-6 py-3 font-bold rounded-[20px] mt-4 text-center w-full cursor-pointer" style={{ fontSize: '0.75rem', transition: 'all 0.24s', color: '#0d1210' }}>
               Get Your Quote
-            </a>
+            </button>
           </div>
         </div>
       </header>

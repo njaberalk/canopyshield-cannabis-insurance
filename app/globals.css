@@ -39,7 +39,7 @@
   body {
     font-family: var(--font-sans);
     color: #d4d0c8;
-    background: #0d1210;
+    background: #101c14;
     margin: 0;
     font-size: 14px;
     line-height: 20px;
@@ -55,10 +55,10 @@
     font-weight: 700;
   }
 
-  /* Dark background overrides */
-  .bg-stone { background-color: #0d1210 !important; }
-  .bg-brand { background-color: #060b06 !important; }
-  .bg-blue-dark { background-color: #040804 !important; }
+  /* Dark green background overrides */
+  .bg-stone { background-color: #101c14 !important; }
+  .bg-brand { background-color: #0a1510 !important; }
+  .bg-blue-dark { background-color: #081210 !important; }
 
   /* Card/surface overrides */
   .bg-white\/40 { background-color: rgba(255, 255, 255, 0.03) !important; }
@@ -79,7 +79,7 @@
 
   /* Scrollbar dark */
   ::-webkit-scrollbar { width: 8px; }
-  ::-webkit-scrollbar-track { background: #0d1210; }
+  ::-webkit-scrollbar-track { background: #101c14; }
   ::-webkit-scrollbar-thumb { background: #1a2e1a; border-radius: 4px; }
 }
 
