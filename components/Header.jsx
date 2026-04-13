@@ -159,7 +159,7 @@ export default function Header() {
                 onClose={() => setOpenDropdown(null)}
               />
               <a
-                href="#contact"
+                href="/quote/"
                 className="border-[1.5px] border-blue text-blue hover:border-gold hover:bg-gold hover:text-brand uppercase tracking-[0.16em] px-5 py-2 font-bold rounded-[20px] ml-3 no-underline"
                 style={{ fontSize: '0.65rem', transition: 'all 0.24s' }}
               >
@@ -209,7 +209,7 @@ export default function Header() {
               <a href="https://canopyshield.com" onClick={() => setMobileOpen(false)} className="block text-blue-dark hover:text-brand uppercase tracking-[0.12em] font-bold py-2 no-underline" style={{ fontSize: '0.65rem' }}>← Back to CanopyShield</a>
             </div>
 
-            <a href="#contact" className="inline-block border-2 border-gold bg-gold text-brand uppercase tracking-[0.16em] px-6 py-3 font-bold rounded-[20px] mt-4 no-underline text-center w-full" style={{ fontSize: '0.75rem', transition: 'all 0.24s' }}>
+            <a href="/quote/" className="inline-block border-2 border-gold bg-gold text-brand uppercase tracking-[0.16em] px-6 py-3 font-bold rounded-[20px] mt-4 no-underline text-center w-full" style={{ fontSize: '0.75rem', transition: 'all 0.24s' }}>
               Get Your Quote
             </a>
           </div>

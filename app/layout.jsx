@@ -56,6 +56,26 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={poppins.variable}>
+      <head>
+        {/* Customer.io JavaScript snippet — configure CUSTOMERIO_SITE_ID in env */}
+        <script dangerouslySetInnerHTML={{ __html: `
+          var _cio = _cio || [];
+          (function() {
+            var a,b,c;a=function(f){return function(){_cio.push([f].concat(Array.prototype.slice.call(arguments,0)))}};b=["load","identify","sidentify","track","page"];for(c=0;c<b.length;c++){_cio[b[c]]=a(b[c])};
+            var t = document.createElement('script'),
+                s = document.getElementsByTagName('script')[0];
+            t.async = true;
+            t.id    = 'cio-tracker';
+            t.setAttribute('data-site-id', '${process.env.NEXT_PUBLIC_CUSTOMERIO_SITE_ID || ''}');
+            t.setAttribute('data-use-array-params', 'true');
+            t.src = 'https://assets.customer.io/assets/track.js';
+            if ('${process.env.NEXT_PUBLIC_CUSTOMERIO_SITE_ID || ''}') s.parentNode.insertBefore(t, s);
+          })();
+          window.__CUSTOMERIO_SITE_ID = '${process.env.NEXT_PUBLIC_CUSTOMERIO_SITE_ID || ''}';
+          window.__QUOTE_WEBHOOK_URL = '${process.env.NEXT_PUBLIC_QUOTE_WEBHOOK_URL || ''}';
+          window.__CONTACT_ENDPOINT = '${process.env.NEXT_PUBLIC_CONTACT_ENDPOINT || ''}';
+        `}} />
+      </head>
       <body style={{ fontFamily: 'var(--font-poppins), Poppins, sans-serif' }}>
         {children}
       </body>
