@@ -13,7 +13,7 @@ export default function Hero() {
     <section className="relative overflow-hidden bg-brand" style={{ paddingTop: '16rem', paddingBottom: '8rem' }}>
       <div className="absolute inset-0">
         <img
-          src="https://images.pexels.com/photos/7667908/pexels-photo-7667908.jpeg?auto=compress&cs=tinysrgb&w=1920"
+          src="https://images.unsplash.com/photo-1503262028195-93c528f03218?auto=format&fit=crop&w=1920&q=80"
           alt="Licensed cannabis dispensary storefront for marijuana business insurance"
           width={1920}
           height={1080}
@@ -21,7 +21,7 @@ export default function Hero() {
           className="absolute inset-0 w-full h-full object-cover"
           style={{ opacity: 0.5, objectPosition: '50% 0%', filter: 'grayscale(100%)' }}
         />
-        <div className="absolute inset-0 bg-brand" style={{ opacity: 0.55 }} />
+        <div className="absolute inset-0" style={{ opacity: 0.55, backgroundColor: '#060b06' }} />
         {/* Grain texture overlay */}
         <div
           className="absolute inset-0 pointer-events-none"

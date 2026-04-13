@@ -1,27 +1,33 @@
 @import "tailwindcss";
 
 @theme {
-  /* Exact alkemeins.com design tokens */
-  --color-brand: #25475e;
-  --color-brand-hover: #1d3a4e;
-  --color-brand-light: #25475ed6;
+  /* CanopyShield Dark Cannabis Theme */
+  /* NOTE: "brand" is used as text-brand (needs to be light/readable) */
+  /* Background overrides below handle bg-brand, bg-stone separately */
+  --color-brand: #d4d0c8;
+  --color-brand-hover: #b8b4aa;
+  --color-brand-light: rgba(212, 208, 200, 0.84);
 
-  --color-stone: #f4f4ec;
-  --color-stone-dark: #eae9e0;
+  --color-stone: #f0ede6;
+  --color-stone-dark: #e0ddd5;
 
-  --color-gold: #ffbf3b;
-  --color-gold-hover: #f0b42e;
+  --color-gold: #4ade80;
+  --color-gold-hover: #22c55e;
 
-  --color-blue: #74a7f5;
-  --color-blue-dark: #5585a8;
+  --color-blue: #86efac;
+  --color-blue-dark: #4ade80;
 
-  --color-ash: #e3e3d8;
-  --color-dark: #313131;
-  --color-cream: #f5f1e8;
-  --color-deeper: #022944;
+  --color-ash: #1a2e1a;
+  --color-dark: #f0ede6;
+  --color-cream: #a8a49c;
+  --color-deeper: #020502;
 
   --font-sans: 'Poppins', ui-sans-serif, system-ui, -apple-system, sans-serif;
 }
+
+/* ===== DARK THEME BACKGROUND OVERRIDES ===== */
+/* These override Tailwind's generated bg-* utilities to keep backgrounds dark */
+/* while the @theme tokens above are set for readable text colors */
 
 @layer base {
   html {
@@ -32,8 +38,8 @@
 
   body {
     font-family: var(--font-sans);
-    color: #25475e;
-    background: #f4f4ec;
+    color: #d4d0c8;
+    background: #0d1210;
     margin: 0;
     font-size: 14px;
     line-height: 20px;
@@ -45,9 +51,36 @@
   }
 
   h1, h2, h3, h4 {
-    color: #25475e;
+    color: #f0ede6;
     font-weight: 700;
   }
+
+  /* Dark background overrides */
+  .bg-stone { background-color: #0d1210 !important; }
+  .bg-brand { background-color: #060b06 !important; }
+  .bg-blue-dark { background-color: #040804 !important; }
+
+  /* Card/surface overrides */
+  .bg-white\/40 { background-color: rgba(255, 255, 255, 0.03) !important; }
+  .bg-white\/30 { background-color: rgba(255, 255, 255, 0.02) !important; }
+  .bg-brand\/5 { background-color: rgba(255, 255, 255, 0.02) !important; }
+
+  /* Button text on green bg needs to be dark */
+  .bg-gold { color: #060b06; }
+
+  /* Gold/green accent button overrides for hover states */
+  .hover\:bg-gold:hover { background-color: #22c55e !important; color: #060b06 !important; }
+  .hover\:border-gold:hover { border-color: #22c55e !important; }
+  .hover\:bg-stone:hover { background-color: #f0ede6 !important; }
+  .hover\:text-brand:hover { color: #060b06 !important; }
+  .hover\:bg-brand:hover { background-color: #060b06 !important; }
+  .hover\:text-stone:hover { color: #f0ede6 !important; }
+  .hover\:border-brand:hover { border-color: #d4d0c8 !important; }
+
+  /* Scrollbar dark */
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: #0d1210; }
+  ::-webkit-scrollbar-thumb { background: #1a2e1a; border-radius: 4px; }
 }
 
 /* Scroll-triggered fade-in animations */
