@@ -1,5 +1,6 @@
 import { Poppins } from 'next/font/google'
 import './globals.css'
+import QuoteModalProvider from './QuoteModalProvider'
 
 const poppins = Poppins({
   subsets: ['latin'],
@@ -77,6 +78,7 @@ export default function RootLayout({ children }) {
         `}} />
       </head>
       <body style={{ fontFamily: 'var(--font-poppins), Poppins, sans-serif' }}>
+        <QuoteModalProvider />
         {children}
       </body>
     </html>
