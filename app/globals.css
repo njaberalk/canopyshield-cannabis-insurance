@@ -1,33 +1,27 @@
 @import "tailwindcss";
 
 @theme {
-  /* CanopyShield Dark Cannabis Theme */
-  /* NOTE: "brand" is used as text-brand (needs to be light/readable) */
-  /* Background overrides below handle bg-brand, bg-stone separately */
-  --color-brand: #d4d0c8;
-  --color-brand-hover: #b8b4aa;
-  --color-brand-light: rgba(212, 208, 200, 0.84);
+  /* CanopyShield — Soft Forest Dark Theme */
+  --color-brand: #dcd8d0;
+  --color-brand-hover: #c5c1b9;
+  --color-brand-light: rgba(220, 216, 208, 0.84);
 
-  --color-stone: #f0ede6;
-  --color-stone-dark: #e0ddd5;
+  --color-stone: #f2efe8;
+  --color-stone-dark: #e5e2db;
 
-  --color-gold: #4ade80;
-  --color-gold-hover: #22c55e;
+  --color-gold: #5db87a;
+  --color-gold-hover: #4fa86c;
 
-  --color-blue: #86efac;
-  --color-blue-dark: #4ade80;
+  --color-blue: #7bc496;
+  --color-blue-dark: #5db87a;
 
-  --color-ash: #1a2e1a;
+  --color-ash: #334d3c;
   --color-dark: #f0ede6;
-  --color-cream: #a8a49c;
-  --color-deeper: #020502;
+  --color-cream: #b5b0a6;
+  --color-deeper: #0f1a14;
 
   --font-sans: 'Poppins', ui-sans-serif, system-ui, -apple-system, sans-serif;
 }
-
-/* ===== DARK THEME BACKGROUND OVERRIDES ===== */
-/* These override Tailwind's generated bg-* utilities to keep backgrounds dark */
-/* while the @theme tokens above are set for readable text colors */
 
 @layer base {
   html {
@@ -38,49 +32,46 @@
 
   body {
     font-family: var(--font-sans);
-    color: #d4d0c8;
-    background: #101c14;
+    color: #dcd8d0;
+    background: #1a2b22;
     margin: 0;
     font-size: 14px;
     line-height: 20px;
     overflow-x: hidden;
   }
 
-  * {
-    box-sizing: border-box;
-  }
+  * { box-sizing: border-box; }
 
   h1, h2, h3, h4 {
-    color: #f0ede6;
+    color: #f2efe8;
     font-weight: 700;
   }
 
-  /* Dark green background overrides */
-  .bg-stone { background-color: #101c14 !important; }
-  .bg-brand { background-color: #0a1510 !important; }
-  .bg-blue-dark { background-color: #081210 !important; }
+  /* ===== BACKGROUND OVERRIDES ===== */
+  .bg-stone { background-color: #1a2b22 !important; }
+  .bg-brand { background-color: #12201a !important; }
+  .bg-blue-dark { background-color: #0f1a14 !important; }
 
-  /* Card/surface overrides */
-  .bg-white\/40 { background-color: rgba(255, 255, 255, 0.03) !important; }
-  .bg-white\/30 { background-color: rgba(255, 255, 255, 0.02) !important; }
-  .bg-brand\/5 { background-color: rgba(255, 255, 255, 0.02) !important; }
+  .bg-white\/40 { background-color: rgba(255, 255, 255, 0.05) !important; }
+  .bg-white\/30 { background-color: rgba(255, 255, 255, 0.03) !important; }
+  .bg-brand\/5 { background-color: rgba(255, 255, 255, 0.03) !important; }
+  .bg-gold\/10 { background-color: rgba(93, 184, 122, 0.12) !important; }
+  .bg-gold\/20 { background-color: rgba(93, 184, 122, 0.15) !important; }
 
-  /* Button text on green bg needs to be dark */
-  .bg-gold { color: #060b06; }
+  /* ===== BUTTON TEXT: white on green ===== */
+  .bg-gold { color: #fff !important; }
+  .hover\:bg-gold:hover { background-color: #4fa86c !important; color: #fff !important; }
+  .hover\:border-gold:hover { border-color: #5db87a !important; }
+  .hover\:bg-stone:hover { background-color: #f2efe8 !important; }
+  .hover\:text-brand:hover { color: #12201a !important; }
+  .hover\:bg-brand:hover { background-color: #12201a !important; }
+  .hover\:text-stone:hover { color: #f2efe8 !important; }
+  .hover\:border-brand:hover { border-color: #dcd8d0 !important; }
+  .border-ash { border-color: #334d3c !important; }
 
-  /* Gold/green accent button overrides for hover states */
-  .hover\:bg-gold:hover { background-color: #22c55e !important; color: #060b06 !important; }
-  .hover\:border-gold:hover { border-color: #22c55e !important; }
-  .hover\:bg-stone:hover { background-color: #f0ede6 !important; }
-  .hover\:text-brand:hover { color: #060b06 !important; }
-  .hover\:bg-brand:hover { background-color: #060b06 !important; }
-  .hover\:text-stone:hover { color: #f0ede6 !important; }
-  .hover\:border-brand:hover { border-color: #d4d0c8 !important; }
-
-  /* Scrollbar dark */
   ::-webkit-scrollbar { width: 8px; }
-  ::-webkit-scrollbar-track { background: #101c14; }
-  ::-webkit-scrollbar-thumb { background: #1a2e1a; border-radius: 4px; }
+  ::-webkit-scrollbar-track { background: #1a2b22; }
+  ::-webkit-scrollbar-thumb { background: #334d3c; border-radius: 4px; }
 }
 
 /* Scroll-triggered fade-in animations */
@@ -90,41 +81,27 @@
     transform: translateY(20px);
     transition: opacity 0.6s ease, transform 0.6s ease;
   }
-
-  .fade-in-view.is-visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  .fade-in-view.is-visible { opacity: 1; transform: translateY(0); }
 
   .fade-in-view-left {
     opacity: 0;
     transform: translateX(-30px);
     transition: opacity 0.6s ease, transform 0.6s ease;
   }
-
-  .fade-in-view-left.is-visible {
-    opacity: 1;
-    transform: translateX(0);
-  }
+  .fade-in-view-left.is-visible { opacity: 1; transform: translateX(0); }
 
   .fade-in-view-right {
     opacity: 0;
     transform: translateX(30px);
     transition: opacity 0.6s ease, transform 0.6s ease;
   }
+  .fade-in-view-right.is-visible { opacity: 1; transform: translateX(0); }
 
-  .fade-in-view-right.is-visible {
-    opacity: 1;
-    transform: translateX(0);
-  }
-
-  /* Staggered children */
   .stagger-children > * {
     opacity: 0;
     transform: translateY(20px);
     transition: opacity 0.5s ease, transform 0.5s ease;
   }
-
   .stagger-children.is-visible > *:nth-child(1) { transition-delay: 0ms; opacity: 1; transform: translateY(0); }
   .stagger-children.is-visible > *:nth-child(2) { transition-delay: 80ms; opacity: 1; transform: translateY(0); }
   .stagger-children.is-visible > *:nth-child(3) { transition-delay: 160ms; opacity: 1; transform: translateY(0); }

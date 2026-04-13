@@ -115,7 +115,7 @@ export default function QuoteModal() {
       <div className="absolute inset-0" style={{ backgroundColor: 'rgba(0,0,0,0.8)', backdropFilter: 'blur(4px)' }} onClick={handleClose} />
 
       {/* Modal */}
-      <div className="relative w-full max-w-2xl max-h-[90vh] overflow-y-auto mx-4 rounded-2xl border border-ash" style={{ backgroundColor: '#101c14', animation: 'modalSlideUp 0.3s ease 0.05s both' }}>
+      <div className="relative w-full max-w-2xl max-h-[90vh] overflow-y-auto mx-4 rounded-2xl border border-ash" style={{ backgroundColor: '#1a2b22', animation: 'modalSlideUp 0.3s ease 0.05s both' }}>
         {/* Close button */}
         <button onClick={handleClose} className="absolute top-4 right-4 w-8 h-8 rounded-full border border-ash flex items-center justify-center text-brand/60 hover:text-stone hover:border-stone cursor-pointer z-10" style={{ transition: 'all 0.2s' }}>
           <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
@@ -140,7 +140,7 @@ export default function QuoteModal() {
             {/* Progress */}
             <div className="flex items-center gap-1 mb-8">
               {STEPS.map((s, i) => (
-                <div key={s.id} className="flex-1 h-1 rounded-full" style={{ backgroundColor: i <= step ? '#4ade80' : '#1a2e1a', transition: 'background 0.3s' }} />
+                <div key={s.id} className="flex-1 h-1 rounded-full" style={{ backgroundColor: i <= step ? '#5db87a' : '#334d3c', transition: 'background 0.3s' }} />
               ))}
             </div>
 
@@ -171,8 +171,8 @@ export default function QuoteModal() {
                   <div>
                     <label className="block text-brand/70 text-xs font-semibold mb-1">State *</label>
                     <select value={form.state} onChange={e => update('state', e.target.value)} className="w-full bg-transparent border-2 border-ash rounded-lg px-3 py-2.5 text-stone text-sm focus:border-gold focus:outline-none appearance-none">
-                      <option value="" style={{ background: '#101c14' }}>Select</option>
-                      {STATES.map(s => <option key={s} value={s} style={{ background: '#101c14' }}>{s}</option>)}
+                      <option value="" style={{ background: '#1a2b22' }}>Select</option>
+                      {STATES.map(s => <option key={s} value={s} style={{ background: '#1a2b22' }}>{s}</option>)}
                     </select>
                   </div>
                   <div>
@@ -184,15 +184,15 @@ export default function QuoteModal() {
                   <div>
                     <label className="block text-brand/70 text-xs font-semibold mb-1">Annual Revenue</label>
                     <select value={form.annualRevenue} onChange={e => update('annualRevenue', e.target.value)} className="w-full bg-transparent border-2 border-ash rounded-lg px-3 py-2.5 text-stone text-sm focus:border-gold focus:outline-none appearance-none">
-                      <option value="" style={{ background: '#101c14' }}>Select</option>
-                      {REVENUE_RANGES.map(r => <option key={r} value={r} style={{ background: '#101c14' }}>{r}</option>)}
+                      <option value="" style={{ background: '#1a2b22' }}>Select</option>
+                      {REVENUE_RANGES.map(r => <option key={r} value={r} style={{ background: '#1a2b22' }}>{r}</option>)}
                     </select>
                   </div>
                   <div>
                     <label className="block text-brand/70 text-xs font-semibold mb-1">Employees</label>
                     <select value={form.employeeCount} onChange={e => update('employeeCount', e.target.value)} className="w-full bg-transparent border-2 border-ash rounded-lg px-3 py-2.5 text-stone text-sm focus:border-gold focus:outline-none appearance-none">
-                      <option value="" style={{ background: '#101c14' }}>Select</option>
-                      {EMPLOYEE_COUNTS.map(c => <option key={c} value={c} style={{ background: '#101c14' }}>{c}</option>)}
+                      <option value="" style={{ background: '#1a2b22' }}>Select</option>
+                      {EMPLOYEE_COUNTS.map(c => <option key={c} value={c} style={{ background: '#1a2b22' }}>{c}</option>)}
                     </select>
                   </div>
                 </div>
@@ -207,7 +207,7 @@ export default function QuoteModal() {
                   {COVERAGE_OPTIONS.map(cov => (
                     <button key={cov.value} onClick={() => toggleCoverage(cov.value)} className={`border-2 rounded-lg px-3 py-3 text-left cursor-pointer flex items-center gap-2 ${form.coverages.includes(cov.value) ? 'border-gold bg-gold/10' : 'border-ash hover:border-gold/40'}`} style={{ transition: 'all 0.2s' }}>
                       <div className={`w-4 h-4 rounded border-2 flex items-center justify-center shrink-0 ${form.coverages.includes(cov.value) ? 'border-gold bg-gold' : 'border-ash'}`}>
-                        {form.coverages.includes(cov.value) && <svg className="w-2.5 h-2.5" style={{ color: '#101c14' }} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}><path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" /></svg>}
+                        {form.coverages.includes(cov.value) && <svg className="w-2.5 h-2.5" style={{ color: '#1a2b22' }} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}><path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" /></svg>}
                       </div>
                       <span className="text-stone text-xs font-medium">{cov.label}</span>
                     </button>
@@ -247,9 +247,9 @@ export default function QuoteModal() {
                 <button onClick={() => setStep(step - 1)} className="text-brand/50 hover:text-stone text-sm font-semibold cursor-pointer">&larr; Back</button>
               ) : <div />}
               {step < 3 ? (
-                <button onClick={() => canAdvance() && setStep(step + 1)} disabled={!canAdvance()} className="bg-gold px-6 py-2.5 rounded-lg font-semibold text-sm disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer" style={{ color: '#101c14', transition: 'all 0.2s' }}>Continue &rarr;</button>
+                <button onClick={() => canAdvance() && setStep(step + 1)} disabled={!canAdvance()} className="bg-gold px-6 py-2.5 rounded-lg font-semibold text-sm disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer" style={{ color: '#fff', transition: 'all 0.2s' }}>Continue &rarr;</button>
               ) : (
-                <button onClick={handleSubmit} disabled={!canAdvance() || submitting} className="bg-gold px-6 py-2.5 rounded-lg font-semibold text-sm disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer" style={{ color: '#101c14', transition: 'all 0.2s' }}>{submitting ? 'Submitting...' : 'Submit Quote Request'}</button>
+                <button onClick={handleSubmit} disabled={!canAdvance() || submitting} className="bg-gold px-6 py-2.5 rounded-lg font-semibold text-sm disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer" style={{ color: '#fff', transition: 'all 0.2s' }}>{submitting ? 'Submitting...' : 'Submit Quote Request'}</button>
               )}
             </div>
           </div>
