@@ -294,7 +294,7 @@ export const coverages = [
   {
     slug: 'workers-compensation',
     title: 'Workers\' Compensation',
-    metaTitle: 'Cannabis Workers\ Insurance' Comp',
+    metaTitle: 'Cannabis Workers\' Comp Insurance',
     metaDescription:
       'Workers\' compensation insurance for cannabis businesses. Mandatory coverage for cultivation, processing, and dispensary employees in a high-risk workplace environment.',
     heroHeading: 'Workers\' Compensation for Cannabis Employers',
