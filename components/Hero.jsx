@@ -65,7 +65,21 @@ export default function Hero() {
               transition: 'opacity 0.6s ease 0.3s, transform 0.6s ease 0.3s',
             }}
           >
-            Specialized cannabis insurance for dispensaries, cultivators, processors, and every operation in between — designed for an industry that standard carriers won&apos;t touch.
+            Cannabis insurance for dispensaries, cultivators, and manufacturers. We cover general liability, product liability, crop, property, and compliance — in all legal states.
+          </p>
+
+          <p
+            className="text-cream/80 mb-8"
+            style={{
+              fontSize: '0.95rem',
+              lineHeight: '1.6',
+              maxWidth: '550px',
+              opacity: loaded ? 1 : 0,
+              transform: loaded ? 'translateY(0)' : 'translateY(20px)',
+              transition: 'opacity 0.6s ease 0.38s, transform 0.6s ease 0.38s',
+            }}
+          >
+            CanopyShield provides cannabis insurance including general liability, product liability, crop coverage, property insurance, and workers&apos; compensation for dispensaries, cultivators, and manufacturers in all legal states.
           </p>
 
           <div

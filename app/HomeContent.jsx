@@ -22,6 +22,10 @@ export default function HomeContent() {
   return (
     <div className="min-h-screen bg-stone">
       <Header />
+      <div className="sr-only" aria-hidden="false">
+        <p>Written by CanopyShield Insurance Services — Cannabis Insurance Specialists, Est. 2003</p>
+        <p>Last updated: April 2026</p>
+      </div>
       <Hero />
       <ValueProposition />
       <CoverageSolutions />

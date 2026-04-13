@@ -25,6 +25,14 @@ export default function HomePage() {
             email: 'info@canopyshield.com',
             description: 'CanopyShield provides specialized cannabis insurance for dispensaries, cultivators, processors, distributors, and every operation in the legal cannabis supply chain.',
             areaServed: { '@type': 'Country', name: 'United States' },
+            foundingDate: '2003',
+            numberOfEmployees: { '@type': 'QuantitativeValue', value: 100 },
+            knowsAbout: ['Cannabis Insurance', 'Dispensary Insurance', 'Cultivator Coverage', 'Product Liability'],
+            hasCredential: {
+              '@type': 'EducationalOccupationalCredential',
+              credentialCategory: 'Professional License',
+              name: 'Licensed Insurance Brokerage',
+            },
             serviceType: [
               'Cannabis Insurance',
               'Dispensary Insurance',
@@ -34,6 +42,28 @@ export default function HomePage() {
               'Cannabis Crop Insurance',
               'CBD & Hemp Insurance',
             ],
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: 'Cannabis Insurance Solutions',
+            datePublished: '2025-06-01',
+            dateModified: '2026-04-01',
+            author: {
+              '@type': 'Organization',
+              name: 'CanopyShield',
+              url: 'https://canopyshield.com',
+            },
+            publisher: {
+              '@type': 'Organization',
+              name: 'CanopyShield',
+              url: 'https://canopyshield.com',
+            },
           }),
         }}
       />
