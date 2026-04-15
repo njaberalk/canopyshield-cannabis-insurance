@@ -2,6 +2,7 @@ import { Poppins } from 'next/font/google'
 import './globals.css'
 import QuoteModalProvider from './QuoteModalProvider'
 import ScrollToTop from './ScrollToTop'
+import FloatingUI from '../components/FloatingUI'
 
 const poppins = Poppins({
   subsets: ['latin'],
@@ -23,7 +24,7 @@ export const metadata = {
     siteName: 'CanopyShield',
     images: [
       {
-        url: 'https://images.pexels.com/photos/7667908/pexels-photo-7667908.jpeg?auto=compress&cs=tinysrgb&w=1200',
+        url: 'https://images.unsplash.com/photo-1503262028195-93c528f03218?auto=format&fit=crop&w=1200&h=630&q=80',
         width: 1200,
         height: 630,
         alt: 'CanopyShield — Cannabis Insurance',
@@ -34,7 +35,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Cannabis Insurance | CanopyShield',
     description: 'Specialized cannabis insurance for dispensaries, cultivators, processors, and the legal cannabis supply chain.',
-    images: ['https://images.pexels.com/photos/7667908/pexels-photo-7667908.jpeg?auto=compress&cs=tinysrgb&w=1200'],
+    images: ['https://images.unsplash.com/photo-1503262028195-93c528f03218?auto=format&fit=crop&w=1200&h=630&q=80'],
   },
   robots: {
     index: true,
@@ -59,6 +60,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={poppins.variable}>
       <head>
+        <link rel="preconnect" href="https://images.unsplash.com" />
+        <link rel="dns-prefetch" href="https://images.unsplash.com" />
         {/* Customer.io JavaScript snippet — configure CUSTOMERIO_SITE_ID in env */}
         <script dangerouslySetInnerHTML={{ __html: `
           var _cio = _cio || [];
@@ -81,6 +84,7 @@ export default function RootLayout({ children }) {
       <body style={{ fontFamily: 'var(--font-poppins), Poppins, sans-serif' }}>
         <ScrollToTop />
         <QuoteModalProvider />
+        <FloatingUI />
         {children}
       </body>
     </html>

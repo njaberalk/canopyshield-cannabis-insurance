@@ -62,6 +62,7 @@ export default async function StatePage({ params }) {
         <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       ))}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: state.name, datePublished: '2025-06-01', dateModified: '2026-04-01', author: { '@type': 'Organization', name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com' }, publisher: { '@type': 'Organization', name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com' } }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'LocalBusiness', '@id': `https://canopyshield.com/cannabis/states/${state.slug}/`, name: 'CanopyShield Insurance Services', url: 'https://canopyshield.com', telephone: '+18559255363', email: 'info@canopyshield.com', areaServed: { '@type': 'State', name: state.name }, priceRange: '$$' }) }} />
       <StatePageContent state={state} />
     </>
   );

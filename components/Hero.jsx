@@ -18,6 +18,7 @@ export default function Hero() {
           width={1920}
           height={1080}
           loading="eager"
+          fetchpriority="high"
           className="absolute inset-0 w-full h-full object-cover"
           style={{ opacity: 0.5, objectPosition: '50% 0%', filter: 'grayscale(100%)' }}
         />

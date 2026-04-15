@@ -1,5 +1,15 @@
 import Link from 'next/link';
 
+const moreInsuranceLinks = [
+  { label: 'Business Insurance', href: 'https://alkemeins.com/business-insurance' },
+  { label: 'Hospitality Insurance', href: 'https://alkemeins.com/hospitality' },
+  { label: 'Construction Insurance', href: 'https://alkemeins.com/construction' },
+  { label: 'Employee Benefits', href: 'https://alkemeins.com/employee-benefits' },
+  { label: 'Security Insurance', href: 'https://alkemeins.com/security' },
+  { label: 'Entertainment Insurance', href: 'https://alkemeins.com/entertainment' },
+  { label: 'Habitational Insurance', href: 'https://alkemeins.com/habitational' },
+];
+
 const coverageLinks = [
   { label: 'General Liability', href: '/coverage/general-liability/' },
   { label: 'Product Liability', href: '/coverage/product-liability/' },
@@ -30,7 +40,7 @@ export default function Footer() {
   return (
     <footer className="bg-stone">
       <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4" style={{ paddingTop: '6rem', paddingBottom: '3rem' }}>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-10 lg:gap-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-6 gap-10 lg:gap-8">
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-5 no-underline">
               <div className="w-8 h-8 bg-gold rounded-full flex items-center justify-center">
@@ -47,6 +57,7 @@ export default function Footer() {
             </div>
           </div>
           {[
+            { title: 'More Insurance', links: moreInsuranceLinks },
             { title: 'Coverage', links: coverageLinks },
             { title: 'Industries', links: industryLinks },
             { title: 'Resources', links: resourceLinks },
@@ -65,7 +76,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-ash">
-        <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4 py-6">
+        <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4 py-6 pb-20">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-brand/50 text-center" style={{ fontSize: '0.85rem', lineHeight: '1.5' }}>&copy; {new Date().getFullYear()} CanopyShield. All rights reserved.</p>
             <div className="flex items-center gap-6">
