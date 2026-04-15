@@ -1158,5 +1158,302 @@ export const statesPart1 = [
       "equipment-breakdown",
       "crime-theft"
     ]
+  },
+  {
+    "slug": "georgia",
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "legalStatus": "cbd-only",
+    "metaTitle": "Cannabis Insurance in Georgia | Hemp & CBD Coverage",
+    "metaDescription": "Cannabis business insurance for Georgia hemp and CBD operators. Coverage for cultivators, processors, and retailers in the Peach State's regulated market.",
+    "heroHeading": "Georgia Cannabis Insurance",
+    "heroSubheading": "Insurance for hemp, CBD, and cannabis-adjacent businesses in the Peach State.",
+    "overview": "Georgia has not legalized recreational cannabis and maintains a very limited medical program under the Georgia Access to Medical Cannabis Commission, which permits low-THC oil for qualifying patients. However, the state has a growing hemp and CBD industry following the 2018 federal Farm Bill and Georgia's own Hemp Farming Act. Operators cultivating hemp, manufacturing CBD products, and running retail CBD operations face distinct insurance needs. Georgia's large population, business-friendly environment, and agricultural base make it a significant market for hemp-derived products. Operators should prepare for a regulatory landscape that may evolve as neighboring states expand their cannabis programs.",
+    "sections": [
+      {
+        "heading": "Regulatory Landscape",
+        "content": "Georgia permits the use of low-THC oil (containing no more than 5% THC) for registered patients with qualifying conditions under Haleigh's Hope Act. The Georgia Access to Medical Cannabis Commission oversees the licensing of a small number of production facilities. Recreational cannabis remains illegal. Hemp cultivation is legal under the Georgia Hemp Farming Act, regulated by the Georgia Department of Agriculture. CBD products derived from compliant hemp are legal for sale, though operators must ensure THC content remains within federal limits. Local ordinances may impose additional restrictions on CBD retail locations."
+      },
+      {
+        "heading": "Market Conditions",
+        "content": "Georgia's hemp and CBD market benefits from the state's strong agricultural sector, warm climate suitable for outdoor hemp cultivation, and a population of over 10 million providing substantial retail demand. Atlanta serves as a major distribution hub for CBD products across the Southeast. The limited medical cannabis program restricts THC product availability, pushing consumer demand toward hemp-derived alternatives. As surrounding states like Florida expand their programs, Georgia operators must stay competitive while navigating uncertainty about future legalization."
+      },
+      {
+        "heading": "Key Risk Factors",
+        "content": "Georgia's climate exposes outdoor hemp cultivations to hurricanes, severe thunderstorms, and heat stress. The state's active tornado season creates property damage risk. Regulatory compliance risk is significant given the strict THC limits for hemp products. Product liability exposure is meaningful for CBD manufacturers, as the market includes ingestible and topical products. Georgia's busy transportation corridors create commercial auto exposure for distribution operations. The evolving legal status of cannabis in Georgia adds uncertainty to long-term business planning."
+      },
+      {
+        "heading": "Recommended Coverage",
+        "bullets": [
+          "General liability for hemp cultivation, CBD manufacturing, and retail operations",
+          "Product liability for CBD and hemp-derived products including ingestibles and topicals",
+          "Property insurance for cultivation facilities and processing operations",
+          "Crop insurance for outdoor hemp cultivation exposed to Georgia's severe weather",
+          "Commercial auto for product distribution across the Southeast",
+          "Workers compensation compliant with Georgia requirements",
+          "Crime and theft coverage for retail and cash-handling operations"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is cannabis legal in Georgia?",
+        "a": "Recreational cannabis is not legal in Georgia. The state permits low-THC oil for registered medical patients under Haleigh's Hope Act. Hemp cultivation and CBD product sales are legal under the Georgia Hemp Farming Act, provided products meet federal THC limits. Operators in the hemp and CBD space can legally operate with proper licensing and compliance."
+      },
+      {
+        "q": "What insurance do Georgia hemp and CBD businesses need?",
+        "a": "Georgia hemp and CBD operators need general liability, product liability for manufactured products, property coverage for facilities, and crop insurance for cultivation. Workers compensation is required for employers. CBD manufacturers face particular product liability exposure given the ingestible nature of many products. A cannabis-experienced broker can help navigate the coverage options available for Georgia's regulated market."
+      },
+      {
+        "q": "Will Georgia legalize recreational cannabis?",
+        "a": "There is no current legislation that would legalize recreational cannabis in Georgia, though the topic generates ongoing legislative discussion. Operators in the hemp and CBD space should build businesses that can adapt if legalization occurs. Insurance programs should be structured to accommodate potential expansion into THC products if regulations change."
+      }
+    ],
+    "recommendedCoverages": [
+      "general-liability",
+      "product-liability",
+      "property-insurance",
+      "crop-harvest",
+      "commercial-auto",
+      "workers-compensation",
+      "crime-theft"
+    ]
+  },
+  {
+    "slug": "idaho",
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "legalStatus": "not-legal",
+    "metaTitle": "Cannabis Insurance in Idaho | Hemp & CBD Coverage",
+    "metaDescription": "Cannabis business insurance for Idaho hemp operators. Coverage for cultivators and processors in one of the most restrictive cannabis states.",
+    "heroHeading": "Idaho Cannabis Insurance",
+    "heroSubheading": "Insurance for hemp and CBD-adjacent businesses in the Gem State.",
+    "overview": "Idaho has some of the strictest cannabis laws in the country, with no medical or recreational cannabis program. The state has historically prohibited all forms of cannabis including hemp, though federal legalization of hemp under the 2018 Farm Bill has created a complex legal environment. Idaho's zero-THC-tolerance policy means that even hemp-derived products must contain absolutely no detectable THC to be legal. Operators in Idaho's limited hemp market face unique compliance challenges. Businesses transporting hemp through Idaho or operating in the CBD space must navigate this strict regulatory framework carefully.",
+    "sections": [
+      {
+        "heading": "Regulatory Landscape",
+        "content": "Idaho prohibits recreational and medical cannabis entirely. The state's controlled substance laws have historically included all cannabis varieties. While the federal Farm Bill legalized hemp nationally, Idaho requires that hemp and hemp-derived products contain zero detectable THC, which is stricter than the federal 0.3% standard. The Idaho State Department of Agriculture oversees hemp research permits but commercial hemp cultivation remains heavily restricted. CBD products sold in Idaho must meet the state's zero-THC standard, creating compliance challenges for retailers and manufacturers."
+      },
+      {
+        "heading": "Market Conditions",
+        "content": "Idaho's cannabis market is extremely limited due to the state's prohibition stance. Neighboring states including Oregon, Washington, Nevada, and Montana all have legal recreational cannabis, creating cross-border dynamics. Some Idaho businesses operate in the CBD space with products verified to contain zero THC. The state's agricultural base could support hemp cultivation if regulations are relaxed. Idaho's population of approximately 1.9 million and its conservative political landscape suggest that significant cannabis reform may take longer than in many other states."
+      },
+      {
+        "heading": "Key Risk Factors",
+        "content": "The primary risk factor for cannabis-adjacent businesses in Idaho is regulatory compliance. The zero-THC standard means that any product testing above zero could result in criminal liability. Transportation of hemp through Idaho has resulted in seizures and legal disputes. Product liability risk is elevated because retailers must ensure absolute THC compliance. Idaho's rural geography and severe winter weather create property and transportation risks for agricultural operations. The hostile legal environment means that insurance options are more limited than in cannabis-friendly states."
+      },
+      {
+        "heading": "Recommended Coverage",
+        "bullets": [
+          "General liability for hemp-adjacent operations meeting Idaho's strict compliance standards",
+          "Product liability for CBD retailers ensuring zero-THC product compliance",
+          "Property insurance for agricultural and retail facilities",
+          "Commercial auto with coverage for goods-in-transit compliance risks",
+          "Workers compensation compliant with Idaho requirements",
+          "Professional liability for compliance consulting and testing services"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is any form of cannabis legal in Idaho?",
+        "a": "Idaho does not have a medical or recreational cannabis program. Hemp-derived products are only legal if they contain absolutely zero detectable THC, which is stricter than the federal standard. Operators must ensure complete compliance with Idaho's zero-tolerance policy to avoid criminal liability."
+      },
+      {
+        "q": "Can I transport hemp through Idaho?",
+        "a": "Transporting hemp through Idaho has been legally contentious. While federal law permits interstate hemp transport, Idaho's zero-THC standard has led to seizures of hemp shipments. Operators transporting hemp through Idaho should carry documentation of federal compliance, product testing results, and adequate goods-in-transit insurance coverage."
+      },
+      {
+        "q": "What insurance is available for Idaho CBD businesses?",
+        "a": "CBD businesses in Idaho can obtain general liability, product liability, and property coverage from carriers willing to write cannabis-adjacent risks in restrictive states. The zero-THC compliance requirement makes product liability coverage especially important. Working with a broker experienced in cannabis and hemp insurance is essential for finding coverage in Idaho's challenging regulatory environment."
+      }
+    ],
+    "recommendedCoverages": [
+      "general-liability",
+      "product-liability",
+      "property-insurance",
+      "commercial-auto",
+      "workers-compensation"
+    ]
+  },
+  {
+    "slug": "indiana",
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "legalStatus": "cbd-only",
+    "metaTitle": "Cannabis Insurance in Indiana | Hemp & CBD Coverage",
+    "metaDescription": "Cannabis business insurance for Indiana hemp and CBD operators. Coverage for cultivators, processors, and retailers in the Hoosier State.",
+    "heroHeading": "Indiana Cannabis Insurance",
+    "heroSubheading": "Insurance for hemp, CBD, and cannabis-adjacent businesses in the Hoosier State.",
+    "overview": "Indiana has not legalized medical or recreational cannabis, but the state has embraced hemp cultivation and CBD commerce following the 2018 federal Farm Bill. Indiana was among the first states to explicitly legalize CBD oil, and the state's agricultural sector has adapted to include hemp as a commercial crop. The Indiana State Department of Agriculture oversees the hemp program, and CBD products meeting federal THC limits are widely available. Indiana's central location, strong logistics infrastructure, and agricultural heritage create opportunities for hemp and CBD businesses despite the absence of a broader cannabis program.",
+    "sections": [
+      {
+        "heading": "Regulatory Landscape",
+        "content": "Indiana legalized CBD oil in 2018 under SEA 52, allowing the sale of CBD products containing no more than 0.3% THC. The state's hemp program is administered by the Indiana State Department of Agriculture under USDA guidelines. Hemp cultivation requires a license, and crops must meet THC testing requirements. Recreational and medical cannabis remain illegal. The Indiana Office of the Attorney General has provided guidance on lawful CBD product sales. Retailers must ensure products are properly labeled and sourced from licensed hemp operations."
+      },
+      {
+        "heading": "Market Conditions",
+        "content": "Indiana's CBD market has grown substantially since legalization, with products available in specialty shops, gas stations, pharmacies, and grocery stores. The state's population of approximately 6.8 million and its central location make it a meaningful market for CBD products. Indianapolis serves as a distribution hub for CBD products across the Midwest. Hemp cultivation is expanding as Indiana farmers diversify their crop portfolios. Neighboring Illinois has recreational cannabis, creating cross-border dynamics. The absence of a medical cannabis program means all THC products remain unavailable, driving demand for hemp-derived alternatives."
+      },
+      {
+        "heading": "Key Risk Factors",
+        "content": "Product liability is a primary concern for Indiana CBD operators, as the market includes ingestible, topical, and vape products. Quality control and THC compliance testing are essential to avoid regulatory issues. Indiana's severe weather including tornadoes, heavy storms, and flooding creates property and crop risk for cultivation operations. The logistics-heavy nature of Indiana's economy means commercial auto exposure is significant for distribution operations. Regulatory uncertainty persists as cannabis policy continues to evolve at state and federal levels."
+      },
+      {
+        "heading": "Recommended Coverage",
+        "bullets": [
+          "General liability for hemp cultivation, CBD manufacturing, and retail operations",
+          "Product liability for CBD products including edibles, topicals, and vape products",
+          "Property insurance for cultivation and manufacturing facilities",
+          "Crop insurance for hemp cultivation in Indiana's variable Midwest climate",
+          "Commercial auto for product distribution through Indiana's extensive highway network",
+          "Workers compensation compliant with Indiana requirements",
+          "Crime and theft coverage for retail operations"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is cannabis legal in Indiana?",
+        "a": "Recreational and medical cannabis are not legal in Indiana. CBD products derived from hemp containing no more than 0.3% THC are legal for sale and use. Hemp cultivation is permitted with a license from the Indiana State Department of Agriculture. Operators in the CBD and hemp space can legally operate with proper licensing and product compliance."
+      },
+      {
+        "q": "What insurance do Indiana CBD businesses need?",
+        "a": "Indiana CBD operators need general liability, product liability coverage for manufactured products, and property insurance. Retailers should carry product liability to protect against claims related to CBD products. Hemp cultivators need crop insurance and property coverage. Workers compensation is required for employers. A cannabis-experienced broker can identify carriers willing to write hemp and CBD risks in Indiana."
+      },
+      {
+        "q": "Could Indiana legalize medical or recreational cannabis?",
+        "a": "Cannabis legalization is discussed periodically in the Indiana General Assembly, but no legislation has advanced to legalization. Indiana's neighboring state Illinois legalized recreational cannabis in 2020, and Michigan also has a recreational program. CBD and hemp operators should structure their businesses and insurance programs to allow for expansion if Indiana's cannabis laws change in the future."
+      }
+    ],
+    "recommendedCoverages": [
+      "general-liability",
+      "product-liability",
+      "property-insurance",
+      "crop-harvest",
+      "commercial-auto",
+      "workers-compensation",
+      "crime-theft"
+    ]
+  },
+  {
+    "slug": "iowa",
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "legalStatus": "cbd-only",
+    "metaTitle": "Cannabis Insurance in Iowa | Hemp & CBD Coverage",
+    "metaDescription": "Cannabis business insurance for Iowa hemp and CBD operators. Coverage for cultivators, processors, and retailers in the Hawkeye State.",
+    "heroHeading": "Iowa Cannabis Insurance",
+    "heroSubheading": "Insurance for hemp, CBD, and cannabis-adjacent businesses in the Hawkeye State.",
+    "overview": "Iowa has a very limited medical cannabidiol program and has not legalized recreational cannabis. The state's Medical Cannabidiol Program allows registered patients to purchase cannabidiol products from licensed dispensaries, but the program is small in scope. Iowa legalized hemp cultivation under its state hemp program aligned with the 2018 federal Farm Bill. The Iowa Department of Agriculture and Land Stewardship oversees hemp licensing. Iowa's strong agricultural economy, central location, and growing hemp sector create insurance needs for operators in the legal cannabis-adjacent space.",
+    "sections": [
+      {
+        "heading": "Regulatory Landscape",
+        "content": "Iowa's Medical Cannabidiol Program is administered by the Iowa Department of Health and Human Services. The program permits a limited number of licensed manufacturers and dispensaries to produce and sell cannabidiol products to registered patients. THC content limits apply to products sold through the program. Recreational cannabis remains illegal. Hemp cultivation is legal under Iowa's hemp program, and CBD products derived from compliant hemp are available for retail sale. The Iowa Department of Agriculture and Land Stewardship licenses hemp growers and processors."
+      },
+      {
+        "heading": "Market Conditions",
+        "content": "Iowa's medical cannabidiol market is small, with only a handful of licensed dispensaries serving the state's patient population. The hemp and CBD retail market is more active, with products available through a variety of retail channels. Iowa's population of approximately 3.2 million and its agricultural economy provide a foundation for hemp cultivation. The state's central location supports distribution operations. Neighboring states with more expansive programs including Illinois and Minnesota create competitive dynamics and cross-border consumer behavior."
+      },
+      {
+        "heading": "Key Risk Factors",
+        "content": "Iowa's agricultural risks are significant for hemp cultivators, including severe thunderstorms, tornadoes, hail, flooding, and drought. The state's variable climate can challenge crop yields. Product liability exposure exists for CBD manufacturers and retailers. Regulatory compliance risk is present given the strict limits on Iowa's medical program. The rural nature of much of the state means longer emergency response times. Winter weather creates transportation challenges for product distribution."
+      },
+      {
+        "heading": "Recommended Coverage",
+        "bullets": [
+          "General liability for hemp cultivation, CBD manufacturing, and retail operations",
+          "Product liability for medical cannabidiol and hemp-derived CBD products",
+          "Property insurance for cultivation and processing facilities",
+          "Crop insurance critical for Iowa's weather-exposed hemp cultivation",
+          "Commercial auto for distribution operations",
+          "Workers compensation compliant with Iowa requirements",
+          "Equipment breakdown for processing and extraction equipment"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is cannabis legal in Iowa?",
+        "a": "Iowa has a limited Medical Cannabidiol Program allowing registered patients to purchase cannabidiol products from licensed dispensaries. Recreational cannabis is not legal. Hemp cultivation and CBD products derived from compliant hemp are legal. Operators in the hemp and CBD space can operate with proper licensing and product compliance."
+      },
+      {
+        "q": "What insurance do Iowa hemp and CBD businesses need?",
+        "a": "Iowa hemp and CBD operators need general liability, product liability, property coverage, and crop insurance for cultivation. Medical cannabidiol manufacturers and dispensaries face additional regulatory compliance requirements. Workers compensation is mandatory for employers. Given Iowa's severe weather exposure, crop and property coverage with adequate storm protection is essential."
+      },
+      {
+        "q": "How does Iowa's agricultural expertise benefit hemp operators?",
+        "a": "Iowa's extensive agricultural infrastructure, experienced farming workforce, and established crop insurance mechanisms provide advantages for hemp cultivation. However, hemp-specific crop insurance products may differ from traditional row crop coverage. Operators should work with insurance brokers familiar with both agricultural and cannabis-adjacent risks to structure appropriate coverage programs."
+      }
+    ],
+    "recommendedCoverages": [
+      "general-liability",
+      "product-liability",
+      "property-insurance",
+      "crop-harvest",
+      "commercial-auto",
+      "workers-compensation",
+      "equipment-breakdown"
+    ]
+  },
+  {
+    "slug": "kansas",
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "legalStatus": "cbd-only",
+    "metaTitle": "Cannabis Insurance in Kansas | Hemp & CBD Coverage",
+    "metaDescription": "Cannabis business insurance for Kansas hemp and CBD operators. Coverage for cultivators, processors, and retailers in the Sunflower State.",
+    "heroHeading": "Kansas Cannabis Insurance",
+    "heroSubheading": "Insurance for hemp, CBD, and cannabis-adjacent businesses in the Sunflower State.",
+    "overview": "Kansas has not legalized medical or recreational cannabis, maintaining strict prohibition on THC products. However, the state legalized hemp cultivation through the Alternative Crop Research Act and subsequent legislation aligned with the 2018 federal Farm Bill. The Kansas Department of Agriculture oversees hemp licensing. CBD products derived from compliant hemp are available for retail sale. Kansas's agricultural economy, central location, and growing interest in alternative crops create a developing market for hemp and CBD businesses that require specialized insurance coverage.",
+    "sections": [
+      {
+        "heading": "Regulatory Landscape",
+        "content": "Kansas prohibits recreational and medical cannabis. The state has no medical marijuana program, and possession of any amount of marijuana remains a criminal offense. Hemp cultivation is legal under the Kansas Commercial Industrial Hemp Program administered by the Kansas Department of Agriculture. Growers must be licensed and crops must test below the 0.3% THC threshold. CBD products derived from compliant hemp are legal for sale. Kansas has considered medical cannabis legislation in recent sessions, but no bill has been enacted."
+      },
+      {
+        "heading": "Market Conditions",
+        "content": "Kansas's hemp and CBD market is developing, supported by the state's strong agricultural sector and favorable growing conditions for hemp. The state's population of approximately 2.9 million provides a modest but meaningful retail market for CBD products. Kansas City (shared with Missouri, which has recreational cannabis) creates interesting cross-border dynamics. Wichita and other Kansas cities have active CBD retail markets. The absence of any cannabis program means all demand for cannabinoid products is met through the hemp-derived CBD market."
+      },
+      {
+        "heading": "Key Risk Factors",
+        "content": "Kansas is located in Tornado Alley, creating significant severe weather exposure for agricultural and commercial property. Hail, high winds, and tornadoes pose substantial risk to hemp crops and facilities. Drought conditions can also impact crop yields. Product liability exposure exists for CBD manufacturers given the ingestible and topical nature of many products. The state's strict cannabis prohibition means regulatory compliance is critical to avoid crossing into illegal territory. Transportation risks are present given Kansas's role as a crossroads for national freight."
+      },
+      {
+        "heading": "Recommended Coverage",
+        "bullets": [
+          "General liability for hemp cultivation, CBD manufacturing, and retail operations",
+          "Product liability for hemp-derived CBD products",
+          "Property insurance with tornado and severe weather coverage",
+          "Crop insurance critical for hemp cultivation in Tornado Alley",
+          "Commercial auto for product distribution",
+          "Workers compensation compliant with Kansas requirements",
+          "Equipment breakdown for processing and extraction operations"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is any form of cannabis legal in Kansas?",
+        "a": "Recreational and medical cannabis are not legal in Kansas. Hemp cultivation is legal under the Kansas Commercial Industrial Hemp Program, and CBD products derived from compliant hemp are legal for retail sale. All hemp products must contain no more than 0.3% THC. Kansas has considered but not enacted medical cannabis legislation."
+      },
+      {
+        "q": "What insurance do Kansas hemp and CBD businesses need?",
+        "a": "Kansas operators need general liability, product liability for CBD products, property insurance with severe weather coverage, and crop insurance for hemp cultivation. The state's location in Tornado Alley makes property and crop coverage especially important. Workers compensation is required for employers. A cannabis-experienced broker can help find carriers willing to write hemp and CBD risks in Kansas."
+      },
+      {
+        "q": "How does Kansas's severe weather affect cannabis insurance costs?",
+        "a": "Kansas's location in Tornado Alley means that property and crop insurance premiums reflect the elevated risk of tornadoes, hail, and severe thunderstorms. Hemp crops grown outdoors are particularly vulnerable. Operators should invest in weather-resistant facilities and carry adequate crop insurance with specific coverage for wind and hail damage. Indoor cultivation can reduce weather exposure but increases energy and equipment costs."
+      }
+    ],
+    "recommendedCoverages": [
+      "general-liability",
+      "product-liability",
+      "property-insurance",
+      "crop-harvest",
+      "commercial-auto",
+      "workers-compensation",
+      "equipment-breakdown"
+    ]
   }
 ];
