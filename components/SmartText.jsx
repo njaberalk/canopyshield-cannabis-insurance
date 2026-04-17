@@ -62,7 +62,7 @@ const LINK_MAP = [
   ['280E', '/resources/cannabis-insurance-glossary/'],
 
   // Tools
-  ['state legality', '/tools/fmcsa-checker/'],
+  ['state legality', '/tools/cannabis-coverage-checker/'],
   ['state requirements', '/tools/state-requirements/'],
 ];
 

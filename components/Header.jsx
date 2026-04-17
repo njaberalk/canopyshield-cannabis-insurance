@@ -19,7 +19,7 @@ const coverageItems = [
 
 const resourceItems = [
   { label: '— Tools —', href: null, divider: true },
-  { label: 'State Legality Checker', href: '/tools/fmcsa-checker/' },
+  { label: 'State Legality Checker', href: '/tools/cannabis-coverage-checker/' },
   { label: 'State Requirements Lookup', href: '/tools/state-requirements/' },
   { label: '— Guides —', href: null, divider: true },
   { label: 'Cannabis Insurance Cost', href: '/resources/cannabis-insurance-cost/' },
@@ -201,7 +201,7 @@ export default function Header() {
               <Link href={isHome ? '#states' : '/#states'} onClick={() => setMobileOpen(false)} className="block text-brand hover:text-blue-dark uppercase tracking-[0.16em] font-bold py-2 no-underline" style={{ fontSize: '0.75rem' }}>States & Cities</Link>
 
               <span className="block text-blue-dark uppercase tracking-[0.12em] font-bold pb-2 border-b border-ash mb-3 mt-4" style={{ fontSize: '0.65rem' }}>Tools & Resources</span>
-              <Link href="/tools/fmcsa-checker/" onClick={() => setMobileOpen(false)} className="block text-brand hover:text-blue-dark uppercase tracking-[0.12em] font-semibold py-2 no-underline" style={{ fontSize: '0.7rem' }}>State Legality Checker</Link>
+              <Link href="/tools/cannabis-coverage-checker/" onClick={() => setMobileOpen(false)} className="block text-brand hover:text-blue-dark uppercase tracking-[0.12em] font-semibold py-2 no-underline" style={{ fontSize: '0.7rem' }}>State Legality Checker</Link>
               <Link href="/tools/state-requirements/" onClick={() => setMobileOpen(false)} className="block text-brand hover:text-blue-dark uppercase tracking-[0.12em] font-semibold py-2 no-underline" style={{ fontSize: '0.7rem' }}>State Requirements Lookup</Link>
               <Link href="/resources/cannabis-insurance-cost/" onClick={() => setMobileOpen(false)} className="block text-brand hover:text-blue-dark uppercase tracking-[0.12em] font-semibold py-2 no-underline" style={{ fontSize: '0.7rem' }}>Cannabis Insurance Cost</Link>
               <Link href="/resources/starting-dispensary-insurance/" onClick={() => setMobileOpen(false)} className="block text-brand hover:text-blue-dark uppercase tracking-[0.12em] font-semibold py-2 no-underline" style={{ fontSize: '0.7rem' }}>Starting a Dispensary</Link>

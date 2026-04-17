@@ -118,7 +118,7 @@ export default function StateRequirementsContent() {
                   <span className="text-blue-dark uppercase tracking-[0.12em] font-bold block mb-1" style={{ fontSize: '0.65rem' }}>Detailed Info</span>
                   <span className="text-brand font-bold block" style={{ fontSize: '0.9rem' }}>Cannabis Insurance in {result.state} →</span>
                 </Link>
-                <Link href="/tools/fmcsa-checker/" className="block border-2 border-ash rounded-[2rem] p-5 hover:border-blue-dark no-underline" style={{ transition: 'all 0.24s' }}>
+                <Link href="/tools/cannabis-coverage-checker/" className="block border-2 border-ash rounded-[2rem] p-5 hover:border-blue-dark no-underline" style={{ transition: 'all 0.24s' }}>
                   <span className="text-blue-dark uppercase tracking-[0.12em] font-bold block mb-1" style={{ fontSize: '0.65rem' }}>Tool</span>
                   <span className="text-brand font-bold block" style={{ fontSize: '0.9rem' }}>Cannabis Legality & Coverage Checker →</span>
                 </Link>
